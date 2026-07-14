@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4e753ac4-580e-447a-b828-7025703de482")
+	(paper "A3")
+	(title_block
+		(title "DC-SCM Server Integration DC-SCM Debug Interposer")
+		(date "2026-07-14")
+		(rev "1.0.0")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
