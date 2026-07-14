@@ -1182,6 +1182,30 @@
       "/DC-SCI gold fingers connector/DC_SCM_USB2{USB}": [
         "90Ohm-diff"
       ],
+      "/Flash/DC_SCM_QSPI.IO0": [
+        "50Ohm-se"
+      ],
+      "/Flash/DC_SCM_QSPI.IO1": [
+        "50Ohm-se"
+      ],
+      "/Flash/DC_SCM_QSPI.IO2": [
+        "50Ohm-se"
+      ],
+      "/Flash/DC_SCM_QSPI.IO3": [
+        "50Ohm-se"
+      ],
+      "/Flash/DC_SCM_QSPI.SCK": [
+        "50Ohm-se"
+      ],
+      "/Flash/DC_SCM_QSPI.~{CS0}": [
+        "50Ohm-se"
+      ],
+      "/Flash/DC_SCM_QSPI.~{CS1}": [
+        "50Ohm-se"
+      ],
+      "/Flash/DC_SCM_QSPI{QSPI}": [
+        "50Ohm-se"
+      ],
       "/Peripherals/DC-SCM_CLK_100M_0.CLK+": [
         "85Ohm-diff"
       ],
@@ -1754,7 +1778,7 @@
         "uuid": "4e753ac4-580e-447a-b828-7025703de482"
       }
     ],
-    "used_designators": "Q2-3,D4,D10,TP1-29,R1-131,J1-4,J6,J8-9,J12-16,J20,#PWR1-2,#PWR25-26,#PWR30,#PWR32,#PWR36-40,#PWR64-72,#PWR74-75,#PWR86,#PWR88-89,#PWR93-94,#FLG2-7,#FLG9-10",
+    "used_designators": "L1,L7-8,U1-3,U7-8,FD1-8,Q2-3,C1-7,C31-39,C305-306,D4,D10-11,TP1-35,R1-142,R317-320,J1-4,J6,J8-9,J12-16,J20-23,#PWR1-2,#PWR25-26,#PWR30,#PWR32-44,#PWR64-72,#PWR74-75,#PWR86,#PWR88-90,#PWR93-94,#PWR138-139,#PWR620-639,#FLG2-7,#FLG9-10,#FLG24-25",
     "variants": []
   },
   "sheets": [
@@ -1773,6 +1797,10 @@
     [
       "9f13f810-90a8-48dc-abdf-4cc7eee419b8",
       "Peripherals"
+    ],
+    [
+      "5a241f79-19ee-4794-a185-a01140921277",
+      "Flash"
     ]
   ],
   "text_variables": {},
