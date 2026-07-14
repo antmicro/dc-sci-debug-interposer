@@ -12,221 +12,6 @@
 		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
-		(symbol "antmicroGenericPinHeaders:PinHeader_1x2_P1.27mm_Drill0.7mm"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 12.065 -3.175 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "PinHeader_1x2_P1.27mm_Drill0.7mm"
-				(at 12.065 -5.715 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "antmicro-footprints:PinHeader_1x2_P1.27mm_Drill0.7mm"
-				(at 12.065 -8.255 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Datasheet" "http://www.farnell.com/datasheets/2605295.pdf"
-				(at 12.065 -10.795 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Description" "Rectangular connector (header, female pins)"
-				(at 12.065 -23.495 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "MPN" "MC-HVT1-S02-G"
-				(at 12.065 -13.335 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Manufacturer" "Multicomp Pro"
-				(at 12.065 -15.875 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Author" "Antmicro"
-				(at 12.065 -18.415 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "License" "Apache-2.0"
-				(at 12.065 -20.955 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "ki_keywords" "CONNECTOR, RoHS"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "PinHeader_1x2_P1.27mm_Drill0.7mm_1_1"
-				(rectangle
-					(start 4.191 -0.254)
-					(end 3.683 0.254)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 4.191 -2.794)
-					(end 3.683 -2.286)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 5.08 -3.81)
-					(end 2.54 1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 5.08 -3.81)
-					(end 5.08 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "antmicroGenericPinHeaders:PinHeader_2x10_P1.27mm_SMD_Shrouded"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3565,12 +3350,6 @@
 		(uuid "16111262-af9d-4b43-abe3-c39af36b8ac6")
 	)
 	(junction
-		(at 226.06 199.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26c74472-c813-4eee-9161-d05bb30d6c87")
-	)
-	(junction
 		(at 106.68 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3581,6 +3360,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "334bd5e2-62e1-4389-93f7-8bec96579b90")
+	)
+	(junction
+		(at 226.06 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "41b49625-372e-47d9-9589-798f68865666")
 	)
 	(junction
 		(at 330.2 48.26)
@@ -3598,7 +3383,7 @@
 		(at 226.06 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c127d6f6-c263-4c50-9838-8f09012f7583")
+		(uuid "add9911a-a9d3-446a-8e87-024b265b5154")
 	)
 	(no_connect
 		(at 91.44 182.88)
@@ -4652,13 +4437,13 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 199.39) (xy 226.06 199.39)
+			(xy 226.06 199.39) (xy 226.06 196.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "04b02b76-8c59-48b3-9552-3e81b12fce3a")
+		(uuid "0564969a-3b7b-40da-9b26-2e2b03827c4e")
 	)
 	(bus
 		(pts
@@ -4699,16 +4484,6 @@
 			(type default)
 		)
 		(uuid "0759c791-2387-4756-9f17-9503a9e56387")
-	)
-	(wire
-		(pts
-			(xy 226.06 147.32) (xy 226.06 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0860301f-ae35-44c4-b3ea-4f34f442109c")
 	)
 	(wire
 		(pts
@@ -4979,6 +4754,16 @@
 			(type default)
 		)
 		(uuid "1b0f93a8-1797-4152-a121-3121d3569e2e")
+	)
+	(wire
+		(pts
+			(xy 60.96 222.25) (xy 62.23 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e1eff5e-92dc-4128-93be-9deb55e5a3c6")
 	)
 	(wire
 		(pts
@@ -5339,6 +5124,16 @@
 			(type default)
 		)
 		(uuid "32e1c649-7aaa-4e94-a8dc-f637ed5caf77")
+	)
+	(wire
+		(pts
+			(xy 226.06 199.39) (xy 229.87 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "332d0b67-228e-466e-bf18-9e3b3686130a")
 	)
 	(bus
 		(pts
@@ -5820,6 +5615,16 @@
 		)
 		(uuid "5319fa8c-e8a1-4ef0-ad73-1f3035692be1")
 	)
+	(wire
+		(pts
+			(xy 321.31 43.18) (xy 332.74 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53253880-21e5-4f52-b796-a40101d84a41")
+	)
 	(bus
 		(pts
 			(xy 259.08 242.57) (xy 259.08 245.11)
@@ -5839,6 +5644,16 @@
 			(type default)
 		)
 		(uuid "5479f2a7-a383-4fb4-811a-8dbfa153003b")
+	)
+	(wire
+		(pts
+			(xy 224.79 196.85) (xy 226.06 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54f5a62f-5f83-4088-8dbc-dc75167d227b")
 	)
 	(bus
 		(pts
@@ -5889,16 +5704,6 @@
 			(type default)
 		)
 		(uuid "57db840b-c2bb-4f59-be2d-3fa85f014700")
-	)
-	(wire
-		(pts
-			(xy 323.85 40.64) (xy 321.31 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58491381-10d1-4263-a489-7efb781760cd")
 	)
 	(bus
 		(pts
@@ -5969,16 +5774,6 @@
 			(type default)
 		)
 		(uuid "5d8d2262-5955-4eb4-b4dc-ca62823d5832")
-	)
-	(wire
-		(pts
-			(xy 321.31 43.18) (xy 332.74 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e66d2bc-526a-4f19-81e1-957d30a00c4a")
 	)
 	(wire
 		(pts
@@ -6089,16 +5884,6 @@
 			(type default)
 		)
 		(uuid "656b2df1-c25e-4f8d-80cc-3be072ee26e9")
-	)
-	(wire
-		(pts
-			(xy 226.06 144.78) (xy 226.06 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6597a627-9df9-4def-adec-a943832bde55")
 	)
 	(wire
 		(pts
@@ -6282,6 +6067,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 222.25) (xy 62.23 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73513411-a549-4514-85a0-dbd69ce624fc")
+	)
+	(wire
+		(pts
 			(xy 214.63 53.34) (xy 212.09 53.34)
 		)
 		(stroke
@@ -6299,16 +6094,6 @@
 			(type default)
 		)
 		(uuid "73f5715f-c40e-4697-a140-2e6a2f9eead0")
-	)
-	(wire
-		(pts
-			(xy 62.23 222.25) (xy 62.23 224.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "752daf84-b0c8-44d5-b1e4-daf71a7a57d1")
 	)
 	(wire
 		(pts
@@ -6549,6 +6334,16 @@
 			(type default)
 		)
 		(uuid "7d0cb774-9ac9-491d-afc3-006b1d351048")
+	)
+	(wire
+		(pts
+			(xy 224.79 147.32) (xy 226.06 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d1667d1-1c6e-4a83-a14b-24597be0d357")
 	)
 	(bus
 		(pts
@@ -7030,6 +6825,16 @@
 		)
 		(uuid "aa27ec9b-9669-4fdb-8b8b-f7a947eb46ab")
 	)
+	(wire
+		(pts
+			(xy 115.57 220.98) (xy 116.84 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aacc9b66-5613-467d-8b73-5c1a4d9e13f3")
+	)
 	(bus
 		(pts
 			(xy 182.88 138.43) (xy 182.88 140.97)
@@ -7280,16 +7085,6 @@
 		)
 		(uuid "b9c80049-eff5-42e8-bc35-befb2ed3a83a")
 	)
-	(wire
-		(pts
-			(xy 224.79 196.85) (xy 226.06 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9f857e8-e812-4be5-a6a5-3838515635cb")
-	)
 	(bus
 		(pts
 			(xy 123.19 69.85) (xy 119.38 69.85)
@@ -7339,6 +7134,16 @@
 			(type default)
 		)
 		(uuid "bccfe396-2fd3-490d-b88c-46679dd52443")
+	)
+	(wire
+		(pts
+			(xy 224.79 199.39) (xy 226.06 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdaff256-3e33-43d6-b66e-5dee454c5e6b")
 	)
 	(bus
 		(pts
@@ -7489,6 +7294,16 @@
 			(type default)
 		)
 		(uuid "c5acdf1a-ceda-469b-a5e5-b199b4ce0fc5")
+	)
+	(wire
+		(pts
+			(xy 226.06 147.32) (xy 229.87 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c75a70b5-8830-4956-a315-d830648abe4c")
 	)
 	(bus
 		(pts
@@ -7762,6 +7577,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 147.32) (xy 226.06 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d80a198f-b865-4905-82a4-2bfcca4d7aec")
+	)
+	(wire
+		(pts
 			(xy 312.42 236.22) (xy 332.74 236.22)
 		)
 		(stroke
@@ -7799,16 +7624,6 @@
 			(type default)
 		)
 		(uuid "da080cc2-f797-48b8-ac50-16341c065cf0")
-	)
-	(wire
-		(pts
-			(xy 224.79 147.32) (xy 226.06 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da69ae59-685d-4971-8083-f2fab9f4cfa5")
 	)
 	(wire
 		(pts
@@ -7859,16 +7674,6 @@
 			(type default)
 		)
 		(uuid "dda3a10d-d8a3-44be-8fb2-31ae5099decf")
-	)
-	(wire
-		(pts
-			(xy 323.85 38.1) (xy 323.85 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "deb74d4a-8b08-43b5-a003-f5d0712e73f2")
 	)
 	(bus
 		(pts
@@ -7960,16 +7765,6 @@
 		)
 		(uuid "e5917183-6069-42d9-af65-9bec77a43232")
 	)
-	(wire
-		(pts
-			(xy 226.06 196.85) (xy 226.06 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e645458c-d594-40fd-95e6-6a1c29f4e1db")
-	)
 	(bus
 		(pts
 			(xy 257.81 44.45) (xy 257.81 46.99)
@@ -7999,16 +7794,6 @@
 			(type default)
 		)
 		(uuid "e7ea89fd-435f-4de1-981b-64658ffd73a7")
-	)
-	(wire
-		(pts
-			(xy 226.06 199.39) (xy 226.06 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7f10e9c-2cc3-4559-89dc-f2662b15e22f")
 	)
 	(wire
 		(pts
@@ -9430,6 +9215,16 @@
 		)
 		(uuid "edc528e1-3230-4ffe-b169-b9f2161f1aaa")
 	)
+	(label "3V3_TEST"
+		(at 322.58 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f08048f5-befa-4579-9646-6e9b84ef05d9")
+	)
 	(label "DC_SCM_TPM_SPI.SCK"
 		(at 184.15 43.18 0)
 		(effects
@@ -9680,6 +9475,17 @@
 		)
 		(uuid "48cec0e8-883a-4e89-948a-fcf39e873385")
 	)
+	(hierarchical_label "DC_SCM_12V_AUX"
+		(shape input)
+		(at 115.57 220.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4aae9bdb-2cc4-4a66-9478-db1663c20637")
+	)
 	(hierarchical_label "DC_SCM_ESPI{eSPI}"
 		(shape bidirectional)
 		(at 265.43 85.09 0)
@@ -9789,6 +9595,17 @@
 			(justify left)
 		)
 		(uuid "6f3096e6-5bb9-4df8-8993-3b44acd9c1ec")
+	)
+	(hierarchical_label "DC_SCM_12V_AUX"
+		(shape input)
+		(at 60.96 222.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "722b1cd8-edd8-44f9-9984-190af5b6fe59")
 	)
 	(hierarchical_label "DC_SCM_I2C_I3C12{I2C}"
 		(shape bidirectional)
@@ -10891,7 +10708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f5c3b52-1ef2-4173-bdd7-8ca24a11a2c0")
-		(property "Reference" "D4"
+		(property "Reference" "D1"
 			(at 64.77 233.68 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11026,7 +10843,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "D4")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -11330,119 +11147,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicropower:GND")
-		(at 226.06 200.66 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ccf7b31-8758-4c04-940e-cb5006c99580")
-		(property "Reference" "#PWR044"
-			(at 217.17 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "GND"
-			(at 226.06 205.74 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 208.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" ""
-			(at 217.17 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 217.17 208.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 217.17 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "c8da2202-7ae9-4ddb-a9ec-68b6e24377fa")
-		)
-		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
-				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "#PWR044")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicroResistors0402:R_100k_0402")
 		(at 106.68 255.27 90)
 		(unit 1)
@@ -11715,6 +11419,118 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:+3V3")
+		(at 229.87 147.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "33405cc2-3e56-4ca4-87e9-dcf8eb522358")
+		(property "Reference" "#PWR095"
+			(at 245.11 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 227.33 143.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 245.11 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 245.11 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 245.11 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 245.11 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "af4c64a2-0597-4f36-a274-1f05ff3e6028")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -12408,118 +12224,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicropower:+3V3")
-		(at 62.23 222.25 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "471618d4-d823-44f7-93e3-0d9457211e86")
-		(property "Reference" "#PWR086"
-			(at 77.47 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 62.23 217.17 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 77.47 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" ""
-			(at 77.47 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 77.47 224.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 77.47 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "b132b45f-c7cc-4261-9510-047a6f32f940")
-		)
-		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
-				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "#PWR086")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicropower:GND")
 		(at 80.01 124.46 270)
 		(unit 1)
@@ -12643,7 +12347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a5f3f75-e005-4dff-9b87-ae4db0e96231")
-		(property "Reference" "D10"
+		(property "Reference" "D2"
 			(at 119.38 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12778,7 +12482,119 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "D10")
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:+3V3")
+		(at 229.87 199.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "51a11fec-e961-45aa-bf5f-19302db3be76")
+		(property "Reference" "#PWR096"
+			(at 245.11 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 227.33 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 245.11 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 245.11 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 245.11 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 245.11 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "fdbf3c14-4276-48a1-9f7d-de5efea7405d")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -13025,6 +12841,140 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_1mm_SMD")
+		(at 321.31 43.18 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5367c588-48c2-4ccf-96cd-2e0a850edb4c")
+		(property "Reference" "TP36"
+			(at 314.96 43.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TP_1mm_SMD"
+			(at 306.07 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_SMD_1mm"
+			(at 306.07 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 303.53 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Test point 1mm SMD"
+			(at 306.07 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 321.31 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 321.31 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 306.07 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 306.07 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "ed1aa028-93c6-44d8-abcb-0b68862b8a9d")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
+					(reference "TP36")
 					(unit 1)
 				)
 			)
@@ -15442,118 +15392,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicropower:+3V3")
-		(at 323.85 38.1 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7dad77e8-40ab-4c12-98f5-0fe49ff594d0")
-		(property "Reference" "#PWR037"
-			(at 339.09 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 323.85 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 339.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 339.09 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" ""
-			(at 339.09 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 339.09 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 339.09 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "b4a53b80-a32c-4153-b1f6-efb9a8e9e7b7")
-		)
-		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
-				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicropower:GND")
 		(at 212.09 53.34 270)
 		(unit 1)
@@ -15660,119 +15498,6 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR072")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicropower:GND")
-		(at 226.06 148.59 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8951643d-1289-4eab-945c-93af85cff3c7")
-		(property "Reference" "#PWR041"
-			(at 217.17 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "GND"
-			(at 226.06 153.67 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" ""
-			(at 217.17 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 217.17 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 217.17 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "02d95405-01a0-4b46-ae92-bea9434a68ec")
-		)
-		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
-				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -16399,118 +16124,6 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR065")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicropower:+3V3")
-		(at 116.84 220.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9965764f-9140-4730-a4dc-c665e882bd4e")
-		(property "Reference" "#PWR088"
-			(at 132.08 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 116.84 215.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" ""
-			(at 132.08 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 132.08 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 132.08 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "59f3eebb-145c-47b4-a3fa-088bc459f892")
-		)
-		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
-				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -17322,148 +16935,6 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroGenericPinHeaders:PinHeader_1x2_P1.27mm_Drill0.7mm")
-		(at 321.31 40.64 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a3b5f136-c679-4ac0-8262-db27c3f925aa")
-		(property "Reference" "J8"
-			(at 314.96 40.6399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PinHeader_1x2_P1.27mm_Drill0.7mm"
-			(at 309.245 46.355 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:PinHeader_1x2_P1.27mm_Drill0.7mm"
-			(at 309.245 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "http://www.farnell.com/datasheets/2605295.pdf"
-			(at 309.245 51.435 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Rectangular connector (header, female pins)"
-			(at 309.245 64.135 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "MC-HVT1-S02-G"
-			(at 314.96 43.1799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Multicomp Pro"
-			(at 309.245 56.515 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 309.245 59.055 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 309.245 61.595 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "1e12a882-a9b6-48ac-89e6-17c66a751e22")
-		)
-		(pin "2"
-			(uuid "aed9bbd2-670f-458b-bd66-7baf5e37b06a")
-		)
-		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
-				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
-					(reference "J8")
 					(unit 1)
 				)
 			)
