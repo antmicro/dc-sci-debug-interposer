@@ -9734,7 +9734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14f01d2b-8aab-4689-b2eb-95e02ede159c")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 282.575 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10355,7 +10355,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
-					(reference "J1")
+					(reference "J2")
 					(unit 4)
 				)
 			)
@@ -10373,7 +10373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21483f29-1c4e-4514-96c4-fd1d8ffea7e8")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 118.745 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10994,7 +10994,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
-					(reference "J1")
+					(reference "J2")
 					(unit 2)
 				)
 			)
@@ -11012,7 +11012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fa6feed-7e50-4f9e-9720-a5be16c131c4")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG04"
 			(at 83.82 33.655 0)
 			(hide yes)
 			(show_name no)
@@ -11073,7 +11073,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
-					(reference "#FLG03")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -11091,7 +11091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65216280-4415-4582-806e-ed4eb861dc11")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR02"
 			(at 95.25 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11185,7 +11185,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
-					(reference "#PWR039")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -11203,7 +11203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76a537cd-d256-485b-9d0c-93b4266ba832")
-		(property "Reference" "#FLG06"
+		(property "Reference" "#FLG03"
 			(at 77.47 40.005 0)
 			(hide yes)
 			(show_name no)
@@ -11264,7 +11264,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
-					(reference "#FLG06")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -11282,7 +11282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8255d645-ed4d-44ce-ae12-be90e6d6996e")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 118.745 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11903,7 +11903,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -11921,7 +11921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3a459a9-dacd-466d-bf55-48569d3fe85a")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 118.745 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12542,7 +12542,7 @@
 		(instances
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
-					(reference "J1")
+					(reference "J2")
 					(unit 3)
 				)
 			)
