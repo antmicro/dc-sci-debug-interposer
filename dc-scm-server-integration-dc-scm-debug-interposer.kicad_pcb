@@ -153,7 +153,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -194,7 +193,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "007bbb0a-df2e-4726-b366-bb643804ca07")
-		(at -65.205 170.525)
+		(at 135.615 148.69)
 		(property "Reference" "TP23"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -380,7 +379,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "00e99aea-798f-4c58-911f-1a0095c40227")
-		(at -69.705 161.525)
+		(at 131.115 139.69)
 		(property "Reference" "TP7"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -1304,7 +1303,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "07e9b8a2-154c-44c9-aef3-fbb55f1a31bb")
-		(at 148.7 87.605 90)
+		(at 143.35 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R46"
@@ -1673,7 +1672,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "08209d7f-671f-40da-a65a-c56b2e5dba60")
-		(at -67.455 161.525)
+		(at 133.365 139.69)
 		(property "Reference" "TP13"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -1859,7 +1858,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "0979dc0f-338e-4b0f-815b-30a9be810564")
-		(at 130.3 87.67 90)
+		(at 133.7 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R91"
@@ -1871,7 +1870,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -1883,7 +1882,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -1911,7 +1910,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1924,7 +1923,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1937,7 +1936,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1950,7 +1949,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1963,7 +1962,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1976,7 +1975,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1989,7 +1988,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -2059,84 +2058,14 @@
 			(uuid "d0f06e95-9b99-4107-877b-9c688722e5ea")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "20647970-36fb-4d5d-87b1-87bb83deeadf")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "87644319-95db-4950-8dd6-fd7401fcc26d")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "25e6f32a-fbb2-4b47-942e-c51455efa78a")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "5cb5d02b-43ef-4a9f-aadf-c6230c6b5426")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "72844487-3b5e-442a-b4d0-ab2ff1416b55")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "be2f9703-7375-45d6-93dd-f41a57c704a7")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "7475d9df-57cf-4f7c-bd55-d927d5d97405")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "826211c6-d455-4eb1-bf52-c30d3a97d3c5")
+			(uuid "4a449900-3fc9-48da-97c9-ae5cea217ac3")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -2149,25 +2078,95 @@
 			(uuid "34f78e7e-1229-414c-b3a3-d8b824bf1aae")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "826211c6-d455-4eb1-bf52-c30d3a97d3c5")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "7475d9df-57cf-4f7c-bd55-d927d5d97405")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "be2f9703-7375-45d6-93dd-f41a57c704a7")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "72844487-3b5e-442a-b4d0-ab2ff1416b55")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "5cb5d02b-43ef-4a9f-aadf-c6230c6b5426")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "4a449900-3fc9-48da-97c9-ae5cea217ac3")
+			(uuid "25e6f32a-fbb2-4b47-942e-c51455efa78a")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "87644319-95db-4950-8dd6-fd7401fcc26d")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "20647970-36fb-4d5d-87b1-87bb83deeadf")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "ce9a6276-109d-4160-bcf7-14d2d8e1053e")
+			(uuid "f668fe70-4da1-48a3-86f3-f440182373ea")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -2179,23 +2178,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "f668fe70-4da1-48a3-86f3-f440182373ea")
+			(uuid "ce9a6276-109d-4160-bcf7-14d2d8e1053e")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -2204,7 +2203,7 @@
 			(uuid "7e33afc8-9fb2-42d8-af8f-5b0b08188648")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -2228,7 +2227,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "097bba1e-cba6-403c-9191-5855ae28d9d3")
-		(at -76.97 178.231)
+		(at 123.85 156.396)
 		(property "Reference" "J13"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -3647,7 +3646,7 @@
 	(footprint "antmicro-footprints:LED_0402_1005Metric_G"
 		(layer "F.Cu")
 		(uuid "09da30ca-78dd-46b8-b620-e01454972c23")
-		(at -55.205 164.755)
+		(at 145.615 142.92)
 		(property "Reference" "D1"
 			(at 0 -0.6 0)
 			(unlocked yes)
@@ -4132,11 +4131,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "0a0a4e06-ff36-44f9-bcbd-2376ddd3560a")
-		(at 218.66 81.68)
+		(at 117.35 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R105"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "dc258a75-9813-4a1e-9125-3e8fc50a883a")
 			(effects
@@ -4144,11 +4143,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "b1b4c1e3-3849-4f05-ad85-b3d2761cee3b")
 			(effects
@@ -4156,11 +4155,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fdc0c2e3-b9d6-41b0-a011-dd11df0f1b66")
@@ -4172,7 +4171,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cb6b20d5-6b96-4cbf-936c-c1f65cc356db")
@@ -4184,7 +4183,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4197,7 +4196,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4210,7 +4209,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4223,7 +4222,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4236,7 +4235,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4249,7 +4248,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4262,7 +4261,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4342,16 +4341,6 @@
 			(uuid "bd88c5e5-be72-4566-a29f-0ce971394040")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "0ff32469-e4a9-43c2-af21-d1373b44a423")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -4372,24 +4361,24 @@
 			(uuid "2211d612-4175-4ba3-b9b0-ea890943c94f")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "f64f9116-eb23-4a6e-b7aa-fd85296757bc")
+			(uuid "ade533f4-6308-4494-a5d0-db8b223d2955")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "d17d3127-bcb5-4774-b0f3-ae25c2766bca")
+			(uuid "0b03fd3d-313a-4387-a792-e2844c83b508")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -4402,14 +4391,34 @@
 			(uuid "c55141ff-0127-4b3e-be83-2d75aa13e06c")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "ade533f4-6308-4494-a5d0-db8b223d2955")
+			(uuid "d17d3127-bcb5-4774-b0f3-ae25c2766bca")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "0ff32469-e4a9-43c2-af21-d1373b44a423")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "f64f9116-eb23-4a6e-b7aa-fd85296757bc")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -4421,42 +4430,8 @@
 			(layer "User.9")
 			(uuid "23ef635c-e128-458b-b6b6-532d2b3fa858")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "0b03fd3d-313a-4387-a792-e2844c83b508")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "734e1054-8073-4b9a-9225-31d5b3c3fb4f")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "95f21a0d-a067-4370-a0ce-18b230c68193")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "f5e85612-e796-4f78-8dfb-b4e3c933b672")
 			(effects
@@ -4464,11 +4439,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "95f21a0d-a067-4370-a0ce-18b230c68193")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "734e1054-8073-4b9a-9225-31d5b3c3fb4f")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -4477,7 +4476,7 @@
 			(uuid "b605852b-afeb-434b-a618-eb635e4a3373")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -4501,7 +4500,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "0fb1d56d-4fb0-4e90-9809-8b308172987f")
-		(at -69.705 168.275)
+		(at 131.115 146.44)
 		(property "Reference" "TP10"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -4687,11 +4686,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "10524968-de61-4968-9892-9919194fd00e")
-		(at 195.46 83.67)
+		(at 147.1 80.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R2"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "0bb6120d-3ecc-49b9-9a71-9ed2260c4ce2")
 			(effects
@@ -4703,7 +4702,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "34b400ed-f4b3-4a72-ac04-c130ec91ed78")
 			(effects
@@ -4715,7 +4714,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d8bd0506-4706-4026-bb08-8d4e41f22533")
@@ -4727,7 +4726,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "10a6c022-9541-40c4-9ddf-944e2a09e32a")
@@ -4739,7 +4738,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4752,7 +4751,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4765,7 +4764,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4778,7 +4777,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4791,7 +4790,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4804,7 +4803,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4817,7 +4816,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4887,44 +4886,14 @@
 			(uuid "ed514f3f-f710-41f7-a2bf-1f45280a14b8")
 		)
 		(fp_line
-			(start -0.5 0.248)
-			(end -0.5 -0.25)
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "29089f0b-d48a-4d8b-91ba-80536b88d744")
-		)
-		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "91a111aa-e052-46f0-9758-beb1a4e75658")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.5 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "b29003d7-fb96-4e20-9fba-93af8027c8fe")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "d7a7da4b-3388-4f52-a0de-c7bf5eadb104")
+			(uuid "b652ff86-ed32-490f-8519-2d8aaab75b4d")
 		)
 		(fp_line
 			(start 0.248 -0.25)
@@ -4935,6 +4904,16 @@
 			)
 			(layer "User.9")
 			(uuid "58930083-c250-4c6c-9482-d31b7721f5c1")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "91a111aa-e052-46f0-9758-beb1a4e75658")
 		)
 		(fp_line
 			(start 0.248 -0.232)
@@ -4957,6 +4936,16 @@
 			(uuid "3d69a747-e2ca-488e-a7f6-41547e991d99")
 		)
 		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "6a343e6c-120d-4e8f-be2a-828465fef28d")
+		)
+		(fp_line
 			(start 0.248 0.248)
 			(end 0.498 0.248)
 			(stroke
@@ -4967,27 +4956,37 @@
 			(uuid "f80eb688-f479-4820-a71d-f67a06af80dd")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "b652ff86-ed32-490f-8519-2d8aaab75b4d")
+			(uuid "d7a7da4b-3388-4f52-a0de-c7bf5eadb104")
 		)
 		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
+			(start -0.25 0.248)
+			(end -0.5 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "6a343e6c-120d-4e8f-be2a-828465fef28d")
+			(uuid "b29003d7-fb96-4e20-9fba-93af8027c8fe")
+		)
+		(fp_line
+			(start -0.5 0.248)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "29089f0b-d48a-4d8b-91ba-80536b88d744")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
 			(uuid "1756abe7-cbd3-46a0-b832-b69a0a53c7bc")
 			(effects
@@ -4999,7 +4998,7 @@
 			)
 		)
 		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
+			(at -0.95 4.169 90)
 			(layer "F.Fab")
 			(uuid "1ec0f59f-b13e-4d0a-9275-c9173d3c2d51")
 			(effects
@@ -5011,7 +5010,7 @@
 			)
 		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "f5525148-460a-438e-a3f7-6e39f84dc189")
 			(effects
@@ -5023,7 +5022,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 90)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5032,7 +5031,7 @@
 			(uuid "2bf4a0ec-597c-49de-83a4-49e6aa9910dc")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 90)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -5425,7 +5424,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "14f1ebe7-f200-4caa-b98c-b9c871edc16f")
-		(at 136.76 87.605 90)
+		(at 136.1 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R40"
@@ -6163,11 +6162,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "1811493d-72f9-43d4-8d9e-24ebf092f016")
-		(at 195.46 85.66)
+		(at 146 80.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R3"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "2cb02894-71d9-4e76-901a-7a4cc08ede63")
 			(effects
@@ -6179,7 +6178,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "698175fd-b663-4869-b3c0-20117aed0367")
 			(effects
@@ -6191,7 +6190,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8271448a-1ae8-4f18-8a4a-c132ce63a6eb")
@@ -6203,7 +6202,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b6b767d3-1ccd-4e19-aa1d-f195d5b5e437")
@@ -6215,7 +6214,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6228,7 +6227,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6241,7 +6240,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6254,7 +6253,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6267,7 +6266,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6280,7 +6279,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6293,7 +6292,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -6363,44 +6362,14 @@
 			(uuid "3f4fc394-be70-445a-b656-03b20437128b")
 		)
 		(fp_line
-			(start -0.5 0.248)
-			(end -0.5 -0.25)
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "8ae8c3c1-82ab-4ff2-bd44-16d31fecd018")
-		)
-		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "0a05ae81-31f3-428c-92a3-d55d133c0706")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.5 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "85c4295d-edd5-4a19-bb23-9fef117652b9")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "3737f710-327b-48fa-87e8-2b58a3f0e009")
+			(uuid "88f7c758-0347-4a9d-94df-f74e4ec87cb6")
 		)
 		(fp_line
 			(start 0.248 -0.25)
@@ -6411,6 +6380,16 @@
 			)
 			(layer "User.9")
 			(uuid "afb43aa8-a327-498b-8c2d-2f9f107f2af5")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "0a05ae81-31f3-428c-92a3-d55d133c0706")
 		)
 		(fp_line
 			(start 0.248 -0.232)
@@ -6433,6 +6412,16 @@
 			(uuid "51d33a79-50ee-47e7-9481-d53c7d3cb4a9")
 		)
 		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "ca1b8761-a157-40e0-ad5d-87706aaa1894")
+		)
+		(fp_line
 			(start 0.248 0.248)
 			(end 0.498 0.248)
 			(stroke
@@ -6443,27 +6432,37 @@
 			(uuid "e657a177-1978-4e59-aced-f5ec7f9d1c6d")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "88f7c758-0347-4a9d-94df-f74e4ec87cb6")
+			(uuid "3737f710-327b-48fa-87e8-2b58a3f0e009")
 		)
 		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
+			(start -0.25 0.248)
+			(end -0.5 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "ca1b8761-a157-40e0-ad5d-87706aaa1894")
+			(uuid "85c4295d-edd5-4a19-bb23-9fef117652b9")
+		)
+		(fp_line
+			(start -0.5 0.248)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "8ae8c3c1-82ab-4ff2-bd44-16d31fecd018")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
 			(uuid "c66bdfce-a0f3-4caa-b51c-0632e1070037")
 			(effects
@@ -6475,7 +6474,7 @@
 			)
 		)
 		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
+			(at -0.95 4.169 90)
 			(layer "F.Fab")
 			(uuid "f2f9dd8b-f92e-4ae8-be53-84a724a7934e")
 			(effects
@@ -6487,7 +6486,7 @@
 			)
 		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "7c972f1b-473c-418c-836f-be17f2f3d0ee")
 			(effects
@@ -6499,7 +6498,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 90)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -6508,7 +6507,7 @@
 			(uuid "e8096840-87c2-47d6-ac1e-3bbeaaebfa04")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 90)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -6532,7 +6531,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "1863abfc-8b18-4fb0-80b2-3758c598e2dc")
-		(at -65.205 168.275)
+		(at 135.615 146.44)
 		(property "Reference" "TP22"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -6718,7 +6717,7 @@
 	(footprint "antmicro-footprints:SOT-523"
 		(layer "F.Cu")
 		(uuid "193195d4-57cb-4f95-90cb-7ff9966622b0")
-		(at -57.935 162.085)
+		(at 142.885 140.25)
 		(property "Reference" "Q1"
 			(at 0.349 -1.726 0)
 			(layer "F.SilkS")
@@ -7575,7 +7574,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "1b70446c-3eff-4b53-a0b6-96130258aa60")
-		(at -45.87 164.085)
+		(at 154.95 142.25)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R133"
@@ -7931,7 +7930,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "1b729e6c-02d0-4992-96ba-4062269b7144")
-		(at -62.955 168.275)
+		(at 137.865 146.44)
 		(property "Reference" "TP28"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -8117,7 +8116,7 @@
 	(footprint "antmicro-footprints:Socket_SOP2-16_ACA-SPI-006-K01"
 		(layer "F.Cu")
 		(uuid "1d41a952-63f9-43b7-9e19-27322aacbd00")
-		(at -42.375 152.675)
+		(at 158.445 130.84)
 		(property "Reference" "J15"
 			(at 0 -8.8 0)
 			(layer "F.SilkS")
@@ -11285,7 +11284,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "1de77254-f33d-45ad-835f-712265b01136")
-		(at -84.869 155.584)
+		(at 115.951 133.749)
 		(property "Reference" "J4"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -12704,7 +12703,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "1e001700-3e3a-4777-85b2-be831039a0ac")
-		(at -37.865 174.815)
+		(at 162.955 152.98)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD7"
@@ -12876,7 +12875,7 @@
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "23d0475d-f64e-4868-b3fe-e9463252a743")
-		(at -48.77 164.085)
+		(at 152.05 142.25)
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C2"
@@ -19973,7 +19972,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "257f217d-1abd-403b-a8b5-f51489991094")
-		(at -71.955 166.025)
+		(at 128.865 144.19)
 		(property "Reference" "TP3"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -20159,7 +20158,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "279a2d62-78eb-4ba7-9fb6-8d87b0c0db84")
-		(at 134.715 87.595 90)
+		(at 134.9 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R74"
@@ -20171,7 +20170,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -20183,7 +20182,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -20211,7 +20210,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20224,7 +20223,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20237,7 +20236,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20250,7 +20249,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20263,7 +20262,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20276,7 +20275,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20289,7 +20288,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -20359,84 +20358,14 @@
 			(uuid "5078bad6-56aa-4b3d-b5be-ee2e58cecc55")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "ed87b718-43e4-48f2-a1c0-a3ddeca63ad3")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "9e905f9d-2279-40d2-a03b-dbc51e8b9ab5")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "c24eb216-f33b-4dbc-a030-16fe00fb7d7d")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "452a74b4-33a0-498e-b5fc-0bd977a328a4")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "69c50e91-de9c-40e0-88b9-d8e1d8849211")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "a1012b6f-207a-4246-874c-f25a533d3f9c")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "09b6964b-eae0-416e-b534-143eca86b99f")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "8b0a83fe-56f6-453c-95d8-3b6e06597ff3")
+			(uuid "5b90d496-8000-4218-808e-ba55288e8ab7")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -20449,25 +20378,95 @@
 			(uuid "bd985b59-b660-4757-ab2e-6ad8719e6906")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "8b0a83fe-56f6-453c-95d8-3b6e06597ff3")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "09b6964b-eae0-416e-b534-143eca86b99f")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "a1012b6f-207a-4246-874c-f25a533d3f9c")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "69c50e91-de9c-40e0-88b9-d8e1d8849211")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "452a74b4-33a0-498e-b5fc-0bd977a328a4")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "5b90d496-8000-4218-808e-ba55288e8ab7")
+			(uuid "c24eb216-f33b-4dbc-a030-16fe00fb7d7d")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "9e905f9d-2279-40d2-a03b-dbc51e8b9ab5")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "ed87b718-43e4-48f2-a1c0-a3ddeca63ad3")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "720a71a7-1141-404c-8279-dd77fd5a7304")
+			(uuid "75831f45-386c-4c0c-8528-80a3b82ca88b")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -20479,23 +20478,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "75831f45-386c-4c0c-8528-80a3b82ca88b")
+			(uuid "720a71a7-1141-404c-8279-dd77fd5a7304")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -20504,7 +20503,7 @@
 			(uuid "eaef952a-6e26-415d-b2b6-e6ea76a3e510")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -20528,7 +20527,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2942ab52-0c0d-4431-b86c-a23f5713de32")
-		(at -58.13 166.745)
+		(at 142.69 144.91)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R129"
@@ -21253,7 +21252,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "2e43c9cd-67e5-419e-a591-e3d94a89d9f6")
-		(at -71.955 168.275)
+		(at 128.865 146.44)
 		(property "Reference" "TP4"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -21439,7 +21438,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "2e7c63f1-c8d8-44e6-8f0e-4e88650a9ee1")
-		(at -69.705 172.775)
+		(at 131.115 150.94)
 		(property "Reference" "TP12"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -21625,7 +21624,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2f9ed347-afee-4f4d-aece-724f67f24e8c")
-		(at 116.37 87.67 90)
+		(at 129.5 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R84"
@@ -21637,7 +21636,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -21649,7 +21648,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -21677,7 +21676,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21690,7 +21689,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21703,7 +21702,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21716,7 +21715,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21729,7 +21728,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21742,7 +21741,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21755,7 +21754,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -21825,84 +21824,14 @@
 			(uuid "89d30a19-d161-4901-bde0-398fc56a390d")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "5f1c8ca6-8c61-4e4b-a431-01b8bab35499")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "3239ba48-98ae-4bb7-8627-eabc4d6ef005")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "62e908cf-ef73-4944-9ec2-878269f857b1")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "b1d12589-5dbf-4fb1-8e07-6499c9bb8c14")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "581b6e9d-be79-4769-9d86-30d7f7475282")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "3d13237c-5b89-4e5f-a928-55d614077695")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "71916540-6200-40c4-acba-b6ded0cd0ac6")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "61791f62-369c-4374-a5eb-027f919cf7aa")
+			(uuid "f89b3e9e-6a72-442f-9262-efac187b664a")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -21915,25 +21844,95 @@
 			(uuid "7f4b3f4c-c250-4126-997f-4473ca3a0778")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "61791f62-369c-4374-a5eb-027f919cf7aa")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "71916540-6200-40c4-acba-b6ded0cd0ac6")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "3d13237c-5b89-4e5f-a928-55d614077695")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "581b6e9d-be79-4769-9d86-30d7f7475282")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "b1d12589-5dbf-4fb1-8e07-6499c9bb8c14")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "f89b3e9e-6a72-442f-9262-efac187b664a")
+			(uuid "62e908cf-ef73-4944-9ec2-878269f857b1")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "3239ba48-98ae-4bb7-8627-eabc4d6ef005")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "5f1c8ca6-8c61-4e4b-a431-01b8bab35499")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "1d567dd8-da7f-49a4-a082-3bbf204242fd")
+			(uuid "c8e409bd-44dc-4039-ac16-7c9f288cef73")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -21945,23 +21944,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "c8e409bd-44dc-4039-ac16-7c9f288cef73")
+			(uuid "1d567dd8-da7f-49a4-a082-3bbf204242fd")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -21970,7 +21969,7 @@
 			(uuid "408cc700-874f-4002-b0dd-34914fee50f8")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -21994,7 +21993,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "304c569e-8d9b-4ecb-85f9-f20c346f51f9")
-		(at 138.75 87.605 90)
+		(at 137.3 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R41"
@@ -22363,11 +22362,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "31f240cc-dae9-4d27-a4e7-bdfb784db286")
-		(at 207.06 83.67)
+		(at 126.65 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R54"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "4ef01416-ed1a-4577-b357-1814071534f9")
 			(effects
@@ -22375,11 +22374,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "b35f4c51-7495-45ba-9d3f-0d0548c8a1c4")
 			(effects
@@ -22387,11 +22386,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1fdf8f73-438b-4bb1-86b4-25421566b603")
@@ -22403,7 +22402,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "34cc325c-9fcd-4e0f-9373-b178290807c2")
@@ -22415,7 +22414,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22428,7 +22427,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22441,7 +22440,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22454,7 +22453,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22467,7 +22466,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22480,7 +22479,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22493,7 +22492,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22573,16 +22572,6 @@
 			(uuid "c7fb89a4-b945-46e0-aa64-6d744fc352cd")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "7d913694-a2f9-4c54-b8b0-9d2a10ce789a")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -22603,24 +22592,24 @@
 			(uuid "e8cc83d5-76c2-4bdf-85c4-abab797b5ad6")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "772dc5ac-fdf3-41df-839a-e0884d99ead1")
+			(uuid "b66c8d58-5764-4daa-a5e7-122529f3d516")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "db825bcc-6c82-44f8-ba05-843261bcc090")
+			(uuid "49685e53-46fb-4eac-957a-c6ce03b43479")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -22633,14 +22622,34 @@
 			(uuid "d9df4e5a-d2cd-4650-a496-da007fb66b1c")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "b66c8d58-5764-4daa-a5e7-122529f3d516")
+			(uuid "db825bcc-6c82-44f8-ba05-843261bcc090")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "7d913694-a2f9-4c54-b8b0-9d2a10ce789a")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "772dc5ac-fdf3-41df-839a-e0884d99ead1")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -22652,42 +22661,8 @@
 			(layer "User.9")
 			(uuid "55599873-f87b-4a5a-934f-0d8b4886df6a")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "49685e53-46fb-4eac-957a-c6ce03b43479")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "b1f91002-67d7-4f7f-8be2-8fef19fbf3b2")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "b0bb07d5-e09e-47ef-8af2-97640564f5d7")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "ebba4b30-7fe2-4922-a6c9-442f8b292db8")
 			(effects
@@ -22695,11 +22670,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "b0bb07d5-e09e-47ef-8af2-97640564f5d7")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "b1f91002-67d7-4f7f-8be2-8fef19fbf3b2")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -22708,7 +22707,7 @@
 			(uuid "fa313c8a-5505-4887-8e08-2bd407f6c972")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -22732,11 +22731,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "326856a3-9d7a-45c3-b5c5-37594d9576fc")
-		(at 218.66 87.65)
+		(at 120.5 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R108"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "62e9883e-0f6f-47c9-992d-94814228efaf")
 			(effects
@@ -22744,11 +22743,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "42677fc3-f47d-483c-abc3-a5dd05bc42a5")
 			(effects
@@ -22756,11 +22755,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c6a9be33-52a3-4702-8981-46b35c34058e")
@@ -22772,7 +22771,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b714b28c-d471-474d-be66-e5c6afac6fbb")
@@ -22784,7 +22783,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22797,7 +22796,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22810,7 +22809,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22823,7 +22822,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22836,7 +22835,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22849,7 +22848,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22862,7 +22861,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22942,16 +22941,6 @@
 			(uuid "9c91f2b1-4f35-493d-9099-878e674aedb1")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "81e7b858-8274-41a2-8dec-831e483b31a9")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -22972,24 +22961,24 @@
 			(uuid "182e1a22-8234-455d-95c8-6c402bde286a")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "d94f0edf-b992-4767-9d45-cb5cc914a450")
+			(uuid "57b23d69-1b59-4154-aef5-9ac5b509d9bb")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "245b542d-4d44-418e-adec-c559d3731cee")
+			(uuid "353f7c20-3365-476b-ac66-06fdb21e36ad")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -23002,14 +22991,34 @@
 			(uuid "fa118460-cfd2-4a8f-957b-58e43d13e0a6")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "57b23d69-1b59-4154-aef5-9ac5b509d9bb")
+			(uuid "245b542d-4d44-418e-adec-c559d3731cee")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "81e7b858-8274-41a2-8dec-831e483b31a9")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "d94f0edf-b992-4767-9d45-cb5cc914a450")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -23021,42 +23030,8 @@
 			(layer "User.9")
 			(uuid "b91e36e7-ae95-4a68-bbe5-065c0d8bb183")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "353f7c20-3365-476b-ac66-06fdb21e36ad")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "64566778-6791-4e42-9cab-93a890cde894")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "11db73cd-fca3-4e9a-a49b-6c98aa3ab85b")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "66954ea9-f385-4c93-898a-b12971814158")
 			(effects
@@ -23064,11 +23039,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "11db73cd-fca3-4e9a-a49b-6c98aa3ab85b")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "64566778-6791-4e42-9cab-93a890cde894")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -23077,7 +23076,7 @@
 			(uuid "5561d1be-b819-4482-974b-ee15bb6aa4ba")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -23101,7 +23100,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "33977c32-aa94-41b8-956a-80298e3e9a3c")
-		(at -37.865 178.345)
+		(at 162.955 156.51)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD8"
@@ -23273,11 +23272,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "352daf98-f008-4566-b2d7-077cdc147522")
-		(at 195.46 105.56)
+		(at 146.55 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R13"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "7aba66bd-95f8-46ae-b907-81178b07954c")
 			(effects
@@ -23289,7 +23288,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "b06d18f9-21b6-4855-9527-c31fdaca216f")
 			(effects
@@ -23301,7 +23300,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "958a23b1-cdc8-4e6f-ae12-356a3a061e45")
@@ -23313,7 +23312,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "914e0acb-f811-4c72-a752-3a84de1be2e9")
@@ -23325,7 +23324,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -23338,7 +23337,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -23351,7 +23350,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -23364,7 +23363,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -23377,7 +23376,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -23390,7 +23389,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -23403,7 +23402,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -23473,44 +23472,14 @@
 			(uuid "2dd5f843-a6a3-4237-a37d-5eff0d1ae25d")
 		)
 		(fp_line
-			(start -0.5 0.248)
-			(end -0.5 -0.25)
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "c32721d2-9af9-4353-b5f5-b73f437e79c7")
-		)
-		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "a0f39c56-1a51-4f40-b3c1-c7b283bcc4ba")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.5 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "03920aa4-b088-4d07-a76a-6ce3467c4302")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "77836438-840e-4f21-894d-c7ce018615f4")
+			(uuid "c6b1a681-efdd-4602-b1ec-6fdd9187d48e")
 		)
 		(fp_line
 			(start 0.248 -0.25)
@@ -23521,6 +23490,16 @@
 			)
 			(layer "User.9")
 			(uuid "185c2a4e-e0b9-4cce-b2d6-1c17174cbb13")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "a0f39c56-1a51-4f40-b3c1-c7b283bcc4ba")
 		)
 		(fp_line
 			(start 0.248 -0.232)
@@ -23543,6 +23522,16 @@
 			(uuid "2e422e97-2c2e-4aed-9fd1-f20747508279")
 		)
 		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "b5eaa558-00bc-47a2-8e99-3b58bd79a38d")
+		)
+		(fp_line
 			(start 0.248 0.248)
 			(end 0.498 0.248)
 			(stroke
@@ -23553,27 +23542,37 @@
 			(uuid "fd74398c-1adf-45fa-9e12-138f9a7e6b34")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "c6b1a681-efdd-4602-b1ec-6fdd9187d48e")
+			(uuid "77836438-840e-4f21-894d-c7ce018615f4")
 		)
 		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
+			(start -0.25 0.248)
+			(end -0.5 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "b5eaa558-00bc-47a2-8e99-3b58bd79a38d")
+			(uuid "03920aa4-b088-4d07-a76a-6ce3467c4302")
+		)
+		(fp_line
+			(start -0.5 0.248)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "c32721d2-9af9-4353-b5f5-b73f437e79c7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
 			(uuid "646b3add-da75-4ce1-a8be-1238ca9234ba")
 			(effects
@@ -23585,7 +23584,7 @@
 			)
 		)
 		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
+			(at -0.95 4.169 90)
 			(layer "F.Fab")
 			(uuid "b3f356d1-1b09-4e06-bccd-7225ba8a4364")
 			(effects
@@ -23597,7 +23596,7 @@
 			)
 		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "decf32f3-7a9b-4b0f-8a29-91c41aa5085f")
 			(effects
@@ -23609,7 +23608,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 90)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -23618,7 +23617,7 @@
 			(uuid "44c71d92-6c4c-4605-a471-348b6258bca7")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 90)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -23642,7 +23641,7 @@
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "3698fb02-5c1b-4a43-a461-4fe51702685e")
-		(at -48.77 168.065)
+		(at 152.05 146.23)
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C4"
@@ -30739,7 +30738,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "37ff3f2d-cc76-4f20-9546-cd8069d39ce3")
-		(at -45.87 168.065)
+		(at 154.95 146.23)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R136"
@@ -31095,7 +31094,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "38f08be6-f814-48c4-81c3-69d5f5e71746")
-		(at 128.31 87.67 90)
+		(at 133.1 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R90"
@@ -31107,7 +31106,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -31119,7 +31118,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -31147,7 +31146,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -31160,7 +31159,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -31173,7 +31172,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -31186,7 +31185,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -31199,7 +31198,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -31212,7 +31211,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -31225,7 +31224,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -31295,84 +31294,14 @@
 			(uuid "68b21584-9b7c-47ad-a592-423548aa8554")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "cde7dbef-095c-4979-ae3c-638f2a53d922")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "6f3c4106-6b4f-401a-a8c8-fe58725c54d7")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "7473ea02-4173-4a1a-b26a-b1fb63f223e2")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "0b86bdd9-2318-4b56-a1ab-94ad869e4c3a")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "ee77ad46-ad26-4c5b-ba35-04edf10802d4")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "c8d0bb48-9196-4cda-9abc-146c984fb097")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "68325519-91d0-4c98-ac7b-7b3837c5608c")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "932495ff-9fbe-45ea-84c8-96670e3c78e0")
+			(uuid "9930b072-bf55-43e1-8974-3862698a3642")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -31385,25 +31314,95 @@
 			(uuid "eb18ed81-3d93-43d5-ac86-5dfe59e464ce")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "932495ff-9fbe-45ea-84c8-96670e3c78e0")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "68325519-91d0-4c98-ac7b-7b3837c5608c")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "c8d0bb48-9196-4cda-9abc-146c984fb097")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "ee77ad46-ad26-4c5b-ba35-04edf10802d4")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "0b86bdd9-2318-4b56-a1ab-94ad869e4c3a")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "9930b072-bf55-43e1-8974-3862698a3642")
+			(uuid "7473ea02-4173-4a1a-b26a-b1fb63f223e2")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "6f3c4106-6b4f-401a-a8c8-fe58725c54d7")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "cde7dbef-095c-4979-ae3c-638f2a53d922")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "c382c96e-af40-444c-b3c9-4a538bdafb46")
+			(uuid "0e591d74-3885-4edb-9c34-226d11d6f1d2")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -31415,23 +31414,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "0e591d74-3885-4edb-9c34-226d11d6f1d2")
+			(uuid "c382c96e-af40-444c-b3c9-4a538bdafb46")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -31440,7 +31439,7 @@
 			(uuid "9c069d3d-b199-4e2a-9a4e-e9ec48cc224d")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -31464,7 +31463,7 @@
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "3d7658f1-5ab1-4177-b10d-1f0208cd1017")
-		(at -48.77 166.075)
+		(at 152.05 144.24)
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C3"
@@ -38561,7 +38560,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "3e378684-19a7-4db6-be55-2d127df3f919")
-		(at -60.705 163.775)
+		(at 140.115 141.94)
 		(property "Reference" "TP32"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -38747,7 +38746,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "40f37843-1d21-49b8-b2fc-48113f5e0544")
-		(at -60.705 168.275)
+		(at 140.115 146.44)
 		(property "Reference" "TP34"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -39302,7 +39301,7 @@
 	(footprint "antmicro-footprints:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "43576a33-4659-4311-8296-4f01b2b5838e")
-		(at -42.645 165.825)
+		(at 158.175 143.99)
 		(descr "Resistor SMD 0603")
 		(tags "resistor SMD 0603")
 		(property "Reference" "R134"
@@ -39691,7 +39690,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "4397c221-f3a0-4274-8375-d94dd0f04390")
-		(at -65.205 161.525)
+		(at 135.615 139.69)
 		(property "Reference" "TP19"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -39877,7 +39876,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "44152a59-0850-4af4-b577-1abde1c24b7f")
-		(at -84.869 163.133)
+		(at 115.951 141.298)
 		(property "Reference" "J5"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -41296,11 +41295,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "46090b8e-9b50-4155-82a3-776764c83a2a")
-		(at 218.66 95.61)
+		(at 122.6 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R112"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "630ebfe5-0432-4580-83fb-f2b3e107278c")
 			(effects
@@ -41308,11 +41307,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "cc0ce22a-0323-4715-a371-292bf3dd3866")
 			(effects
@@ -41320,11 +41319,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "67bb8d27-4397-4289-bfe1-aeb7e826f67e")
@@ -41336,7 +41335,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1e18e11b-e8e2-42da-9661-fbe66f395195")
@@ -41348,7 +41347,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -41361,7 +41360,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -41374,7 +41373,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -41387,7 +41386,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -41400,7 +41399,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -41413,7 +41412,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -41426,7 +41425,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -41506,16 +41505,6 @@
 			(uuid "feea2524-8401-437d-8ba0-87b2c4c64d0b")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "5d81c1ab-c914-4464-b3b3-18ff01ff1d51")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -41536,24 +41525,24 @@
 			(uuid "5f1e6282-6510-4b7e-a085-e86de63dc810")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "7e0b79bd-7acd-4ad0-8a3e-88d472a12d48")
+			(uuid "7cfa3e25-6a9a-4923-a2c8-0feea1ca1e94")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "54184cb9-59c8-4df0-88f5-9d129c50661d")
+			(uuid "9985122b-f7bf-4fb4-9561-9e8c57a4db3d")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -41566,14 +41555,34 @@
 			(uuid "149e1895-f1e7-4960-be2d-746a5be98b87")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "7cfa3e25-6a9a-4923-a2c8-0feea1ca1e94")
+			(uuid "54184cb9-59c8-4df0-88f5-9d129c50661d")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "5d81c1ab-c914-4464-b3b3-18ff01ff1d51")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "7e0b79bd-7acd-4ad0-8a3e-88d472a12d48")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -41585,42 +41594,8 @@
 			(layer "User.9")
 			(uuid "bc06f31c-41a3-4548-89a6-241314278326")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "9985122b-f7bf-4fb4-9561-9e8c57a4db3d")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "8e562765-4f36-47a2-bef6-d5b0a475f30e")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "e33505e4-72df-4265-b47f-50d36951c2e5")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "1b185ff1-bf25-48ee-b610-e6520b4f7e3b")
 			(effects
@@ -41628,11 +41603,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "e33505e4-72df-4265-b47f-50d36951c2e5")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "8e562765-4f36-47a2-bef6-d5b0a475f30e")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -41641,7 +41640,7 @@
 			(uuid "7980ad84-7064-48e5-a11a-1d77d0bdd2e7")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -42403,7 +42402,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "4d5d1638-77b9-4d69-9bf1-acea8da2a1a9")
-		(at -48.455 178.345)
+		(at 152.365 156.51)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD2"
@@ -45584,7 +45583,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "558f50b2-236e-4c92-bd6f-1e42665ff419")
-		(at -58.13 164.755)
+		(at 142.69 142.92)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R128"
@@ -45940,11 +45939,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "5814a728-ac14-428e-acd9-1922ca47fbe1")
-		(at 218.66 97.6)
+		(at 121.6 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R113"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "ff9f6c96-4651-4472-94de-729b2081b16b")
 			(effects
@@ -45952,11 +45951,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "06d0a881-b46e-498e-bd30-77221b419c31")
 			(effects
@@ -45964,11 +45963,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "55d87852-185d-426b-83b6-5d4f7a798a67")
@@ -45980,7 +45979,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bb0b9264-f561-454d-a897-4d51a5f85eac")
@@ -45992,7 +45991,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46005,7 +46004,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46018,7 +46017,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46031,7 +46030,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46044,7 +46043,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46057,7 +46056,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46070,7 +46069,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -46150,16 +46149,6 @@
 			(uuid "4457abe8-c84e-49bd-be83-03b1d53f7e02")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "1340e049-e1b5-4f26-a356-49d1dd7309b4")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -46180,24 +46169,24 @@
 			(uuid "30c09c40-ee0b-46b2-abaa-245467c28142")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "da7d4254-d5d6-4304-a5ce-bb29b5c0b5a0")
+			(uuid "c60347dd-9ea3-40fb-8caf-309c8ca8dfa0")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "0f5eb42e-83a9-48d4-a7d5-ca341b3b09b8")
+			(uuid "bc94ac6b-e967-4101-a30c-ec9e3781b3ef")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -46210,14 +46199,34 @@
 			(uuid "77328914-b9b5-4465-873d-020a3bf13465")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "c60347dd-9ea3-40fb-8caf-309c8ca8dfa0")
+			(uuid "0f5eb42e-83a9-48d4-a7d5-ca341b3b09b8")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "1340e049-e1b5-4f26-a356-49d1dd7309b4")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "da7d4254-d5d6-4304-a5ce-bb29b5c0b5a0")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -46229,42 +46238,8 @@
 			(layer "User.9")
 			(uuid "cfaa4caa-1a8f-4801-a57b-d9ff8fd1aa8f")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "bc94ac6b-e967-4101-a30c-ec9e3781b3ef")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "70095d63-b54c-480e-89f6-94622770861f")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "854168c3-2361-4150-92d5-22aba406cca7")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "a70152b7-1bb4-4f72-b0d5-9e856d9e6fd8")
 			(effects
@@ -46272,11 +46247,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "854168c3-2361-4150-92d5-22aba406cca7")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "70095d63-b54c-480e-89f6-94622770861f")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -46285,7 +46284,7 @@
 			(uuid "1efedbcc-67af-427f-8be6-c664d1905e21")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -46309,7 +46308,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "58a20e34-4a9f-482a-9f34-78d21bcc362c")
-		(at -84.869 148.035)
+		(at 115.951 126.2)
 		(property "Reference" "J3"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -47728,7 +47727,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "5d36ad1e-6b0f-4af3-96d7-bd2b5a207eb5")
-		(at -41.395 178.345)
+		(at 159.425 156.51)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD6"
@@ -47900,7 +47899,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "632cc614-a057-4a18-97ca-4cfaf3bf11fd")
-		(at -84.869 178.231)
+		(at 115.951 156.396)
 		(property "Reference" "J7"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -50057,7 +50056,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "666b3aed-d051-4b7a-b210-d62cf51c036f")
-		(at 137.375 94.22 90)
+		(at 136.7 80.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R38"
@@ -50795,7 +50794,7 @@
 	(footprint "antmicro-footprints:LED_0402_1005Metric_G"
 		(layer "F.Cu")
 		(uuid "6808000f-ecfe-42b3-a575-112741c49293")
-		(at -55.205 166.745)
+		(at 145.615 144.91)
 		(property "Reference" "D2"
 			(at 0 -0.6 0)
 			(unlocked yes)
@@ -51280,7 +51279,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x10_P1.27mm_SMD_Shrouded"
 		(layer "F.Cu")
 		(uuid "68f52c6b-9c6b-430a-9ec3-50e576858e1f")
-		(at -62.655 148.285)
+		(at 138.165 126.45)
 		(property "Reference" "J8"
 			(at 0 -3.7 0)
 			(layer "F.SilkS")
@@ -55543,7 +55542,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "693fae29-cd75-466a-b918-cda2880c0d13")
-		(at -41.395 174.815)
+		(at 159.425 152.98)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD5"
@@ -55715,7 +55714,7 @@
 	(footprint "antmicro-footprints:Socket_SOP2-16_ACA-SPI-006-K01"
 		(layer "F.Cu")
 		(uuid "69ab0007-b1fa-4ca8-911d-51e5e1a6da9b")
-		(at -26.675 152.675)
+		(at 174.145 130.84)
 		(property "Reference" "J16"
 			(at 0 -8.8 0)
 			(layer "F.SilkS")
@@ -58883,7 +58882,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6a4afcf7-352c-45cb-bb6a-8e553f2ccb02")
-		(at 124.33 87.67 90)
+		(at 131.9 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R88"
@@ -58895,7 +58894,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -58907,7 +58906,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -58935,7 +58934,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -58948,7 +58947,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -58961,7 +58960,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -58974,7 +58973,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -58987,7 +58986,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -59000,7 +58999,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -59013,7 +59012,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -59083,84 +59082,14 @@
 			(uuid "c9051b37-45f4-46cf-80e7-85cb579f7ce3")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "d2574e1c-fbae-4dc3-8901-43883843a4b2")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "7b4d1fee-d225-4012-b76e-6fa13b286f5c")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "1be3c086-63dd-4b5f-855a-e40af504fef7")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "99b1208b-2d9d-4a23-bd33-fb6d5dd9bb90")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "db517f75-ee86-4ae0-9059-e455df7aafd7")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "166b9142-0d7e-4c1d-afb5-3736d5fb1369")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "bdc0bbac-9daa-4ef6-92ef-f4fedd6b9063")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "d3eba111-08b8-410b-8308-d74f819a1ee5")
+			(uuid "5717704b-fd9a-4142-80ca-b6eb18066f9c")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -59173,25 +59102,95 @@
 			(uuid "23db726a-00a5-462a-8fe3-fb6927ef6bbf")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "d3eba111-08b8-410b-8308-d74f819a1ee5")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "bdc0bbac-9daa-4ef6-92ef-f4fedd6b9063")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "166b9142-0d7e-4c1d-afb5-3736d5fb1369")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "db517f75-ee86-4ae0-9059-e455df7aafd7")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "99b1208b-2d9d-4a23-bd33-fb6d5dd9bb90")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "5717704b-fd9a-4142-80ca-b6eb18066f9c")
+			(uuid "1be3c086-63dd-4b5f-855a-e40af504fef7")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "7b4d1fee-d225-4012-b76e-6fa13b286f5c")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "d2574e1c-fbae-4dc3-8901-43883843a4b2")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "0e4aebeb-9f02-4ddd-9fa7-fb5d0f57d846")
+			(uuid "1d1c5b34-d088-4e11-9b3e-b28fd37e1cf6")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -59203,23 +59202,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "1d1c5b34-d088-4e11-9b3e-b28fd37e1cf6")
+			(uuid "0e4aebeb-9f02-4ddd-9fa7-fb5d0f57d846")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -59228,7 +59227,7 @@
 			(uuid "9e8f085e-6927-4e29-a4ce-d238e788dff3")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -59252,7 +59251,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "6cd5d066-9c8c-4146-86c5-9ea0654f2861")
-		(at -76.97 155.584)
+		(at 123.85 133.749)
 		(property "Reference" "J10"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -61040,7 +61039,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD_Shrouded"
 		(layer "F.Cu")
 		(uuid "6d7f44b5-4a7d-4998-9b27-87cd3e11c14e")
-		(at -65.954 156.333)
+		(at 134.866 134.498)
 		(property "Reference" "J14"
 			(at -6.601 -3.801 0)
 			(layer "F.SilkS")
@@ -63439,7 +63438,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6f68ca7f-dee8-4729-9274-9cad38242096")
-		(at -45.87 162.095)
+		(at 154.95 140.26)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R132"
@@ -63795,7 +63794,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6f9cdde0-a91d-45d3-b5c4-62ec27f44aca")
-		(at 126.32 87.67 90)
+		(at 132.5 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R89"
@@ -63807,7 +63806,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -63819,7 +63818,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -63847,7 +63846,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -63860,7 +63859,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -63873,7 +63872,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -63886,7 +63885,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -63899,7 +63898,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -63912,7 +63911,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -63925,7 +63924,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -63995,84 +63994,14 @@
 			(uuid "2ac55c9c-32dc-471d-a149-f8ebe7ffa708")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "7e149e28-67ec-46f5-8dc7-a2d7a36acd36")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "664065d5-73a9-4745-9e3e-7776b8627880")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "81a42b79-2a30-49db-a07d-7d6a7f398ca9")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "bd3c619a-02ef-450f-888f-8cf08307216d")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "c6fcf06b-a6a8-42fe-b53b-a047bb8ddba8")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "16eaa7ce-7d24-4947-a4c2-f92ffd8feb63")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "0256de5e-711a-499f-a958-8b51efb4ae3f")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "fe9a47a4-e4f4-4082-8c68-bc24dbc0adaf")
+			(uuid "2b01ba89-8873-488a-8267-d3de69fe3dfd")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -64085,25 +64014,95 @@
 			(uuid "ca982274-f299-4790-aa5a-6e7c1d3ff487")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "fe9a47a4-e4f4-4082-8c68-bc24dbc0adaf")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "0256de5e-711a-499f-a958-8b51efb4ae3f")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "16eaa7ce-7d24-4947-a4c2-f92ffd8feb63")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "c6fcf06b-a6a8-42fe-b53b-a047bb8ddba8")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "bd3c619a-02ef-450f-888f-8cf08307216d")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "2b01ba89-8873-488a-8267-d3de69fe3dfd")
+			(uuid "81a42b79-2a30-49db-a07d-7d6a7f398ca9")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "664065d5-73a9-4745-9e3e-7776b8627880")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "7e149e28-67ec-46f5-8dc7-a2d7a36acd36")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "eced7f27-11f1-4180-b43d-3d4dbdcf9bef")
+			(uuid "53e5759b-6a22-4f74-aa02-f980f8e5e6f6")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -64115,23 +64114,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "53e5759b-6a22-4f74-aa02-f980f8e5e6f6")
+			(uuid "eced7f27-11f1-4180-b43d-3d4dbdcf9bef")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -64140,7 +64139,7 @@
 			(uuid "31189501-9704-4f5e-8d81-276496d1e3c4")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -64164,7 +64163,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "70e606e8-ef15-47c0-bc5a-25b8a3c933ad")
-		(at -69.705 170.525)
+		(at 131.115 148.69)
 		(property "Reference" "TP11"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -64350,7 +64349,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "71d4ca87-431c-46a2-8a57-44455229e9f9")
-		(at -62.955 172.775)
+		(at 137.865 150.94)
 		(property "Reference" "TP30"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -64905,7 +64904,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "73e9f870-910c-45b6-972c-8bc0e2ed8998")
-		(at -62.955 170.525)
+		(at 137.865 148.69)
 		(property "Reference" "TP29"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -65091,11 +65090,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "74710b6a-b700-4b8c-a3b8-3eafa0d820d4")
-		(at 218.66 89.64)
+		(at 119.5 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R109"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "e2121308-afe6-4fcc-b9fb-a2b39bd62c12")
 			(effects
@@ -65103,11 +65102,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "c92428d9-fca1-46d6-8a6d-c535b4e10457")
 			(effects
@@ -65115,11 +65114,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ffecffa3-ae1f-4510-be31-2d7c6af0b7bf")
@@ -65131,7 +65130,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "923d68ec-c863-4e86-a283-3ff82e2ee52f")
@@ -65143,7 +65142,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -65156,7 +65155,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -65169,7 +65168,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -65182,7 +65181,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -65195,7 +65194,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -65208,7 +65207,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -65221,7 +65220,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -65301,16 +65300,6 @@
 			(uuid "adfba030-941e-4a16-8401-e99f485866b7")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "3ddc5ccd-e1f2-41c8-80ef-12efea702391")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -65331,24 +65320,24 @@
 			(uuid "9b663cb4-21fd-4f28-8e7f-5bcedddaaef4")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "938e1973-29bc-4aa6-906e-ed67f21fd5da")
+			(uuid "11ff5986-5ae8-4201-b959-37df55e9d808")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "d1e5d688-4fcd-4ad6-998a-7a051ce52e51")
+			(uuid "ae40629e-0cd4-4373-a488-d8a43d1a15ee")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -65361,14 +65350,34 @@
 			(uuid "10e8540d-1497-4583-bb0c-950abeaa518b")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "11ff5986-5ae8-4201-b959-37df55e9d808")
+			(uuid "d1e5d688-4fcd-4ad6-998a-7a051ce52e51")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "3ddc5ccd-e1f2-41c8-80ef-12efea702391")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "938e1973-29bc-4aa6-906e-ed67f21fd5da")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -65380,42 +65389,8 @@
 			(layer "User.9")
 			(uuid "61f3ba9d-b34f-4998-be0e-14a002e0a7db")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "ae40629e-0cd4-4373-a488-d8a43d1a15ee")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "b0ce139f-140a-4f2b-bc8f-dcbea45799ac")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "3f5e97c0-59bd-46f3-b748-e8ab0008f6ed")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "c8be3ce4-ba59-41e0-b403-fefec3efb403")
 			(effects
@@ -65423,11 +65398,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "3f5e97c0-59bd-46f3-b748-e8ab0008f6ed")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "b0ce139f-140a-4f2b-bc8f-dcbea45799ac")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -65436,7 +65435,7 @@
 			(uuid "850f9c92-4a3a-451d-96b7-92bd34e12d2d")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -65829,7 +65828,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "76856203-b69e-4cdc-9cb3-926bffe37c18")
-		(at -67.455 166.025)
+		(at 133.365 144.19)
 		(property "Reference" "TP15"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -66015,7 +66014,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "7c5759a4-ca6b-4527-9cb4-3c9214023e6f")
-		(at -67.455 168.275)
+		(at 133.365 146.44)
 		(property "Reference" "TP16"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -66201,7 +66200,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "7d23e01e-a477-44ae-aecf-f4898b595152")
-		(at -71.955 170.525)
+		(at 128.865 148.69)
 		(property "Reference" "TP5"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -66756,7 +66755,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "8479d467-6d42-4f30-96fc-c22e282c5b9e")
-		(at -76.97 148.035)
+		(at 123.85 126.2)
 		(property "Reference" "J9"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -68175,7 +68174,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "8507191e-0e9d-462a-a4c0-594e09902f91")
-		(at -58.13 168.735)
+		(at 142.69 146.9)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R130"
@@ -68900,7 +68899,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "8ab02fc6-1350-491b-ba9c-511fc8e46bb3")
-		(at 118.36 87.67 90)
+		(at 130.1 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R85"
@@ -68912,7 +68911,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -68924,7 +68923,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -68952,7 +68951,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -68965,7 +68964,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -68978,7 +68977,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -68991,7 +68990,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -69004,7 +69003,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -69017,7 +69016,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -69030,7 +69029,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -69100,84 +69099,14 @@
 			(uuid "70523ede-ca42-45b5-abb1-da7fb556b7b2")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "577734ef-b0a3-4f5b-bb5b-1fcd25e3331f")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "7d0cf734-b6f9-4d11-a82e-04d89617f702")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "0870cd70-6003-4129-b2e5-a9547c76e489")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "8716f9b4-fa3f-41e7-9896-7bdc4ec15751")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "def953ee-04e9-42c4-8d80-f748d514dcc9")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "12b7ab84-a1a5-4859-b12d-dc6abfdb9114")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "49d24ed3-5e08-49b9-a3db-7e34f3c75bc8")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "dbbb0769-544e-47d9-a098-ac1161a372de")
+			(uuid "110e2811-9c58-45ed-9d53-cc97ba9385d6")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -69190,25 +69119,95 @@
 			(uuid "1d21aa44-e6d6-4cec-af3c-d7234618aeba")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "dbbb0769-544e-47d9-a098-ac1161a372de")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "49d24ed3-5e08-49b9-a3db-7e34f3c75bc8")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "12b7ab84-a1a5-4859-b12d-dc6abfdb9114")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "def953ee-04e9-42c4-8d80-f748d514dcc9")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "8716f9b4-fa3f-41e7-9896-7bdc4ec15751")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "110e2811-9c58-45ed-9d53-cc97ba9385d6")
+			(uuid "0870cd70-6003-4129-b2e5-a9547c76e489")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "7d0cf734-b6f9-4d11-a82e-04d89617f702")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "577734ef-b0a3-4f5b-bb5b-1fcd25e3331f")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "79adf8c9-bf75-4bb2-8af2-fd7438e8916e")
+			(uuid "4d371e71-a184-4044-9877-b4dfc8720687")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -69220,23 +69219,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "4d371e71-a184-4044-9877-b4dfc8720687")
+			(uuid "79adf8c9-bf75-4bb2-8af2-fd7438e8916e")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -69245,7 +69244,7 @@
 			(uuid "fc65e6bf-1ceb-4af7-85f1-bd65cc576237")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -69269,7 +69268,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "8c1edd49-67f4-43e3-8835-dcfe17ae4b36")
-		(at -65.205 172.775)
+		(at 135.615 150.94)
 		(property "Reference" "TP24"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -69824,7 +69823,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "8eea693c-be99-450c-a508-04ebf0761404")
-		(at -44.925 174.815)
+		(at 155.895 152.98)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD3"
@@ -69996,7 +69995,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "90a13fd9-f77a-4606-bb02-d4deb1048add")
-		(at -62.955 166.025)
+		(at 137.865 144.19)
 		(property "Reference" "TP27"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -70182,7 +70181,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "94c0536b-f1f2-4e15-a951-f7ea500c0d08")
-		(at -60.705 172.775)
+		(at 140.115 150.94)
 		(property "Reference" "TP36"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -70737,7 +70736,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "9a731b11-7356-4828-93ee-07a6bfd1c399")
-		(at -48.455 174.815)
+		(at 152.365 152.98)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD1"
@@ -70909,7 +70908,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "9b9d043b-431d-4e27-8e15-6b70dfc1780b")
-		(at -45.87 166.075)
+		(at 154.95 144.24)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R135"
@@ -71265,7 +71264,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "9d1e6379-b1ef-408f-bfe2-38fd85d9177e")
-		(at -67.455 172.775)
+		(at 133.365 150.94)
 		(property "Reference" "TP18"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -71451,7 +71450,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "9d316e24-76d9-4c0e-8986-6bc743daa1ab")
-		(at 140.74 87.605 90)
+		(at 137.9 80.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R42"
@@ -71820,7 +71819,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "9fc17143-b121-4c76-a96c-52700ffa60b8")
-		(at -69.705 163.775)
+		(at 131.115 141.94)
 		(property "Reference" "TP8"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -72006,7 +72005,7 @@
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "a02b0d58-e6bc-4aa2-9ba7-5c3ad01e28b3")
-		(at -44.925 178.345)
+		(at 155.895 156.51)
 		(descr "Circular Fiducial, 1mm bare copper, 3mm soldermask opening")
 		(tags "fiducial")
 		(property "Reference" "FD4"
@@ -72178,7 +72177,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "a18e0529-faad-4490-b9af-10bac03e1031")
-		(at 122.34 87.67 90)
+		(at 131.3 78.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R87"
@@ -72190,7 +72189,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -72202,7 +72201,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -72230,7 +72229,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -72243,7 +72242,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -72256,7 +72255,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -72269,7 +72268,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -72282,7 +72281,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -72295,7 +72294,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -72308,7 +72307,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -72378,84 +72377,14 @@
 			(uuid "fe3bdbd5-9e11-4a1f-9737-a57dc5b4de43")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "c675d506-64ad-4396-882b-22bd07e3efc6")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "e324f214-2c7b-49a9-be8b-4175c127ce25")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "3512fe54-70a7-41fe-ac18-17746036b371")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "38648741-fe8c-467a-a09a-2616d9287697")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "eabf351b-e116-4192-a582-96deaebbbe47")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "edbb1570-ce2c-4d9d-bee0-dcfe561a404a")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "d37750d1-dedf-40b3-8a41-f45cc7d6a2c0")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "d2673200-d31f-4a96-9c38-c88d30bfa27e")
+			(uuid "17e65ac8-ff08-4190-9606-b744a226efc4")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -72468,25 +72397,95 @@
 			(uuid "2b2e812c-d98f-4e04-9a19-d23047271999")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "d2673200-d31f-4a96-9c38-c88d30bfa27e")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "d37750d1-dedf-40b3-8a41-f45cc7d6a2c0")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "edbb1570-ce2c-4d9d-bee0-dcfe561a404a")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "eabf351b-e116-4192-a582-96deaebbbe47")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "38648741-fe8c-467a-a09a-2616d9287697")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "17e65ac8-ff08-4190-9606-b744a226efc4")
+			(uuid "3512fe54-70a7-41fe-ac18-17746036b371")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "e324f214-2c7b-49a9-be8b-4175c127ce25")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "c675d506-64ad-4396-882b-22bd07e3efc6")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "1e912dcc-5fda-4a22-a42e-7f8dc6fb0471")
+			(uuid "c19ffa02-b60d-46e7-b16f-51d7dcdfcfa3")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -72498,23 +72497,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "c19ffa02-b60d-46e7-b16f-51d7dcdfcfa3")
+			(uuid "1e912dcc-5fda-4a22-a42e-7f8dc6fb0471")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -72523,7 +72522,7 @@
 			(uuid "a0db0c23-b7b7-456a-bf2b-b3a8d223600d")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -72547,7 +72546,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "a3e2f880-0fec-4dd4-a357-fd518713189e")
-		(at -71.955 172.775)
+		(at 128.865 150.94)
 		(property "Reference" "TP6"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -72733,7 +72732,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "a4e5c95d-a89e-415b-90a7-a4cd1f6bc6ff")
-		(at -48.77 170.055)
+		(at 152.05 148.22)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R131"
@@ -73089,7 +73088,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "a8a9bffe-d919-4163-a29b-26c0289d9d81")
-		(at 146.71 87.605 90)
+		(at 144.35 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R45"
@@ -73458,7 +73457,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "ab7eb1a2-3232-4d53-9df6-cc71b82491a4")
-		(at -71.955 161.525)
+		(at 128.865 139.69)
 		(property "Reference" "TP1"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -73644,7 +73643,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "abac339b-0238-4b17-9aa1-ad4ca019d8fc")
-		(at -60.705 166.025)
+		(at 140.115 144.19)
 		(property "Reference" "TP33"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -73830,11 +73829,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ae2dd6c5-91f6-431c-9795-c3d7494ea341")
-		(at 218.66 105.56)
+		(at 123.8 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R117"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "4add6d3d-ecca-43a8-9ea7-e75355e54566")
 			(effects
@@ -73842,11 +73841,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "282bdbb0-85da-4f31-93b4-221d62e8357d")
 			(effects
@@ -73854,11 +73853,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7073d7e2-ed1f-4507-a998-ec8223fa718b")
@@ -73870,7 +73869,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "663ce281-b36a-474c-9013-e8375817e188")
@@ -73882,7 +73881,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -73895,7 +73894,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -73908,7 +73907,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -73921,7 +73920,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -73934,7 +73933,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -73947,7 +73946,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -73960,7 +73959,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -74040,16 +74039,6 @@
 			(uuid "e15fff04-9e82-4f1e-ac14-56966834d8e7")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "d94c1708-06e5-48b7-8418-2138b03dca3b")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -74070,24 +74059,24 @@
 			(uuid "75cafec0-5252-44f3-bbe3-bf3a54364802")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "71ae363c-3cb3-48f4-a957-95e0a0fd23ab")
+			(uuid "5383f85c-3384-4450-90ff-bb2257c00a4b")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "110f89e3-862e-4bce-9a1f-117c0b6ca8a5")
+			(uuid "4e1e0b72-c920-4925-80e4-44a908933298")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -74100,14 +74089,34 @@
 			(uuid "805e18ab-7c84-4eb1-a12f-2e0b5b5fc97d")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "5383f85c-3384-4450-90ff-bb2257c00a4b")
+			(uuid "110f89e3-862e-4bce-9a1f-117c0b6ca8a5")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "d94c1708-06e5-48b7-8418-2138b03dca3b")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "71ae363c-3cb3-48f4-a957-95e0a0fd23ab")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -74119,42 +74128,8 @@
 			(layer "User.9")
 			(uuid "8a804eb8-2a00-4863-abf8-080e1209f03e")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "4e1e0b72-c920-4925-80e4-44a908933298")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "39187599-aa14-45ab-9382-4a8105089f30")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "2ff32397-1b61-458a-9e37-36b09a19764f")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "d1e7b96b-cf2d-4aff-be73-b1f5a0254554")
 			(effects
@@ -74162,11 +74137,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "2ff32397-1b61-458a-9e37-36b09a19764f")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "39187599-aa14-45ab-9382-4a8105089f30")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -74175,7 +74174,7 @@
 			(uuid "49b371ab-b8c9-4b34-a818-673f986e979f")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -74199,7 +74198,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "b045c77d-f7b8-41c8-8627-99d049c055a5")
-		(at -67.455 170.525)
+		(at 133.365 148.69)
 		(property "Reference" "TP17"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -74385,7 +74384,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "b0bb8270-8fd2-4e6c-bff2-9b7db05c31ca")
-		(at 139.365 94.22 90)
+		(at 139.7 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R39"
@@ -74754,7 +74753,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "b3b9ba74-6e03-44ac-ac27-0d0933e8cae8")
-		(at -65.205 166.025)
+		(at 135.615 144.19)
 		(property "Reference" "TP21"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -74940,7 +74939,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "b856e695-d463-45a5-bc0f-9bb0cc90e20f")
-		(at -60.705 161.525)
+		(at 140.115 139.69)
 		(property "Reference" "TP31"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -75126,7 +75125,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "b90712e1-bcda-4750-ac57-de68e0b8f12a")
-		(at -62.955 161.525)
+		(at 137.865 139.69)
 		(property "Reference" "TP25"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -75312,7 +75311,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "bc761346-43b8-4be4-9889-cc0709ca10f6")
-		(at -60.705 170.525)
+		(at 140.115 148.69)
 		(property "Reference" "TP35"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -76236,7 +76235,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c2abfc1f-ac04-448a-a2ef-741eb65d7373")
-		(at 142.73 87.605 90)
+		(at 138.5 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R43"
@@ -76605,7 +76604,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "c436a706-49e1-4512-aad9-8110c3bfe596")
-		(at -69.705 166.025)
+		(at 131.115 144.19)
 		(property "Reference" "TP9"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -76791,7 +76790,7 @@
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c575a55e-2bd7-4b95-9f93-afcf140d0d1d")
-		(at -48.77 162.095)
+		(at 152.05 140.26)
 		(descr "Capacitor SMD 0402")
 		(tags "capacitor SMD 0402")
 		(property "Reference" "C1"
@@ -83888,7 +83887,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "c9014967-74be-4361-b460-87f88c61dac1")
-		(at -65.205 163.775)
+		(at 135.615 141.94)
 		(property "Reference" "TP20"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -84074,11 +84073,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ca3b0a78-becf-4431-9258-968f74317bea")
-		(at 218.66 103.57)
+		(at 124.8 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R116"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "e893233d-8064-4615-babc-22f639c5279b")
 			(effects
@@ -84086,11 +84085,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "21c92a4b-7191-462e-abc9-8fa465a4edea")
 			(effects
@@ -84098,11 +84097,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9381e898-df11-4e72-8807-b29152647735")
@@ -84114,7 +84113,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e654bed0-e366-4d84-864f-83cf8f73e885")
@@ -84126,7 +84125,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -84139,7 +84138,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -84152,7 +84151,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -84165,7 +84164,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -84178,7 +84177,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -84191,7 +84190,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -84204,7 +84203,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -84284,16 +84283,6 @@
 			(uuid "783aba75-2ef9-4720-9c36-1f47c079eb87")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "e571bfe0-f7b8-436c-bf08-b345c7621868")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -84314,24 +84303,24 @@
 			(uuid "46eb7dae-5014-45f7-9d1b-de6629a73a87")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "74cf1064-325e-449c-9b6b-9845b8cd71be")
+			(uuid "8485d16f-6ec2-40cf-a859-8256349c8313")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "2a57de5a-5670-4b9d-a8d2-2f7553d2349e")
+			(uuid "f37eaef1-7921-403f-b7f6-9a313623e897")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -84344,14 +84333,34 @@
 			(uuid "3ea859e8-e623-4766-9bae-1796887242a3")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "8485d16f-6ec2-40cf-a859-8256349c8313")
+			(uuid "2a57de5a-5670-4b9d-a8d2-2f7553d2349e")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "e571bfe0-f7b8-436c-bf08-b345c7621868")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "74cf1064-325e-449c-9b6b-9845b8cd71be")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -84363,42 +84372,8 @@
 			(layer "User.9")
 			(uuid "1b7f1e3d-735c-4db8-8226-668fbaa589b8")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "f37eaef1-7921-403f-b7f6-9a313623e897")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "1344cb65-724d-43d6-b4af-c3f351dcc31e")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "c35f2c26-60e5-4510-b0a7-b7d41dee8d01")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "0518e937-dc7b-41cc-83de-4d8530d8fa50")
 			(effects
@@ -84406,11 +84381,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "c35f2c26-60e5-4510-b0a7-b7d41dee8d01")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "1344cb65-724d-43d6-b4af-c3f351dcc31e")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -84419,7 +84418,7 @@
 			(uuid "097817fe-0d69-44ec-97ae-0057969fc557")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -84812,7 +84811,7 @@
 	(footprint "antmicro-footprints:SOT-523"
 		(layer "F.Cu")
 		(uuid "ced5739b-513c-46a7-ab42-754d95b69b59")
-		(at -54.665 162.085)
+		(at 146.155 140.25)
 		(property "Reference" "Q2"
 			(at 0.349 -1.726 0)
 			(layer "F.SilkS")
@@ -85669,7 +85668,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "cf1b2818-d422-4c6e-b1c5-efa40dceeb1b")
-		(at -67.455 163.775)
+		(at 133.365 141.94)
 		(property "Reference" "TP14"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -91797,7 +91796,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "d8c997ad-f16b-4ed3-be71-9eeffbd923e8")
-		(at 144.72 87.605 90)
+		(at 139.1 80.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R44"
@@ -92904,7 +92903,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "de63eac0-2c65-4920-8508-fa3053d2ef61")
-		(at -76.97 170.682)
+		(at 123.85 148.847)
 		(property "Reference" "J12"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -94323,7 +94322,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "e0f2ec88-ef63-486b-a44c-0a69b96d88a6")
-		(at -71.955 163.775)
+		(at 128.865 141.94)
 		(property "Reference" "TP2"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -94509,7 +94508,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e10e3d16-1c6b-4f58-85c0-dde4d079ffc1")
-		(at 152.68 87.605 90)
+		(at 141.15 80.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R48"
@@ -94878,7 +94877,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e79edd6b-2645-4c6b-8d1c-bdaff6ac0c65")
-		(at 150.69 87.605 90)
+		(at 142.17 80.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R47"
@@ -95247,7 +95246,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e9da6436-22ef-4b0d-ae6d-830ed389f49c")
-		(at 120.35 87.67 90)
+		(at 130.7 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R86"
@@ -95259,7 +95258,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -95271,7 +95270,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -95299,7 +95298,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -95312,7 +95311,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -95325,7 +95324,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -95338,7 +95337,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -95351,7 +95350,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -95364,7 +95363,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -95377,7 +95376,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -95447,84 +95446,14 @@
 			(uuid "26a1506b-356a-4a8e-bbb7-5bc8dc093a08")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "42bf1a13-a5f3-463c-8d80-892c2443a1ae")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "317a1cf3-2e20-41c8-b5d7-c51221335923")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "f0daeb8e-f62a-4b33-8f25-359c3504547f")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "07469728-d059-48b5-a64b-30a16e77f22a")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "2fd39212-1721-405e-9c94-7b2cd9d76d15")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "74c85641-ab32-4eb3-b7d3-23d38f1358f7")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "81870b6a-1c3c-49b8-98f8-b8f13981afa8")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "28744f7f-f3d6-47a0-bddb-77630a1e262f")
+			(uuid "b233d04a-471f-4f5f-b7fa-a60bbbda63a5")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -95537,25 +95466,95 @@
 			(uuid "3cad9365-ecc2-490e-9b68-37eb3ddc50ec")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "28744f7f-f3d6-47a0-bddb-77630a1e262f")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "81870b6a-1c3c-49b8-98f8-b8f13981afa8")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "74c85641-ab32-4eb3-b7d3-23d38f1358f7")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "2fd39212-1721-405e-9c94-7b2cd9d76d15")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "07469728-d059-48b5-a64b-30a16e77f22a")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "b233d04a-471f-4f5f-b7fa-a60bbbda63a5")
+			(uuid "f0daeb8e-f62a-4b33-8f25-359c3504547f")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "317a1cf3-2e20-41c8-b5d7-c51221335923")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "42bf1a13-a5f3-463c-8d80-892c2443a1ae")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "35c1d681-da9d-46b1-9e20-a9f319b830e3")
+			(uuid "2f34bbb8-0476-48c8-9ec0-b18e34183d9e")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -95567,23 +95566,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "2f34bbb8-0476-48c8-9ec0-b18e34183d9e")
+			(uuid "35c1d681-da9d-46b1-9e20-a9f319b830e3")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -95592,7 +95591,7 @@
 			(uuid "19db925c-91a9-4025-9be0-93bdbb152b28")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -95985,7 +95984,7 @@
 	(footprint "antmicro-footprints:SOT-523"
 		(layer "F.Cu")
 		(uuid "ed921c2c-c448-49cb-98e6-10c58b2c2170")
-		(at -42.775 168.685)
+		(at 158.045 146.85)
 		(property "Reference" "Q3"
 			(at 0.349 -1.726 0)
 			(layer "F.SilkS")
@@ -96842,7 +96841,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "f3f8fb79-81a5-45d3-a44f-2934ee0caf97")
-		(at -76.97 163.133)
+		(at 123.85 141.298)
 		(property "Reference" "J11"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -98630,11 +98629,11 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f4eeb7d8-9f9e-4067-b8c2-4f6ea31c945e")
-		(at 215.76 105.56)
+		(at 118.36 78.042486 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R104"
-			(at -1.122484 -0.772697 0)
+			(at -1.122484 -0.772697 90)
 			(layer "F.SilkS")
 			(uuid "9af79be1-7e47-49de-a21a-0e2ab4a06383")
 			(effects
@@ -98642,11 +98641,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at -1.011843 1.772047 0)
+			(at -1.011843 1.772047 90)
 			(layer "F.Fab")
 			(uuid "548745fd-d461-483b-be3f-8861216626dd")
 			(effects
@@ -98654,11 +98653,11 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b1394484-e914-4268-8646-b446a4013a11")
@@ -98670,7 +98669,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bb202535-f44c-4664-88b6-cc03438b8923")
@@ -98682,7 +98681,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -98695,7 +98694,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -98708,7 +98707,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -98721,7 +98720,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -98734,7 +98733,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -98747,7 +98746,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -98760,7 +98759,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -98840,16 +98839,6 @@
 			(uuid "7747db1d-3f1d-41d5-ab3b-9ff46d023f9f")
 		)
 		(fp_line
-			(start -0.25 -0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "51ef5d49-bbe6-4895-a4f6-1303d9337fc8")
-		)
-		(fp_line
 			(start -0.25 0.248)
 			(end -0.5 0.248)
 			(stroke
@@ -98870,24 +98859,24 @@
 			(uuid "b82f900f-00ac-4fab-b754-e4c4a57344aa")
 		)
 		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
+			(start 0.248 0.248)
+			(end 0.498 0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "484906de-70c3-422a-bc70-ddc725c3a364")
+			(uuid "e09383f3-c4b9-42b6-8e5d-f0998b914d6c")
 		)
 		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "17c437e4-cab9-4d83-8cbd-8abf616bf9a5")
+			(uuid "f2298234-2495-488e-9021-927ef906259c")
 		)
 		(fp_line
 			(start 0.248 0.23)
@@ -98900,14 +98889,34 @@
 			(uuid "0bc966a9-ecab-4745-8e55-478d63324639")
 		)
 		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "e09383f3-c4b9-42b6-8e5d-f0998b914d6c")
+			(uuid "17c437e4-cab9-4d83-8cbd-8abf616bf9a5")
+		)
+		(fp_line
+			(start -0.25 -0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "51ef5d49-bbe6-4895-a4f6-1303d9337fc8")
+		)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "484906de-70c3-422a-bc70-ddc725c3a364")
 		)
 		(fp_line
 			(start 0.498 -0.25)
@@ -98919,42 +98928,8 @@
 			(layer "User.9")
 			(uuid "04867481-e282-42d8-a367-714792c106c2")
 		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "f2298234-2495-488e-9021-927ef906259c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 0)
-			(layer "F.Fab")
-			(uuid "c9f1af62-0ec3-4da6-94dd-48a73a2fc281")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(fp_text user "Author: Antmicro"
-			(at -0.95 4.169 0)
-			(layer "F.Fab")
-			(uuid "31ea566d-e73e-4a07-a246-672a91d0a22e")
-			(effects
-				(font
-					(size 0.7 0.7)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
 		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 0)
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
 			(uuid "e3340292-75c8-4a47-a016-f385e7cbdbae")
 			(effects
@@ -98962,11 +98937,35 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
+			)
+		)
+		(fp_text user "Author: Antmicro"
+			(at -0.95 4.169 90)
+			(layer "F.Fab")
+			(uuid "31ea566d-e73e-4a07-a246-672a91d0a22e")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
+			(layer "F.Fab")
+			(uuid "c9f1af62-0ec3-4da6-94dd-48a73a2fc281")
+			(effects
+				(font
+					(size 0.7 0.7)
+					(thickness 0.15)
+				)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -98975,7 +98974,7 @@
 			(uuid "395a31f2-b960-4da2-b8b4-7a78552a8928")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -98999,7 +98998,7 @@
 	(footprint "antmicro-footprints:WSON-6-1EP_2x2mm_P0.65mm"
 		(layer "F.Cu")
 		(uuid "f6001d67-312d-45b5-8d51-a3248369fee9")
-		(at -42.445 162.875)
+		(at 158.375 141.04)
 		(property "Reference" "U1"
 			(at 0 -1.4 0)
 			(layer "F.SilkS")
@@ -100839,7 +100838,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f8d71485-d868-4ddb-934b-edae1c2249e5")
-		(at 132.725 87.595 90)
+		(at 134.3 80.05 -90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R73"
@@ -100851,7 +100850,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -100863,7 +100862,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -100891,7 +100890,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -100904,7 +100903,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -100917,7 +100916,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -100930,7 +100929,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -100943,7 +100942,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -100956,7 +100955,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -100969,7 +100968,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -101039,84 +101038,14 @@
 			(uuid "8ea2a2d5-e00d-4593-847b-3ea3fcaa287b")
 		)
 		(fp_line
-			(start 0.498 -0.25)
-			(end 0.248 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "47d3f5d3-0d06-41a7-81b2-6f0a83991a3e")
-		)
-		(fp_line
-			(start 0.248 -0.25)
-			(end 0.248 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "ac5617ba-9b40-429d-bf34-e2c3a2c9f541")
-		)
-		(fp_line
-			(start -0.25 -0.25)
+			(start -0.5 0.248)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "6ea3f6b0-134d-43b8-b76d-157579e43a54")
-		)
-		(fp_line
-			(start 0.248 -0.232)
-			(end -0.25 -0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "2dd0cadc-30a4-4067-83ac-5e3755749697")
-		)
-		(fp_line
-			(start 0.248 0.23)
-			(end -0.25 0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "def2c8db-0422-4e00-9f31-9365ab8d416b")
-		)
-		(fp_line
-			(start 0.498 0.248)
-			(end 0.498 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "2871cf7f-2c3d-4dff-b88b-ef1842af730c")
-		)
-		(fp_line
-			(start 0.248 0.248)
-			(end 0.498 0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "e15afcfc-986a-436a-a59b-cd6e781a11c6")
-		)
-		(fp_line
-			(start -0.25 0.248)
-			(end -0.25 -0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "4a54aaf3-ac09-4fe3-8f8e-d6699758e614")
+			(uuid "cf929735-1f5a-4dad-9be5-289a0e02a34b")
 		)
 		(fp_line
 			(start -0.25 0.248)
@@ -101129,25 +101058,95 @@
 			(uuid "57e3859b-484e-4a6e-a8e0-0f62972ab7bc")
 		)
 		(fp_line
-			(start -0.5 0.248)
+			(start -0.25 0.248)
+			(end -0.25 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "4a54aaf3-ac09-4fe3-8f8e-d6699758e614")
+		)
+		(fp_line
+			(start 0.248 0.248)
+			(end 0.498 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "e15afcfc-986a-436a-a59b-cd6e781a11c6")
+		)
+		(fp_line
+			(start 0.498 0.248)
+			(end 0.498 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "2871cf7f-2c3d-4dff-b88b-ef1842af730c")
+		)
+		(fp_line
+			(start 0.248 0.23)
+			(end -0.25 0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "def2c8db-0422-4e00-9f31-9365ab8d416b")
+		)
+		(fp_line
+			(start 0.248 -0.232)
+			(end -0.25 -0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "2dd0cadc-30a4-4067-83ac-5e3755749697")
+		)
+		(fp_line
+			(start -0.25 -0.25)
 			(end -0.5 -0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "cf929735-1f5a-4dad-9be5-289a0e02a34b")
+			(uuid "6ea3f6b0-134d-43b8-b76d-157579e43a54")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 3.168 90)
+		(fp_line
+			(start 0.248 -0.25)
+			(end 0.248 0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "ac5617ba-9b40-429d-bf34-e2c3a2c9f541")
+		)
+		(fp_line
+			(start 0.498 -0.25)
+			(end 0.248 -0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "47d3f5d3-0d06-41a7-81b2-6f0a83991a3e")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 5.169 90)
 			(layer "F.Fab")
-			(uuid "0c9909f1-9165-4b5c-bf56-c44c14d70e96")
+			(uuid "f98524d2-a64a-45f3-82db-1ce65b5db035")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -101159,23 +101158,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 3.168 90)
 			(layer "F.Fab")
-			(uuid "f98524d2-a64a-45f3-82db-1ce65b5db035")
+			(uuid "0c9909f1-9165-4b5c-bf56-c44c14d70e96")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom)
+				(justify right top)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -101184,7 +101183,7 @@
 			(uuid "4ce5d366-779d-403d-a2c9-be282761c5f1")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -101208,7 +101207,7 @@
 	(footprint "antmicro-footprints:PinHeader_2x5_P1.27mm_SMD"
 		(layer "F.Cu")
 		(uuid "f8ef0cf8-2581-447c-ae86-34a8b24831c7")
-		(at -84.869 170.682)
+		(at 115.951 148.847)
 		(property "Reference" "J6"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
@@ -102627,7 +102626,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "fc18e5f4-59d7-4691-99a3-55b7122cb2d7")
-		(at -45.87 170.055)
+		(at 154.95 148.22)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R137"
@@ -102983,7 +102982,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "F.Cu")
 		(uuid "fd31d8a2-014a-4d16-8134-9603fbce18c5")
-		(at -62.955 163.775)
+		(at 137.865 141.94)
 		(property "Reference" "TP26"
 			(at 0 -0.731898 0)
 			(layer "F.SilkS")
@@ -103169,7 +103168,7 @@
 	(footprint "antmicro-footprints:LED_0402_1005Metric_G"
 		(layer "F.Cu")
 		(uuid "fec7d45d-dde5-42aa-b1f1-f100b87b3fe2")
-		(at -38.995 162.095)
+		(at 161.825 140.26)
 		(property "Reference" "D3"
 			(at 0 -0.6 0)
 			(unlocked yes)
@@ -118774,7 +118773,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
 		(uuid "b28a8681-c377-43bf-a4ed-0a4edc7e11b5")
-		(at 129.85 78.05 90)
+		(at 130.1 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R1"
@@ -119530,7 +119529,7 @@
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
 		(uuid "c25401ec-c698-4a5b-a74b-c764d4712041")
-		(at 139.7 78.05 -90)
+		(at 139.7 78.05 90)
 		(descr "Resistor SMD 0402")
 		(tags "resistor SMD 0402")
 		(property "Reference" "R17"
@@ -119542,7 +119541,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
 		(property "Value" "R_0R_0402"
@@ -119554,7 +119553,7 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
@@ -119584,7 +119583,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -119598,7 +119597,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -119612,7 +119611,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -119626,7 +119625,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -119640,7 +119639,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -119654,7 +119653,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -119668,7 +119667,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -119739,84 +119738,14 @@
 			(uuid "597cea2b-ad80-4b36-acd4-1606c519f1d2")
 		)
 		(fp_line
-			(start -0.25 0.25)
-			(end -0.5 0.25)
+			(start 0.498 -0.248)
+			(end 0.498 0.25)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "3d7178fc-4e2a-4fd0-92e8-36c5d1f47a11")
-		)
-		(fp_line
-			(start 0.248 0.25)
-			(end 0.248 -0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "1f325a7a-a7dd-4cb3-b008-874ffef52dba")
-		)
-		(fp_line
-			(start 0.498 0.25)
-			(end 0.248 0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "a5414e1d-144e-47d7-bf2a-fcae87184e74")
-		)
-		(fp_line
-			(start 0.248 0.232)
-			(end -0.25 0.232)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "f71fbd73-44e3-4b6a-b2fe-8f9668fc6853")
-		)
-		(fp_line
-			(start 0.248 -0.23)
-			(end -0.25 -0.23)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "a959c727-4213-4798-9a1e-90d076998ddd")
-		)
-		(fp_line
-			(start -0.5 -0.248)
-			(end -0.5 0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "34122f42-5fc2-4af7-9330-99fba45e87ef")
-		)
-		(fp_line
-			(start -0.25 -0.248)
-			(end -0.25 0.25)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "34486cfc-04fb-4711-bdbc-4289e1ea194f")
-		)
-		(fp_line
-			(start -0.25 -0.248)
-			(end -0.5 -0.248)
-			(stroke
-				(width 0.02)
-				(type solid)
-			)
-			(layer "User.9")
-			(uuid "116548a8-9854-4668-b859-6c299eed61c1")
+			(uuid "8265a3ac-1ec0-4092-ba4e-079a48055b36")
 		)
 		(fp_line
 			(start 0.248 -0.248)
@@ -119829,25 +119758,95 @@
 			(uuid "8b964d91-847d-4333-8f2a-ff517c8b917b")
 		)
 		(fp_line
-			(start 0.498 -0.248)
-			(end 0.498 0.25)
+			(start -0.25 -0.248)
+			(end -0.5 -0.248)
 			(stroke
 				(width 0.02)
 				(type solid)
 			)
 			(layer "User.9")
-			(uuid "8265a3ac-1ec0-4092-ba4e-079a48055b36")
+			(uuid "116548a8-9854-4668-b859-6c299eed61c1")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -0.95 -3.168 90)
+		(fp_line
+			(start -0.25 -0.248)
+			(end -0.25 0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "34486cfc-04fb-4711-bdbc-4289e1ea194f")
+		)
+		(fp_line
+			(start -0.5 -0.248)
+			(end -0.5 0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "34122f42-5fc2-4af7-9330-99fba45e87ef")
+		)
+		(fp_line
+			(start 0.248 -0.23)
+			(end -0.25 -0.23)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "a959c727-4213-4798-9a1e-90d076998ddd")
+		)
+		(fp_line
+			(start 0.248 0.232)
+			(end -0.25 0.232)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "f71fbd73-44e3-4b6a-b2fe-8f9668fc6853")
+		)
+		(fp_line
+			(start 0.498 0.25)
+			(end 0.248 0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "a5414e1d-144e-47d7-bf2a-fcae87184e74")
+		)
+		(fp_line
+			(start 0.248 0.25)
+			(end 0.248 -0.248)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "1f325a7a-a7dd-4cb3-b008-874ffef52dba")
+		)
+		(fp_line
+			(start -0.25 0.25)
+			(end -0.5 0.25)
+			(stroke
+				(width 0.02)
+				(type solid)
+			)
+			(layer "User.9")
+			(uuid "3d7178fc-4e2a-4fd0-92e8-36c5d1f47a11")
+		)
+		(fp_text user "License: Apache-2.0"
+			(at -0.95 -5.169 90)
 			(layer "B.Fab")
-			(uuid "2456dffd-7d47-41ae-9c5a-8cbb9b50dda8")
+			(uuid "62d37f44-c79f-4b19-aadb-b4102b3e6acb")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
 		(fp_text user "Author: Antmicro"
@@ -119859,23 +119858,23 @@
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
-		(fp_text user "License: Apache-2.0"
-			(at -0.95 -5.169 90)
+		(fp_text user "${REFERENCE}"
+			(at -0.95 -3.168 90)
 			(layer "B.Fab")
-			(uuid "62d37f44-c79f-4b19-aadb-b4102b3e6acb")
+			(uuid "2456dffd-7d47-41ae-9c5a-8cbb9b50dda8")
 			(effects
 				(font
 					(size 0.7 0.7)
 					(thickness 0.15)
 				)
-				(justify left bottom mirror)
+				(justify right top mirror)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 270)
+			(at -0.48 0 90)
 			(size 0.59 0.64)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
@@ -119884,7 +119883,7 @@
 			(uuid "e8830f54-6e82-429d-9de2-4447841459d3")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 270)
+			(at 0.48 0 90)
 			(size 0.59 0.64)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
