@@ -9454,7 +9454,7 @@
 		)
 		(uuid "15ab63a5-7f11-44da-8d65-ca03b6ada6aa")
 	)
-	(label "CLK_100M_1_CLK+"
+	(label "CLK_100M_1_CLK-"
 		(at 281.94 92.71 0)
 		(effects
 			(font
