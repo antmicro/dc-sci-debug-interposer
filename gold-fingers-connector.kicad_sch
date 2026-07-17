@@ -3843,19 +3843,19 @@
 		(uuid "fa5e5b76-c416-4e48-b6cb-e8e0fa18b104")
 	)
 	(no_connect
-		(at 309.88 171.45)
+		(at 280.67 171.45)
 		(uuid "2626bc52-4a4c-4863-9a88-a15bceb9a7da")
 	)
 	(no_connect
-		(at 309.88 177.8)
+		(at 280.67 177.8)
 		(uuid "451cff25-c6a4-4034-92da-ba00e4a7afd8")
 	)
 	(no_connect
-		(at 309.88 175.26)
+		(at 280.67 175.26)
 		(uuid "944299ad-2c8b-4d22-88d6-9cb88610ffaf")
 	)
 	(no_connect
-		(at 309.88 168.91)
+		(at 280.67 168.91)
 		(uuid "fa520611-3179-474f-b4ed-4efa59b9ec73")
 	)
 	(bus_entry
@@ -4906,7 +4906,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 163.83) (xy 311.15 163.83)
+			(xy 280.67 163.83) (xy 311.15 163.83)
 		)
 		(stroke
 			(width 0)
@@ -5326,7 +5326,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 140.97) (xy 311.15 140.97)
+			(xy 280.67 140.97) (xy 311.15 140.97)
 		)
 		(stroke
 			(width 0)
@@ -5566,7 +5566,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 113.03) (xy 311.15 113.03)
+			(xy 280.67 113.03) (xy 311.15 113.03)
 		)
 		(stroke
 			(width 0)
@@ -5786,7 +5786,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 78.74) (xy 311.15 78.74)
+			(xy 280.67 78.74) (xy 311.15 78.74)
 		)
 		(stroke
 			(width 0)
@@ -5806,7 +5806,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 133.35) (xy 311.15 133.35)
+			(xy 280.67 133.35) (xy 311.15 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5856,7 +5856,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 121.92) (xy 311.15 121.92)
+			(xy 280.67 121.92) (xy 311.15 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6126,7 +6126,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 115.57) (xy 311.15 115.57)
+			(xy 280.67 115.57) (xy 311.15 115.57)
 		)
 		(stroke
 			(width 0)
@@ -6196,7 +6196,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 99.06) (xy 311.15 99.06)
+			(xy 280.67 99.06) (xy 311.15 99.06)
 		)
 		(stroke
 			(width 0)
@@ -6236,7 +6236,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 193.04) (xy 311.15 193.04)
+			(xy 280.67 193.04) (xy 311.15 193.04)
 		)
 		(stroke
 			(width 0)
@@ -6476,7 +6476,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 149.86) (xy 311.15 149.86)
+			(xy 280.67 149.86) (xy 311.15 149.86)
 		)
 		(stroke
 			(width 0)
@@ -6506,7 +6506,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 105.41) (xy 311.15 105.41)
+			(xy 280.67 105.41) (xy 311.15 105.41)
 		)
 		(stroke
 			(width 0)
@@ -6516,7 +6516,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 186.69) (xy 311.15 186.69)
+			(xy 280.67 186.69) (xy 311.15 186.69)
 		)
 		(stroke
 			(width 0)
@@ -6526,7 +6526,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 101.6) (xy 311.15 101.6)
+			(xy 280.67 101.6) (xy 311.15 101.6)
 		)
 		(stroke
 			(width 0)
@@ -6716,7 +6716,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 161.29) (xy 311.15 161.29)
+			(xy 280.67 161.29) (xy 311.15 161.29)
 		)
 		(stroke
 			(width 0)
@@ -7256,7 +7256,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 135.89) (xy 311.15 135.89)
+			(xy 280.67 135.89) (xy 311.15 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7276,7 +7276,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 157.48) (xy 311.15 157.48)
+			(xy 280.67 157.48) (xy 311.15 157.48)
 		)
 		(stroke
 			(width 0)
@@ -7536,7 +7536,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 147.32) (xy 311.15 147.32)
+			(xy 280.67 147.32) (xy 311.15 147.32)
 		)
 		(stroke
 			(width 0)
@@ -7576,7 +7576,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 127) (xy 311.15 127)
+			(xy 280.67 127) (xy 311.15 127)
 		)
 		(stroke
 			(width 0)
@@ -7656,7 +7656,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 143.51) (xy 311.15 143.51)
+			(xy 280.67 143.51) (xy 311.15 143.51)
 		)
 		(stroke
 			(width 0)
@@ -7746,7 +7746,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 107.95) (xy 311.15 107.95)
+			(xy 280.67 107.95) (xy 311.15 107.95)
 		)
 		(stroke
 			(width 0)
@@ -7846,7 +7846,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 154.94) (xy 311.15 154.94)
+			(xy 280.67 154.94) (xy 311.15 154.94)
 		)
 		(stroke
 			(width 0)
@@ -7966,7 +7966,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 86.36) (xy 311.15 86.36)
+			(xy 280.67 86.36) (xy 311.15 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8456,7 +8456,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 90.17) (xy 311.15 90.17)
+			(xy 280.67 90.17) (xy 311.15 90.17)
 		)
 		(stroke
 			(width 0)
@@ -8656,7 +8656,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 92.71) (xy 311.15 92.71)
+			(xy 280.67 92.71) (xy 311.15 92.71)
 		)
 		(stroke
 			(width 0)
@@ -8666,7 +8666,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 184.15) (xy 311.15 184.15)
+			(xy 280.67 184.15) (xy 311.15 184.15)
 		)
 		(stroke
 			(width 0)
@@ -8706,7 +8706,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 129.54) (xy 311.15 129.54)
+			(xy 280.67 129.54) (xy 311.15 129.54)
 		)
 		(stroke
 			(width 0)
@@ -9176,7 +9176,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 190.5) (xy 311.15 190.5)
+			(xy 280.67 190.5) (xy 311.15 190.5)
 		)
 		(stroke
 			(width 0)
@@ -9206,7 +9206,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 119.38) (xy 311.15 119.38)
+			(xy 280.67 119.38) (xy 311.15 119.38)
 		)
 		(stroke
 			(width 0)
@@ -9236,7 +9236,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 83.82) (xy 311.15 83.82)
+			(xy 280.67 83.82) (xy 311.15 83.82)
 		)
 		(stroke
 			(width 0)
@@ -9294,6 +9294,16 @@
 		)
 		(uuid "03099647-7eb2-42d4-a78c-aabf52c12fe0")
 	)
+	(label "CLK_100M_1_CLK+"
+		(at 281.94 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0370162f-283e-44cf-a04a-34d0ad2f0a14")
+	)
 	(label "DC_SCM_I2C1.SDA"
 		(at 52.07 118.11 0)
 		(effects
@@ -9303,6 +9313,16 @@
 			(justify left bottom)
 		)
 		(uuid "05be331e-3886-42d8-bad5-559502faa915")
+	)
+	(label "PCIE0_SGMII_TX2+"
+		(at 281.94 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0634f5b6-4a81-42b1-87c6-fb0f9899cd44")
 	)
 	(label "DC_SCM_I2C_I3C19.SDA"
 		(at 161.29 156.21 0)
@@ -9374,6 +9394,16 @@
 		)
 		(uuid "12468539-4a15-4049-b477-e36661bb6b12")
 	)
+	(label "CLK_100M_0_CLK-"
+		(at 281.94 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1372e460-262b-4696-a2af-79ebeb2366a9")
+	)
 	(label "DC-SCM_PCIE0_SGMII.RX3+"
 		(at 323.85 147.32 0)
 		(effects
@@ -9414,6 +9444,16 @@
 		)
 		(uuid "15ab63a5-7f11-44da-8d65-ca03b6ada6aa")
 	)
+	(label "CLK_100M_1_CLK+"
+		(at 281.94 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1957ca54-bbe4-4868-98ee-1c51d2442033")
+	)
 	(label "DC_SCM_I2C0.SDA"
 		(at 52.07 111.76 0)
 		(effects
@@ -9433,6 +9473,16 @@
 			(justify left bottom)
 		)
 		(uuid "202c91b4-a849-4a92-bc81-4edbb626f62a")
+	)
+	(label "PCIE1_TX0-"
+		(at 281.94 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20eab05b-c2d4-4f32-b2f0-5f427865708d")
 	)
 	(label "DC_SCM_I2C_I3C12.SDA"
 		(at 161.29 111.76 0)
@@ -9483,6 +9533,36 @@
 			(justify left bottom)
 		)
 		(uuid "2903160d-c899-4a56-83a4-ec902b3511c9")
+	)
+	(label "PCIE1_TX0+"
+		(at 281.94 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "294357ea-37ed-4c34-b2ea-f6e9d134829f")
+	)
+	(label "PCIE0_SGMII_TX1+"
+		(at 281.94 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a5d59ef-5cfe-4d4f-861f-5dd304a9a9be")
+	)
+	(label "PCIE0_SGMII_TX3-"
+		(at 281.94 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c02385e-bb1a-4fc4-9eef-0da0bed8d0e2")
 	)
 	(label "DC_SCM_I2C_I3C17.SCL"
 		(at 161.29 140.97 0)
@@ -9554,6 +9634,26 @@
 		)
 		(uuid "324864d9-3f3b-4418-a4d5-4081073a1313")
 	)
+	(label "PCIE1_RX0-"
+		(at 281.94 163.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34402176-5d6f-4607-b041-9ea7da1eb351")
+	)
+	(label "PCIE0_SGMII_RX0-"
+		(at 281.94 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3524995b-66ac-4dd7-b8b8-ef42a688fddd")
+	)
 	(label "DC-SCM_CLK_100M_1.CLK-"
 		(at 323.85 92.71 0)
 		(effects
@@ -9583,6 +9683,16 @@
 			(justify right bottom)
 		)
 		(uuid "37812134-38da-4b60-9ac4-4b4c61685f53")
+	)
+	(label "PCIE0_SGMII_RX1-"
+		(at 281.94 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3799e8c1-0921-4131-ad07-596516f42151")
 	)
 	(label "DC_SCM_USB1.D+"
 		(at 175.26 69.85 180)
@@ -9674,6 +9784,16 @@
 		)
 		(uuid "4d68d16f-ac71-4910-9b36-c637842c2ca4")
 	)
+	(label "PCIE0_SGMII_RX2+"
+		(at 281.94 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4dc74507-d47e-49a8-b55c-9c1f2e2ad7b0")
+	)
 	(label "DC-SCM_PCIE1.TX0+"
 		(at 323.85 154.94 0)
 		(effects
@@ -9713,6 +9833,16 @@
 			(justify right bottom)
 		)
 		(uuid "59198933-89f4-420e-8b58-eeca0c45a928")
+	)
+	(label "PCIE0_SGMII_TX1-"
+		(at 281.94 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a812db0-6cd2-4c7b-b48e-cf3c10d9625f")
 	)
 	(label "DC_SCM_NC-SI.TX_EN"
 		(at 157.48 242.57 0)
@@ -9773,6 +9903,26 @@
 			(justify left bottom)
 		)
 		(uuid "624ac7b4-eac1-4468-afa2-f66727c97267")
+	)
+	(label "PCIE_USB_SCMROOT_TX0-"
+		(at 281.94 193.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "63b37251-1a72-45a2-aed3-76b35dc3c94e")
+	)
+	(label "PCIE_USB_SCMROOT_RX0+"
+		(at 281.94 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65c4c786-d5f7-4e8c-b3dc-f65897c09334")
 	)
 	(label "DC_SCM_I2C5.SDA"
 		(at 52.07 143.51 0)
@@ -9854,6 +10004,16 @@
 		)
 		(uuid "7fcc51d2-677d-4f94-b3e3-227d418666dc")
 	)
+	(label "PCIE1_RX0+"
+		(at 281.94 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "80216be3-028d-48b7-a69f-0979fb62c0ef")
+	)
 	(label "DC_SCM_I2C_I3C18.SCL"
 		(at 161.29 147.32 0)
 		(effects
@@ -9914,6 +10074,26 @@
 		)
 		(uuid "94382cdd-a64a-4086-9079-1a2ce7ed36f7")
 	)
+	(label "PCIE0_SGMII_TX3+"
+		(at 281.94 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "944e8dac-a283-4b06-803d-141905177081")
+	)
+	(label "PCIE0_SGMII_TX0+"
+		(at 281.94 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "96fa0f71-e6c0-44fc-a6aa-83d972225322")
+	)
 	(label "DC_SCM_TPM_SPI.DI"
 		(at 50.8 180.34 0)
 		(effects
@@ -9943,6 +10123,16 @@
 			(justify left bottom)
 		)
 		(uuid "a0a8ccca-298b-412c-912a-03324e0f5f04")
+	)
+	(label "PCIE_USB_SCMROOT_RX0-"
+		(at 281.94 186.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a22f6ff2-5340-4d31-a67e-8322ce1a727e")
 	)
 	(label "DC_SCM_SPI_SCMCNTRL.~{CS1}"
 		(at 161.29 176.53 0)
@@ -10134,6 +10324,16 @@
 		)
 		(uuid "c2ab87fd-80f9-4df2-ba96-d1445a4f72ca")
 	)
+	(label "PCIE_USB_SCMROOT_TX0+"
+		(at 281.94 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c300b146-5cb8-4958-a1cd-9855a35f3706")
+	)
 	(label "DC_SCM_JTAG.TDI"
 		(at 50.8 66.04 0)
 		(effects
@@ -10153,6 +10353,16 @@
 			(justify left bottom)
 		)
 		(uuid "c69fcaef-6604-4267-855e-708a94ea4704")
+	)
+	(label "PCIE0_SGMII_TX0-"
+		(at 281.94 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c7a76463-b2eb-4a5d-a0f6-6b8dc8645512")
 	)
 	(label "DC_SCM_I2C_I3C15.SCL"
 		(at 161.29 128.27 0)
@@ -10264,6 +10474,26 @@
 		)
 		(uuid "d98224c6-bed6-40ef-ab4d-3fc08f42a77e")
 	)
+	(label "PCIE0_SGMII_RX0+"
+		(at 281.94 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dc5a5970-11f9-4ead-b5e8-96875c3380f7")
+	)
+	(label "PCIE0_SGMII_RX2-"
+		(at 281.94 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dcb1ada4-3c43-439f-8456-4ff009d04177")
+	)
 	(label "DC_SCM_I2C6.SDA"
 		(at 52.07 149.86 0)
 		(effects
@@ -10314,6 +10544,16 @@
 		)
 		(uuid "e6fc6925-2f3d-43a6-bf09-492f659ebbb6")
 	)
+	(label "CLK_100M_0_CLK+"
+		(at 281.94 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8651195-96ab-4426-b265-02228d053b19")
+	)
 	(label "DC_SCM_I2C2.SCL"
 		(at 52.07 121.92 0)
 		(effects
@@ -10333,6 +10573,16 @@
 			(justify left bottom)
 		)
 		(uuid "eec5262f-d847-4dfc-999c-324c02e02ac5")
+	)
+	(label "PCIE0_SGMII_RX3+"
+		(at 281.94 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f113fd10-539e-4872-aaa7-7986e1a092f6")
 	)
 	(label "DC_SCM_SPI_SCMCNTRL.DO"
 		(at 161.29 180.34 0)
@@ -10393,6 +10643,36 @@
 			(justify left bottom)
 		)
 		(uuid "f8c8428d-fb5b-4f1e-94c6-184cf923baeb")
+	)
+	(label "PCIE0_SGMII_TX2-"
+		(at 281.94 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb6f697e-8fb0-496c-adb9-3505e513c64d")
+	)
+	(label "PCIE0_SGMII_RX3-"
+		(at 281.94 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fc1693dd-69b3-4d1b-a099-cd2f27f0907a")
+	)
+	(label "PCIE0_SGMII_RX1+"
+		(at 281.94 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fce004c9-cd43-4f37-8893-0e5052c10c7c")
 	)
 	(label "DC_SCM_LTPI.RXD-"
 		(at 53.34 234.95 0)
@@ -10927,7 +11207,7 @@
 		(dnp no)
 		(polyline
 			(pts
-				(xy 355.6 77.47) (xy 401.32 77.47) (xy 401.32 201.93) (xy 355.6 201.93)
+				(xy 280.035 74.93) (xy 400.685 74.93) (xy 401.32 200.66) (xy 280.67 200.66)
 			)
 			(stroke
 				(width 0)
@@ -11152,7 +11432,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 355.6 201.93 180)
+		(at 280.67 200.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11161,7 +11441,7 @@
 		)
 		(uuid "d2e78407-b968-43a4-ada2-8f67ce06e18b")
 		(property "Netclass" "85Ohm-diff"
-			(at 356.108 203.2 0)
+			(at 281.178 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11172,7 +11452,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 554.99 78.74 0)
+			(at 480.06 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17195,7 +17475,7 @@
 	)
 	(symbol
 		(lib_id "antmicroEdgeConnectors:Socket_DC-SCM-2.1_2x84_Rev-1-1_CUSTOM")
-		(at 309.88 78.74 0)
+		(at 280.67 78.74 0)
 		(mirror y)
 		(unit 4)
 		(body_style 1)
@@ -17207,7 +17487,7 @@
 		(fields_autoplaced yes)
 		(uuid "3600091e-5dfd-4f12-a9d4-7edbf7f6ed64")
 		(property "Reference" "J1"
-			(at 278.765 71.12 0)
+			(at 249.555 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17218,7 +17498,7 @@
 			)
 		)
 		(property "Value" "Socket_DC-SCM-2.1_2x84_Rev-1-1_CUSTOM"
-			(at 233.934 86.106 0)
+			(at 204.724 86.106 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17231,7 +17511,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:Socket_DC-SCM-2.1_2x84_Rev-1-1"
-			(at 233.934 88.646 0)
+			(at 204.724 88.646 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17244,7 +17524,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/cme10168x340x10x.pdf"
-			(at 233.934 91.186 0)
+			(at 204.724 91.186 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17257,7 +17537,7 @@
 			)
 		)
 		(property "Description" "DC-SCM 2.1 Socket, Gen Z EDSFF OCP 30 168 pins SMT Straddle Mount"
-			(at 233.934 93.726 0)
+			(at 204.724 93.726 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17270,7 +17550,7 @@
 			)
 		)
 		(property "Manufacturer" "Amphenol"
-			(at 233.934 96.266 0)
+			(at 204.724 96.266 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17283,7 +17563,7 @@
 			)
 		)
 		(property "MPN" "ME1016813401101"
-			(at 278.765 73.66 0)
+			(at 249.555 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17294,7 +17574,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 233.934 98.806 0)
+			(at 204.724 98.806 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17307,7 +17587,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 233.934 101.346 0)
+			(at 204.724 101.346 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

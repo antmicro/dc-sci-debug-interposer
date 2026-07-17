@@ -901,6 +901,18 @@
       "/DC-SCI edge connector/DC_SCM_USB2{USB}": [
         "90Ohm-diff"
       ],
+      "/DC-SCI edge connector/~{PCIE_HPM_SCM_PERST}": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/CLK_100M_0_CLK+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/CLK_100M_0_CLK-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/CLK_100M_1_CLK+": [
+        "85Ohm-diff"
+      ],
       "/DC-SCI gold fingers connector/DC-SCM_CLK_100M_0.CLK+": [
         "85Ohm-diff"
       ],
@@ -1204,6 +1216,78 @@
       "/DC-SCI gold fingers connector/DC_SCM_USB2{USB}": [
         "90Ohm-diff"
       ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX0-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX1+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX1-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX2+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX2-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX3+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_RX3-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX0-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX1+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX1-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX2+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX2-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX3+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE0_SGMII_TX3-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE1_RX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE1_RX0-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE1_TX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE1_TX0-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE_USB_SCMROOT_RX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE_USB_SCMROOT_RX0-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE_USB_SCMROOT_TX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE_USB_SCMROOT_TX0-": [
+        "85Ohm-diff"
+      ],
       "/Peripherals/DC-SCM_CLK_100M_0.CLK+": [
         "85Ohm-diff"
       ],
@@ -1443,6 +1527,21 @@
       ],
       "/Peripherals/DC_SCM_USB2{USB}": [
         "90Ohm-diff"
+      ],
+      "Net-(J1D-PCIE_HPM_SCM_PERST_N)": [
+        "85Ohm-diff"
+      ],
+      "unconnected-(J1D-PCIE_HPMROOT_HPM_SCM_5_DN-PadB65)": [
+        "85Ohm-diff"
+      ],
+      "unconnected-(J1D-PCIE_HPMROOT_HPM_SCM_5_DP-PadB66)": [
+        "85Ohm-diff"
+      ],
+      "unconnected-(J1D-PCIE_HPMROOT_SCM_HPM_5_DN-PadA65)": [
+        "85Ohm-diff"
+      ],
+      "unconnected-(J1D-PCIE_HPMROOT_SCM_HPM_5_DP-PadA66)": [
+        "85Ohm-diff"
       ]
     },
     "netclass_patterns": [
