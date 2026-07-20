@@ -3739,8 +3739,8 @@
 		)
 	)
 	(sheet
-		(at 254 40.64)
-		(size 22.86 48.26)
+		(at 254 39.37)
+		(size 22.86 49.53)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3810,6 +3810,52 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 288.29 39.37)
+		(size 21.59 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "847bc336-fbdd-483f-bdc7-8d84fbfe0e01")
+		(property "Sheetname" "PCIe to USB"
+			(at 288.29 38.6584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pcie_to_usb.kicad_sch"
+			(at 288.29 89.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482"
+					(page "6")
 				)
 			)
 		)
