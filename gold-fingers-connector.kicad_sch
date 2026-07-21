@@ -4070,20 +4070,20 @@
 		(uuid "ffcc5a79-607b-456b-ba34-99fdbcaed2d0")
 	)
 	(no_connect
-		(at 280.67 171.45)
-		(uuid "2626bc52-4a4c-4863-9a88-a15bceb9a7da")
-	)
-	(no_connect
 		(at 280.67 177.8)
-		(uuid "451cff25-c6a4-4034-92da-ba00e4a7afd8")
+		(uuid "09bac8d6-a84d-4fcf-9f04-138f26e03e07")
 	)
 	(no_connect
-		(at 280.67 175.26)
-		(uuid "944299ad-2c8b-4d22-88d6-9cb88610ffaf")
+		(at 280.67 171.45)
+		(uuid "27e0c9c0-dbef-4b8e-8846-2d965ec878ee")
 	)
 	(no_connect
 		(at 280.67 168.91)
-		(uuid "fa520611-3179-474f-b4ed-4efa59b9ec73")
+		(uuid "3035555e-7e7a-44a9-b50b-1377eb94b960")
+	)
+	(no_connect
+		(at 280.67 175.26)
+		(uuid "bf7c735e-be69-4cb4-878b-e16fa9012022")
 	)
 	(bus_entry
 		(at 189.23 123.19)
@@ -11602,7 +11602,7 @@
 		(dnp no)
 		(polyline
 			(pts
-				(xy 280.035 74.93) (xy 400.685 74.93) (xy 401.32 200.66) (xy 280.67 200.66)
+				(xy 280.5112 74.93) (xy 402.7486 74.93) (xy 402.9074 200.66) (xy 280.67 200.66)
 			)
 			(stroke
 				(width 0)

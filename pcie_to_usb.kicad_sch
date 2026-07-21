@@ -252,6 +252,246 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "antmicroCapacitors0402:C_10u_10V_0402"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 20.32 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "C_10u_10V_0402"
+				(at 20.32 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+				(at 20.32 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61A106ME11%23"
+				(at 20.32 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 10 VDC 20% 0402 X5R"
+				(at 20.32 -33.02 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "MPN" "GRM155R61A106ME11D"
+				(at 20.32 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Manufacturer" "Murata"
+				(at 20.32 -20.32 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "License" "Apache-2.0"
+				(at 20.32 -22.86 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Author" "Antmicro"
+				(at 20.32 -25.4 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Val" "10u"
+				(at 20.32 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Voltage" "10V"
+				(at 20.32 -27.94 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Dielectric" "X5R"
+				(at 20.32 -30.48 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, RoHS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_10u_10V_0402_0_1"
+				(polyline
+					(pts
+						(xy 2.032 -1.524) (xy 2.032 1.524)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.048 -1.524) (xy 3.048 1.524)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_10u_10V_0402_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.032)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.032)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "antmicroCapacitorsmisc:C_22u_25V_0805"
 			(pin_numbers
 				(hide yes)
@@ -503,7 +743,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "antmicroInterfaceControllers:UPD720201K8-701-BAC-A"
+		(symbol "antmicroInterfaceControllers:UPD720202K8-711-BAA-A"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -520,7 +760,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "UPD720201K8-701-BAC-A"
+			(property "Value" "UPD720202K8-711-BAA-A"
 				(at 50.8 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -532,7 +772,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "antmicro-footprints:QFN-68-1EP_8x8mm_P0.4mm"
+			(property "Footprint" "antmicro-footprints:QFN-48-1EP_7x7mm"
 				(at 50.8 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -544,7 +784,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Datasheet" "https://www.renesas.com/en/document/dst/pd720201-pd720202-datasheet"
+			(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/RNCC/RNCCS17404/RNCCS17404-1.pdf"
 				(at 50.8 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -556,7 +796,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Description" "USB Host Controller USB 3.0 USB Interface 68-QFN (8x8)"
+			(property "Description" "USB Host Controller USB 3.0 USB Interface 48-QFN (7x7)"
 				(at 50.8 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -568,7 +808,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "MPN" "UPD720201K8-701-BAC-A"
+			(property "MPN" "UPD720202K8-711-BAA-A"
 				(at 50.8 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -626,10 +866,10 @@
 					)
 				)
 			)
-			(symbol "UPD720201K8-701-BAC-A_1_1"
+			(symbol "UPD720202K8-711-BAA-A_1_1"
 				(rectangle
 					(start 2.54 2.54)
-					(end 33.02 -106.68)
+					(end 33.02 -68.58)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -638,10 +878,10 @@
 						(type background)
 					)
 				)
-				(pin output line
-					(at 0 -22.86 0)
+				(pin input clock
+					(at 0 -27.94 0)
 					(length 2.54)
-					(name "~{SMI}"
+					(name "PECLKP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -656,10 +896,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at 0 -27.94 0)
+				(pin input clock
+					(at 0 -30.48 0)
 					(length 2.54)
-					(name "~{PERST}"
+					(name "PECLKN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -675,27 +915,9 @@
 					)
 				)
 				(pin output line
-					(at 0 -30.48 0)
+					(at 0 -35.56 0)
 					(length 2.54)
-					(name "~{PEWAKE}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input clock
-					(at 0 -43.18 0)
-					(length 2.54)
-					(name "PECLKP"
+					(name "PETXP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -710,10 +932,10 @@
 						)
 					)
 				)
-				(pin input clock
-					(at 0 -45.72 0)
+				(pin output line
+					(at 0 -38.1 0)
 					(length 2.54)
-					(name "PECLKN"
+					(name "PETXN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -728,10 +950,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 0 -50.8 0)
+				(pin input line
+					(at 0 -43.18 0)
 					(length 2.54)
-					(name "PETXP"
+					(name "PERXP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -746,10 +968,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 0 -53.34 0)
+				(pin input line
+					(at 0 -45.72 0)
 					(length 2.54)
-					(name "PETXN"
+					(name "PERXN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -764,10 +986,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at 0 -58.42 0)
+				(pin output line
+					(at 0 -22.86 0)
 					(length 2.54)
-					(name "PERXP"
+					(name "~{PECREQ}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -783,9 +1005,9 @@
 					)
 				)
 				(pin input line
-					(at 0 -60.96 0)
+					(at 0 -10.16 0)
 					(length 2.54)
-					(name "PERXN"
+					(name "~{PONRST}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -800,10 +1022,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 0 -33.02 0)
+				(pin input line
+					(at 0 -58.42 0)
 					(length 2.54)
-					(name "~{PECREQ}"
+					(name "SPISO"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -818,10 +1040,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at 0 -20.32 0)
+				(pin output line
+					(at 0 -53.34 0)
 					(length 2.54)
-					(name "~{PONRST}"
+					(name "~{SPICS}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -836,44 +1058,8 @@
 						)
 					)
 				)
-				(pin input line
-					(at 0 -76.2 0)
-					(length 2.54)
-					(name "SPISO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 0 -71.12 0)
-					(length 2.54)
-					(name "~{SPICS}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin output clock
-					(at 0 -68.58 0)
+					(at 0 -50.8 0)
 					(length 2.54)
 					(name "SPISCK"
 						(effects
@@ -882,7 +1068,7 @@
 							)
 						)
 					)
-					(number "18"
+					(number "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -891,7 +1077,7 @@
 					)
 				)
 				(pin output line
-					(at 0 -73.66 0)
+					(at 0 -55.88 0)
 					(length 2.54)
 					(name "SPISI"
 						(effects
@@ -900,79 +1086,7 @@
 							)
 						)
 					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 35.56 -88.9 180)
-					(length 2.54)
-					(name "~{OCI4}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 35.56 -91.44 180)
-					(length 2.54)
-					(name "PPON4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 35.56 -66.04 180)
-					(length 2.54)
-					(name "~{OCI3}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 35.56 -68.58 180)
-					(length 2.54)
-					(name "PPON3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
+					(number "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -990,7 +1104,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1008,7 +1122,7 @@
 							)
 						)
 					)
-					(number "25"
+					(number "18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1026,7 +1140,7 @@
 							)
 						)
 					)
-					(number "26"
+					(number "19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1044,7 +1158,7 @@
 							)
 						)
 					)
-					(number "27"
+					(number "20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1053,7 +1167,7 @@
 					)
 				)
 				(pin output line
-					(at 0 -86.36 0)
+					(at 0 -66.04 0)
 					(length 2.54)
 					(name "XT2"
 						(effects
@@ -1062,7 +1176,7 @@
 							)
 						)
 					)
-					(number "30"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1071,7 +1185,7 @@
 					)
 				)
 				(pin input line
-					(at 0 -83.82 0)
+					(at 0 -63.5 0)
 					(length 2.54)
 					(name "XT1"
 						(effects
@@ -1080,7 +1194,7 @@
 							)
 						)
 					)
-					(number "31"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1089,7 +1203,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -96.52 180)
+					(at 35.56 -58.42 180)
 					(length 2.54)
 					(name "RREF"
 						(effects
@@ -1098,7 +1212,7 @@
 							)
 						)
 					)
-					(number "33"
+					(number "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1107,7 +1221,7 @@
 					)
 				)
 				(pin input line
-					(at 35.56 -101.6 180)
+					(at 35.56 -63.5 180)
 					(length 2.54)
 					(name "IC(L)"
 						(effects
@@ -1116,7 +1230,7 @@
 							)
 						)
 					)
-					(number "34"
+					(number "27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1134,7 +1248,7 @@
 							)
 						)
 					)
-					(number "35"
+					(number "28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1152,7 +1266,7 @@
 							)
 						)
 					)
-					(number "36"
+					(number "29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1170,7 +1284,7 @@
 							)
 						)
 					)
-					(number "38"
+					(number "31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1188,7 +1302,7 @@
 							)
 						)
 					)
-					(number "39"
+					(number "32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1206,7 +1320,7 @@
 							)
 						)
 					)
-					(number "41"
+					(number "35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1224,7 +1338,7 @@
 							)
 						)
 					)
-					(number "42"
+					(number "36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1242,7 +1356,7 @@
 							)
 						)
 					)
-					(number "44"
+					(number "37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1260,7 +1374,7 @@
 							)
 						)
 					)
-					(number "45"
+					(number "38"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1278,7 +1392,7 @@
 							)
 						)
 					)
-					(number "47"
+					(number "40"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1296,7 +1410,7 @@
 							)
 						)
 					)
-					(number "48"
+					(number "41"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1314,7 +1428,7 @@
 							)
 						)
 					)
-					(number "50"
+					(number "44"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1332,7 +1446,7 @@
 							)
 						)
 					)
-					(number "51"
+					(number "45"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1341,16 +1455,34 @@
 					)
 				)
 				(pin output line
-					(at 35.56 -50.8 180)
+					(at 0 -12.7 0)
 					(length 2.54)
-					(name "U3TXDP3"
+					(name "~{SMI}"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "52"
+					(number "46"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 -17.78 0)
+					(length 2.54)
+					(name "~{PERST}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1359,196 +1491,16 @@
 					)
 				)
 				(pin output line
-					(at 35.56 -53.34 180)
+					(at 0 -20.32 0)
 					(length 2.54)
-					(name "U3TXDN3"
+					(name "~{PEWAKE}"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "53"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 35.56 -55.88 180)
-					(length 2.54)
-					(name "U3RXDP3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "55"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 35.56 -58.42 180)
-					(length 2.54)
-					(name "U3RXDN3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "56"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 35.56 -60.96 180)
-					(length 2.54)
-					(name "U2DP3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "58"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 35.56 -63.5 180)
-					(length 2.54)
-					(name "U2DM3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "59"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 35.56 -73.66 180)
-					(length 2.54)
-					(name "U3TXDP4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "61"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 35.56 -76.2 180)
-					(length 2.54)
-					(name "U3TXDN4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "62"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 35.56 -78.74 180)
-					(length 2.54)
-					(name "U3RXDP4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "64"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 35.56 -81.28 180)
-					(length 2.54)
-					(name "U3RXDN4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "65"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 35.56 -83.82 180)
-					(length 2.54)
-					(name "U2DP4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "67"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 35.56 -86.36 180)
-					(length 2.54)
-					(name "U2DM4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "68"
+					(number "48"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1557,7 +1509,7 @@
 					)
 				)
 				(pin power_in line
-					(at 35.56 -104.14 180)
+					(at 35.56 -66.04 180)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -1566,7 +1518,7 @@
 							)
 						)
 					)
-					(number "69"
+					(number "49"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1584,7 +1536,7 @@
 							)
 						)
 					)
-					(number "[6,32]"
+					(number "[3,25]"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1602,7 +1554,7 @@
 							)
 						)
 					)
-					(number "[9,12,28,37,43,46,54,60,63]"
+					(number "[6,9,21,30,33,39,42]"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1620,7 +1572,7 @@
 							)
 						)
 					)
-					(number "[15,29,40,49,57,66]"
+					(number "[12,22,34,43]"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3648,6 +3600,167 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "antmicropower:+1V8"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 15.24 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "+1V8"
+				(at -3.175 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 15.24 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 15.24 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Description" ""
+				(at 15.24 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Author" "Antmicro"
+				(at 15.24 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "License" "Apache-2.0"
+				(at 15.24 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(symbol "+1V8_1_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(hide yes)
+					(name "+1V8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "antmicropower:+5V"
 			(power global)
 			(pin_numbers
@@ -4015,10 +4128,34 @@
 		(uuid "080b075f-9f4f-4649-b974-92116c1a25ba")
 	)
 	(junction
+		(at 54.61 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11db9b87-d2d7-4b35-8ad5-5a276f853b15")
+	)
+	(junction
+		(at 73.66 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15db90a7-625e-418c-9e9a-edef12f64552")
+	)
+	(junction
 		(at 328.93 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d5ce19a-8706-4d52-8c90-bb230d952d95")
+	)
+	(junction
+		(at 154.94 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26723056-24a6-41c5-a97d-049eb0e3db46")
+	)
+	(junction
+		(at 165.1 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c4d64ad-ea47-465a-8209-1e08997b0b51")
 	)
 	(junction
 		(at 307.34 208.28)
@@ -4045,10 +4182,28 @@
 		(uuid "3c6a3dac-06b5-4d7d-8064-6d9037c1358a")
 	)
 	(junction
+		(at 135.89 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "462117df-1b01-419e-a963-09da329725dc")
+	)
+	(junction
+		(at 44.45 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "492b4a58-0dee-44ca-8c14-648c8d0bf666")
+	)
+	(junction
 		(at 314.96 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c4fad43-28ff-44c3-b7de-b25246059442")
+	)
+	(junction
+		(at 64.77 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e11cf49-f3dd-4ae7-9733-44dfb3ffe987")
 	)
 	(junction
 		(at 326.39 50.8)
@@ -4057,10 +4212,28 @@
 		(uuid "509d3de4-4994-4248-b110-ea0451316fd1")
 	)
 	(junction
+		(at 154.94 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51574c89-f872-440d-a3d8-e73c28ab7e9e")
+	)
+	(junction
+		(at 165.1 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b16fedb-ffa1-4f3f-b516-0676856c1ec8")
+	)
+	(junction
 		(at 283.21 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c279a4a-5378-4301-b3f7-bff5c05a1ddd")
+	)
+	(junction
+		(at 175.26 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6898199b-566e-4109-8101-35d62fa793d5")
 	)
 	(junction
 		(at 280.67 53.34)
@@ -4069,10 +4242,28 @@
 		(uuid "6b997e92-740c-4219-a08c-2e14898ea4d4")
 	)
 	(junction
+		(at 154.94 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6dd0b0f0-ee85-4b41-871b-65949b259731")
+	)
+	(junction
+		(at 165.1 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6eb17ed6-8e9b-40fe-bca1-fe8e96c6144f")
+	)
+	(junction
 		(at 334.01 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71c0cf83-7dc0-4f17-8832-eabc069e4799")
+	)
+	(junction
+		(at 175.26 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72d9bf3c-9e96-4c1f-a039-5612037031b0")
 	)
 	(junction
 		(at 259.08 168.91)
@@ -4085,6 +4276,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78eb8551-952c-4979-8915-19bcbef81e3d")
+	)
+	(junction
+		(at 74.93 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ad46b09-59ce-4f29-9f5a-9c4bc1ca4997")
 	)
 	(junction
 		(at 336.55 175.26)
@@ -4105,10 +4302,28 @@
 		(uuid "8fe47089-0698-4eb2-a6a2-c4231697ac2a")
 	)
 	(junction
+		(at 74.93 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "902f0cdb-1a22-4b89-9bbd-465b2d12b9b7")
+	)
+	(junction
+		(at 63.5 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91035b45-de6e-4ab9-98cb-9979d904a0e4")
+	)
+	(junction
 		(at 314.96 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "950ee2dd-fd83-4577-ab9b-2176c81097bd")
+	)
+	(junction
+		(at 144.78 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "964e30a6-6066-4b37-a7bb-ce88dec16d5b")
 	)
 	(junction
 		(at 330.2 91.44)
@@ -4117,10 +4332,22 @@
 		(uuid "99a6a3b1-5800-4e36-ae84-039a7e14f4aa")
 	)
 	(junction
+		(at 63.5 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bf3ff14-5524-48d4-b9a4-e028b340107b")
+	)
+	(junction
 		(at 256.54 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c259c62-bd1e-4dbb-9efe-f0b6d8ee54e5")
+	)
+	(junction
+		(at 73.66 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d7da2f2-6ee7-48de-a319-220150a9c960")
 	)
 	(junction
 		(at 292.1 180.34)
@@ -4159,6 +4386,30 @@
 		(uuid "b44f55a4-aaaf-40c4-be7f-1ca02372ce2c")
 	)
 	(junction
+		(at 165.1 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c1a9533b-06a3-466f-9a29-46a0c2faa6c2")
+	)
+	(junction
+		(at 175.26 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c336ae19-bbcf-4186-8dac-794e3af95a14")
+	)
+	(junction
+		(at 138.43 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c34d83de-cabc-4d70-a6b4-dc226aea1e63")
+	)
+	(junction
+		(at 154.94 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c410a1ec-5b0f-42cb-ba83-d7a3d5de335a")
+	)
+	(junction
 		(at 309.88 210.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4171,10 +4422,28 @@
 		(uuid "ce26eb8b-f691-49c2-aa15-d47828b23e44")
 	)
 	(junction
+		(at 83.82 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf275234-17d8-495b-9b9b-f9b7c8ebac23")
+	)
+	(junction
+		(at 83.82 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2d40bb2-bd54-4978-9371-a055041498b7")
+	)
+	(junction
 		(at 312.42 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da52fc82-6e0b-4901-b82a-4e960df34079")
+	)
+	(junction
+		(at 44.45 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de62bb68-c6ec-4f52-b9e0-6da49eaf55db")
 	)
 	(junction
 		(at 332.74 215.9)
@@ -4183,10 +4452,28 @@
 		(uuid "e27340fb-f12f-4392-aad5-074fc3fd42d9")
 	)
 	(junction
+		(at 64.77 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e704adbb-09df-4f31-969a-c21203c949e9")
+	)
+	(junction
+		(at 54.61 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebe11307-9f0f-4f8c-90eb-917e09abc100")
+	)
+	(junction
 		(at 312.42 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0d34781-6fd7-4846-a4ef-dd7596dc795f")
+	)
+	(junction
+		(at 144.78 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fad44d37-39a5-4775-96cb-bb8485e7be9e")
 	)
 	(junction
 		(at 304.8 83.82)
@@ -4204,6 +4491,15 @@
 		(uuid "15ae9714-6f42-4467-afa6-14ef3bba544b")
 	)
 	(bus_entry
+		(at 54.61 132.08)
+		(size 1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "215d4a63-e237-4875-a8cf-0a800be439d4")
+	)
+	(bus_entry
 		(at 285.75 207.01)
 		(size 1.27 1.27)
 		(stroke
@@ -4211,6 +4507,24 @@
 			(type default)
 		)
 		(uuid "2770a7f5-09fe-44ef-a32c-3dc041f331c8")
+	)
+	(bus_entry
+		(at 158.75 124.46)
+		(size -1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c551040-1b54-4ae0-bd76-4e1a38d55e3d")
+	)
+	(bus_entry
+		(at 54.61 114.3)
+		(size 1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43f82cfd-8edf-4d53-a521-3891cf4ea761")
 	)
 	(bus_entry
 		(at 283.21 85.09)
@@ -4222,6 +4536,24 @@
 		(uuid "6d1aa73b-6a9c-4dd9-8d3c-9dd96d71b291")
 	)
 	(bus_entry
+		(at 158.75 127)
+		(size -1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "923128eb-5c42-4124-a1fa-c7d692f1c84d")
+	)
+	(bus_entry
+		(at 54.61 124.46)
+		(size 1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94fea6e1-d5f7-42c5-9339-d56d39d0408e")
+	)
+	(bus_entry
 		(at 283.21 82.55)
 		(size 1.27 1.27)
 		(stroke
@@ -4229,6 +4561,71 @@
 			(type default)
 		)
 		(uuid "97a81793-3baa-4865-9cb9-53512ffb5d60")
+	)
+	(bus_entry
+		(at 54.61 121.92)
+		(size 1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be9905e6-2e14-403a-9279-5e1279eebde5")
+	)
+	(bus_entry
+		(at 54.61 129.54)
+		(size 1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3dd6c1e-f37b-4dca-b05b-dce2d83e650a")
+	)
+	(bus_entry
+		(at 158.75 104.14)
+		(size -1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddbb6adf-e6c1-4d6f-87d1-5db94fc18993")
+	)
+	(bus_entry
+		(at 54.61 116.84)
+		(size 1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2b3c287-958f-4b19-9673-53d5016c7d62")
+	)
+	(bus_entry
+		(at 158.75 101.6)
+		(size -1.27 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f907613f-d426-4b50-971f-e7b80c027339")
+	)
+	(wire
+		(pts
+			(xy 54.61 64.77) (xy 44.45 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0029de74-c171-403f-9911-761348ced603")
+	)
+	(wire
+		(pts
+			(xy 92.71 78.74) (xy 83.82 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0383a0cc-c69a-4323-b140-a51313cab62c")
 	)
 	(wire
 		(pts
@@ -4262,6 +4659,26 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 78.74) (xy 73.66 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "059fb396-5ade-4125-8d77-3daa2df8f0f5")
+	)
+	(wire
+		(pts
+			(xy 54.61 64.77) (xy 54.61 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "072da465-86ac-4dd2-b1d4-38ad0181765d")
+	)
+	(wire
+		(pts
 			(xy 334.01 50.8) (xy 344.17 50.8)
 		)
 		(stroke
@@ -4269,6 +4686,26 @@
 			(type default)
 		)
 		(uuid "0a105aea-00e9-41e5-9ffd-877920b43fd3")
+	)
+	(bus
+		(pts
+			(xy 158.75 101.6) (xy 158.75 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a1aa993-7a2b-4c07-aab9-44455f4874c4")
+	)
+	(wire
+		(pts
+			(xy 144.78 64.77) (xy 154.94 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a4ccb7a-e386-404c-8f0b-e77b261723f5")
 	)
 	(wire
 		(pts
@@ -4279,6 +4716,26 @@
 			(type default)
 		)
 		(uuid "0a5ff4da-4684-44e1-844f-6010c0fc6132")
+	)
+	(wire
+		(pts
+			(xy 175.26 86.36) (xy 175.26 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bcc0f81-5650-45a9-b0d4-e91abbe67ba3")
+	)
+	(bus
+		(pts
+			(xy 158.75 123.19) (xy 158.75 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0da904bc-2950-447a-b3d0-7f89638378b6")
 	)
 	(wire
 		(pts
@@ -4312,6 +4769,46 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 85.09) (xy 63.5 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "139d0194-6959-43f9-8975-42f8cb3148fa")
+	)
+	(wire
+		(pts
+			(xy 83.82 72.39) (xy 74.93 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14c939c9-3117-4079-932f-f5ad841e50e4")
+	)
+	(bus
+		(pts
+			(xy 53.34 119.38) (xy 54.61 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15003917-af99-432a-946f-7c724f527b75")
+	)
+	(bus
+		(pts
+			(xy 54.61 120.65) (xy 54.61 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15a39ce8-7cff-4dbe-bb64-fdafc36ebd00")
+	)
+	(wire
+		(pts
 			(xy 344.17 50.8) (xy 354.33 50.8)
 		)
 		(stroke
@@ -4332,6 +4829,46 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 64.77) (xy 154.94 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bcdab55-6961-497e-a901-e81e3cd998f0")
+	)
+	(wire
+		(pts
+			(xy 99.06 118.11) (xy 55.88 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bd3cffb-4616-481a-b37c-8993ce4cfafd")
+	)
+	(wire
+		(pts
+			(xy 144.78 80.01) (xy 144.78 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d491f4b-e4a1-456c-a00a-741dcfacdbe4")
+	)
+	(wire
+		(pts
+			(xy 55.88 133.35) (xy 99.06 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ea7c918-61a7-4371-b7ed-53ae92611748")
+	)
+	(wire
+		(pts
 			(xy 307.34 208.28) (xy 334.01 208.28)
 		)
 		(stroke
@@ -4342,6 +4879,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 72.39) (xy 154.94 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fae6af2-4be2-4baf-9630-a1a436753736")
+	)
+	(wire
+		(pts
 			(xy 332.74 215.9) (xy 332.74 217.17)
 		)
 		(stroke
@@ -4349,6 +4896,16 @@
 			(type default)
 		)
 		(uuid "229c8dd2-9aba-48de-8bd5-53850a598e84")
+	)
+	(wire
+		(pts
+			(xy 165.1 72.39) (xy 175.26 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24102541-e457-4773-ae47-893fc6a22cf0")
 	)
 	(wire
 		(pts
@@ -4369,6 +4926,36 @@
 			(type default)
 		)
 		(uuid "26da275a-b877-4eae-848f-17241fadc5db")
+	)
+	(bus
+		(pts
+			(xy 158.75 124.46) (xy 158.75 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2730a2ac-829e-4251-863c-d13696e032bc")
+	)
+	(wire
+		(pts
+			(xy 138.43 80.01) (xy 138.43 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28bb5278-0e34-468b-9e7a-ecfc775e12b6")
+	)
+	(wire
+		(pts
+			(xy 95.25 87.63) (xy 95.25 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a0ba385-0f9c-47c7-a6e3-fbf5b328ab54")
 	)
 	(bus
 		(pts
@@ -4432,6 +5019,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 87.63) (xy 165.1 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3abb246c-e431-49c1-b4bf-14d738e31b1a")
+	)
+	(wire
+		(pts
 			(xy 280.67 177.8) (xy 283.21 177.8)
 		)
 		(stroke
@@ -4449,6 +5046,36 @@
 			(type default)
 		)
 		(uuid "3e6de02e-4421-4e4d-8b4e-6384b7c109a5")
+	)
+	(wire
+		(pts
+			(xy 175.26 87.63) (xy 175.26 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f9dd451-ca2b-4bba-99c4-8bc8fab75542")
+	)
+	(bus
+		(pts
+			(xy 160.02 121.92) (xy 158.75 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4015f0d3-380b-4ac9-892a-c8468587e595")
+	)
+	(wire
+		(pts
+			(xy 55.88 125.73) (xy 99.06 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4189bd06-702c-4ac5-81be-e795a5ded650")
 	)
 	(wire
 		(pts
@@ -4470,6 +5097,16 @@
 		)
 		(uuid "44a95b80-78a6-4be4-83b7-90695761299d")
 	)
+	(wire
+		(pts
+			(xy 144.78 87.63) (xy 154.94 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45266f29-cec9-4ad4-a88f-76a5489f50a3")
+	)
 	(bus
 		(pts
 			(xy 285.75 207.01) (xy 285.75 209.55)
@@ -4482,6 +5119,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 63.5) (xy 175.26 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45e8de6c-4cac-4b62-94b8-4d39161bfe3b")
+	)
+	(wire
+		(pts
 			(xy 346.71 175.26) (xy 356.87 175.26)
 		)
 		(stroke
@@ -4489,6 +5136,16 @@
 			(type default)
 		)
 		(uuid "47419d96-81d7-4522-a8f0-10c8836b5ff0")
+	)
+	(bus
+		(pts
+			(xy 53.34 111.76) (xy 54.61 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4896dac5-99c0-41d8-84e5-93d7b81c93f8")
 	)
 	(wire
 		(pts
@@ -4522,6 +5179,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 78.74) (xy 63.5 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cc5c5fd-a532-4646-90a7-6ae479de20c1")
+	)
+	(wire
+		(pts
+			(xy 175.26 64.77) (xy 175.26 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cfefc4e-2e7a-440a-93e4-760a7bec8336")
+	)
+	(wire
+		(pts
 			(xy 292.1 50.8) (xy 292.1 44.45)
 		)
 		(stroke
@@ -4542,6 +5219,26 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 80.01) (xy 165.1 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f5f2e76-fbac-499c-bc8d-90c32a8cf24b")
+	)
+	(wire
+		(pts
+			(xy 175.26 81.28) (xy 175.26 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5098295c-de2b-4b8b-b3ea-b989552b0628")
+	)
+	(wire
+		(pts
 			(xy 365.76 57.15) (xy 365.76 58.42)
 		)
 		(stroke
@@ -4549,6 +5246,16 @@
 			(type default)
 		)
 		(uuid "51b359b5-85d0-4c5e-b4ec-270f8520cbc8")
+	)
+	(wire
+		(pts
+			(xy 175.26 72.39) (xy 175.26 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52123384-5b72-4175-b9e7-be684f7b2174")
 	)
 	(bus
 		(pts
@@ -4592,6 +5299,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 87.63) (xy 154.94 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55e41d3b-27b2-4efc-b8f2-f54000af81b8")
+	)
+	(wire
+		(pts
 			(xy 368.3 187.96) (xy 368.3 189.23)
 		)
 		(stroke
@@ -4599,6 +5316,16 @@
 			(type default)
 		)
 		(uuid "568d9df9-6458-45ed-abcd-184f69b700bc")
+	)
+	(wire
+		(pts
+			(xy 135.89 154.94) (xy 135.89 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "572aec73-ce63-4309-8b0f-a5739f967c6c")
 	)
 	(wire
 		(pts
@@ -4610,6 +5337,16 @@
 		)
 		(uuid "596e93c0-326d-4dd8-a346-f098c366a1cd")
 	)
+	(bus
+		(pts
+			(xy 163.83 121.92) (xy 160.02 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59812c89-5dff-4e1c-b71e-315fda9017bc")
+	)
 	(wire
 		(pts
 			(xy 259.08 168.91) (xy 270.51 168.91)
@@ -4619,6 +5356,26 @@
 			(type default)
 		)
 		(uuid "5abf1efd-9b30-4ac9-8d2f-b09275be58b4")
+	)
+	(wire
+		(pts
+			(xy 138.43 80.01) (xy 144.78 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c93eef9-4247-45f6-aefc-a2fee53844fb")
+	)
+	(wire
+		(pts
+			(xy 44.45 64.77) (xy 44.45 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ce3dfdf-81b8-4e45-af36-b1ce7ad52d55")
 	)
 	(wire
 		(pts
@@ -4639,6 +5396,46 @@
 			(type default)
 		)
 		(uuid "5f0d4da3-fd3c-4a3e-a056-cef5f88eb169")
+	)
+	(wire
+		(pts
+			(xy 154.94 71.12) (xy 154.94 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60e567dc-2380-47b9-a890-77e8564a3942")
+	)
+	(bus
+		(pts
+			(xy 53.34 119.38) (xy 52.07 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61967e80-86ee-491f-bc76-35ef6fa1a882")
+	)
+	(wire
+		(pts
+			(xy 99.06 115.57) (xy 55.88 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "621d4004-cb05-46dd-aded-ffdfe54f8da3")
+	)
+	(wire
+		(pts
+			(xy 157.48 128.27) (xy 134.62 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "635bd7d7-b425-4562-ac9a-1b1c8e59d511")
 	)
 	(wire
 		(pts
@@ -4682,6 +5479,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 64.77) (xy 83.82 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68b6da2f-75b2-4464-b493-5bbb15ff89c2")
+	)
+	(wire
+		(pts
 			(xy 331.47 88.9) (xy 330.2 88.9)
 		)
 		(stroke
@@ -4699,6 +5506,16 @@
 			(type default)
 		)
 		(uuid "6998b30e-7881-4f67-bee3-303b90c98e34")
+	)
+	(wire
+		(pts
+			(xy 64.77 72.39) (xy 54.61 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69fa8455-538c-4b57-ba4c-354e04dae250")
 	)
 	(wire
 		(pts
@@ -4722,6 +5539,26 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 102.87) (xy 157.48 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6caa863b-551b-4201-ba36-1a91a46f1c92")
+	)
+	(wire
+		(pts
+			(xy 83.82 64.77) (xy 74.93 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cbd226b-6f68-473f-9501-4cd05c34d12c")
+	)
+	(wire
+		(pts
 			(xy 283.21 170.18) (xy 283.21 168.91)
 		)
 		(stroke
@@ -4729,6 +5566,46 @@
 			(type default)
 		)
 		(uuid "6d4bc876-56c4-4973-b63b-35970cd81e98")
+	)
+	(wire
+		(pts
+			(xy 142.24 152.4) (xy 142.24 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e1d3cc8-ca5d-4322-bf5c-88286cb7781b")
+	)
+	(bus
+		(pts
+			(xy 160.02 99.06) (xy 158.75 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70206737-7356-40a5-bb3a-55b125e46d57")
+	)
+	(wire
+		(pts
+			(xy 63.5 86.36) (xy 63.5 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "721f5222-b161-4990-b01b-b615deb4daf7")
+	)
+	(wire
+		(pts
+			(xy 55.88 123.19) (xy 99.06 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72250f2e-f01a-40cd-818d-1ccdd3cc52a9")
 	)
 	(wire
 		(pts
@@ -4752,6 +5629,36 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 71.12) (xy 165.1 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7557ebd6-b67e-416f-a215-e396148dc81e")
+	)
+	(wire
+		(pts
+			(xy 64.77 71.12) (xy 64.77 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "760174f8-329c-4e24-a2f1-0a43703fb578")
+	)
+	(wire
+		(pts
+			(xy 175.26 71.12) (xy 175.26 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76ae8d7f-f28f-4f8c-b4c8-9f0e1c0aac48")
+	)
+	(wire
+		(pts
 			(xy 289.56 57.15) (xy 289.56 55.88)
 		)
 		(stroke
@@ -4759,6 +5666,36 @@
 			(type default)
 		)
 		(uuid "79408f07-65bb-4905-9260-b6e60a9900bd")
+	)
+	(wire
+		(pts
+			(xy 96.52 87.63) (xy 95.25 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a3c9885-22c2-4b23-a383-bd0ebc3e106e")
+	)
+	(wire
+		(pts
+			(xy 54.61 72.39) (xy 44.45 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c7d74b0-5aa6-4d3e-af54-4d404253cf90")
+	)
+	(wire
+		(pts
+			(xy 144.78 80.01) (xy 154.94 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cfbc5d2-106f-4144-9bc6-2c8590f39a34")
 	)
 	(wire
 		(pts
@@ -4792,6 +5729,26 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 153.67) (xy 135.89 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "800fd979-5a8a-4a2b-aaef-75772d9c8956")
+	)
+	(bus
+		(pts
+			(xy 54.61 113.03) (xy 54.61 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8304d7cc-8d47-4191-acc8-b61f608fb2ff")
+	)
+	(wire
+		(pts
 			(xy 344.17 50.8) (xy 344.17 52.07)
 		)
 		(stroke
@@ -4799,6 +5756,16 @@
 			(type default)
 		)
 		(uuid "83705f31-16ca-4c91-9247-a33cac52fe58")
+	)
+	(wire
+		(pts
+			(xy 154.94 80.01) (xy 154.94 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "863bbfe7-89d9-4898-8874-5e01e829531d")
 	)
 	(wire
 		(pts
@@ -4832,6 +5799,26 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 130.81) (xy 99.06 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a161d01-a87d-4f67-ae4d-bb8248167675")
+	)
+	(wire
+		(pts
+			(xy 74.93 64.77) (xy 74.93 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a43e5a1-1f22-4d92-a849-42fbc52111a0")
+	)
+	(wire
+		(pts
 			(xy 284.48 83.82) (xy 304.8 83.82)
 		)
 		(stroke
@@ -4839,6 +5826,16 @@
 			(type default)
 		)
 		(uuid "8a87e37f-aac4-4b4f-870b-53cfa6443927")
+	)
+	(wire
+		(pts
+			(xy 165.1 87.63) (xy 175.26 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c4183a3-7a6b-48e3-a3d0-d9e5a88732bb")
 	)
 	(bus
 		(pts
@@ -4849,6 +5846,16 @@
 			(type default)
 		)
 		(uuid "8dffbdf0-b6cf-4dd6-9677-9ca05a9c39a0")
+	)
+	(wire
+		(pts
+			(xy 142.24 147.32) (xy 142.24 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8d5d57-5bc5-4d82-b88b-78ef259056cb")
 	)
 	(wire
 		(pts
@@ -4882,6 +5889,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 71.12) (xy 54.61 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90234ab5-4418-4986-b2bd-b61f2aca03e5")
+	)
+	(wire
+		(pts
 			(xy 356.87 175.26) (xy 368.3 175.26)
 		)
 		(stroke
@@ -4902,6 +5919,36 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 87.63) (xy 165.1 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94b6626c-df40-43be-bac9-6951b5b55ff9")
+	)
+	(wire
+		(pts
+			(xy 154.94 80.01) (xy 165.1 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "972bac47-e5cc-4cbb-b4cc-cb21c9737e6c")
+	)
+	(bus
+		(pts
+			(xy 163.83 99.06) (xy 160.02 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9af68600-d1dc-4af1-87ba-fcd1521361e3")
+	)
+	(wire
+		(pts
 			(xy 314.96 185.42) (xy 314.96 187.96)
 		)
 		(stroke
@@ -4909,6 +5956,16 @@
 			(type default)
 		)
 		(uuid "9bacf514-fb7f-4058-abdf-b086ff2c731d")
+	)
+	(wire
+		(pts
+			(xy 44.45 71.12) (xy 44.45 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9be2e5bf-accf-4226-a093-3444259d3d9d")
 	)
 	(wire
 		(pts
@@ -4929,6 +5986,36 @@
 			(type default)
 		)
 		(uuid "9d8142a9-69f8-4bf1-94e7-c386f2821e6a")
+	)
+	(wire
+		(pts
+			(xy 165.1 64.77) (xy 175.26 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0b74dd8-1754-47f4-9db9-7f4ec0631ec1")
+	)
+	(wire
+		(pts
+			(xy 74.93 64.77) (xy 64.77 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a288ba25-331f-4324-8ba0-0a1786551f26")
+	)
+	(wire
+		(pts
+			(xy 165.1 80.01) (xy 175.26 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2ffda29-9804-4816-9322-0428a5f28be6")
 	)
 	(wire
 		(pts
@@ -4982,6 +6069,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 92.71) (xy 92.71 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a622fc00-af73-4207-86cb-1505d7e5746c")
+	)
+	(wire
+		(pts
 			(xy 283.21 168.91) (xy 294.64 168.91)
 		)
 		(stroke
@@ -5032,6 +6129,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 78.74) (xy 63.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab66a109-64b7-4001-9672-73cc16cdc32b")
+	)
+	(wire
+		(pts
 			(xy 287.02 208.28) (xy 307.34 208.28)
 		)
 		(stroke
@@ -5039,6 +6146,16 @@
 			(type default)
 		)
 		(uuid "ab71f47d-46d9-449e-8792-675d4ef663f8")
+	)
+	(wire
+		(pts
+			(xy 138.43 80.01) (xy 138.43 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad91ee07-01b9-4496-9c3a-a3816ee2d6e5")
 	)
 	(wire
 		(pts
@@ -5052,6 +6169,56 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 153.67) (xy 135.89 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4a4adcd-4807-4008-af11-b7cbfc175da3")
+	)
+	(wire
+		(pts
+			(xy 83.82 85.09) (xy 83.82 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b564fdcb-eacf-4170-a9b3-e08de57fbf91")
+	)
+	(wire
+		(pts
+			(xy 83.82 78.74) (xy 83.82 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5a55289-5259-48fd-8a96-ceb242db9352")
+	)
+	(bus
+		(pts
+			(xy 54.61 114.3) (xy 54.61 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b930e66b-6f9e-433c-b15e-fe10557665ad")
+	)
+	(wire
+		(pts
+			(xy 134.62 125.73) (xy 157.48 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba887bff-cb76-4e61-90a9-edb3a8ec1597")
+	)
+	(wire
+		(pts
 			(xy 293.37 50.8) (xy 292.1 50.8)
 		)
 		(stroke
@@ -5059,6 +6226,26 @@
 			(type default)
 		)
 		(uuid "bb097c7d-5564-4558-85c8-814066ded379")
+	)
+	(wire
+		(pts
+			(xy 154.94 72.39) (xy 165.1 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc49053a-a952-49b5-8d17-50e6c8ba6d01")
+	)
+	(wire
+		(pts
+			(xy 154.94 64.77) (xy 165.1 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd477fbd-9991-44d1-801e-a11734c26224")
 	)
 	(wire
 		(pts
@@ -5082,6 +6269,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 63.5) (xy 44.45 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2272bf0-0ef0-4fc9-95e0-f291e730f0b0")
+	)
+	(wire
+		(pts
 			(xy 334.01 50.8) (xy 334.01 52.07)
 		)
 		(stroke
@@ -5092,6 +6289,26 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 71.12) (xy 144.78 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c54a9df3-d43f-469a-b778-28333fe06984")
+	)
+	(wire
+		(pts
+			(xy 135.89 151.13) (xy 134.62 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6334c19-67e6-48d0-99e0-c37dae46f057")
+	)
+	(wire
+		(pts
 			(xy 308.61 50.8) (xy 326.39 50.8)
 		)
 		(stroke
@@ -5099,6 +6316,56 @@
 			(type default)
 		)
 		(uuid "c6920185-d4f1-487a-b0e7-960c6f4bda88")
+	)
+	(bus
+		(pts
+			(xy 54.61 124.46) (xy 54.61 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6939fb2-0e4b-4c1d-9aaf-f824545921e4")
+	)
+	(wire
+		(pts
+			(xy 74.93 71.12) (xy 74.93 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c74b3d5d-35f5-4435-8090-2503caa2cc29")
+	)
+	(bus
+		(pts
+			(xy 158.75 100.33) (xy 158.75 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c86ccc63-67dd-4b02-8e01-41ff2f176bd9")
+	)
+	(wire
+		(pts
+			(xy 157.48 105.41) (xy 134.62 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9d9cfa3-8e4d-4391-9e24-22b5db585eb1")
+	)
+	(wire
+		(pts
+			(xy 74.93 72.39) (xy 64.77 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cab4c635-cd82-4e1e-a928-992636de55e8")
 	)
 	(wire
 		(pts
@@ -5132,6 +6399,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 64.77) (xy 144.78 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2bfb0aa-a777-41b9-beac-1ca7b3b84942")
+	)
+	(wire
+		(pts
 			(xy 304.8 83.82) (xy 331.47 83.82)
 		)
 		(stroke
@@ -5142,6 +6419,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 64.77) (xy 54.61 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dac67bd8-e770-44fa-8e6e-32eddc4a13ec")
+	)
+	(wire
+		(pts
 			(xy 309.88 210.82) (xy 309.88 214.63)
 		)
 		(stroke
@@ -5149,6 +6436,16 @@
 			(type default)
 		)
 		(uuid "db3cd632-332c-4646-abdf-00067f607ed3")
+	)
+	(wire
+		(pts
+			(xy 64.77 64.77) (xy 64.77 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcfa1acb-25f8-45a4-a6a2-ddfed57da96f")
 	)
 	(wire
 		(pts
@@ -5172,6 +6469,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 64.77) (xy 165.1 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5322444-364e-49e3-9916-ad9798a7fb29")
+	)
+	(wire
+		(pts
 			(xy 332.74 215.9) (xy 334.01 215.9)
 		)
 		(stroke
@@ -5189,6 +6496,16 @@
 			(type default)
 		)
 		(uuid "ea15e2c2-67be-4bc1-8e23-cf1a6cf886d0")
+	)
+	(wire
+		(pts
+			(xy 83.82 71.12) (xy 83.82 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebfcfca1-5aa5-4472-9337-e5c466ad102d")
 	)
 	(wire
 		(pts
@@ -5252,6 +6569,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 146.05) (xy 142.24 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edde3f6b-3b39-473f-b5cd-f570a0fb4f3f")
+	)
+	(wire
+		(pts
 			(xy 304.8 83.82) (xy 304.8 90.17)
 		)
 		(stroke
@@ -5259,6 +6586,26 @@
 			(type default)
 		)
 		(uuid "ee1d495e-b9e4-4767-9e0e-a364829f5123")
+	)
+	(wire
+		(pts
+			(xy 73.66 86.36) (xy 83.82 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeaec03a-4ddc-45d0-b6df-04351c9552ed")
+	)
+	(wire
+		(pts
+			(xy 63.5 86.36) (xy 73.66 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efd9222c-4e1b-460d-9e38-5e30be5b6a4b")
 	)
 	(wire
 		(pts
@@ -5282,6 +6629,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 72.39) (xy 44.45 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f329c878-c597-49d9-a5e4-4a1e840793d6")
+	)
+	(wire
+		(pts
 			(xy 314.96 177.8) (xy 314.96 179.07)
 		)
 		(stroke
@@ -5292,6 +6649,26 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 64.77) (xy 83.82 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5b308d5-222e-4439-a221-1244ef931dde")
+	)
+	(wire
+		(pts
+			(xy 73.66 85.09) (xy 73.66 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f641e9a3-12c2-4b7d-96e2-69269f86a5ea")
+	)
+	(wire
+		(pts
 			(xy 336.55 175.26) (xy 346.71 175.26)
 		)
 		(stroke
@@ -5299,6 +6676,26 @@
 			(type default)
 		)
 		(uuid "f66b8aa6-8a6c-42ca-ad57-2a9b00352a56")
+	)
+	(wire
+		(pts
+			(xy 138.43 64.77) (xy 144.78 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6cf7723-aeeb-4271-9554-2a3a40db02f3")
+	)
+	(wire
+		(pts
+			(xy 83.82 78.74) (xy 73.66 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7102eb1-b476-43d4-9d61-9ab92e986cf6")
 	)
 	(wire
 		(pts
@@ -5332,6 +6729,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 87.63) (xy 138.43 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8fc344b-5977-49b4-8932-a9d6ddf3b912")
+	)
+	(wire
+		(pts
 			(xy 293.37 90.17) (xy 293.37 92.71)
 		)
 		(stroke
@@ -5349,6 +6756,16 @@
 			(type default)
 		)
 		(uuid "fd80f5cc-cb68-4e58-904f-e6781c44b63f")
+	)
+	(wire
+		(pts
+			(xy 144.78 86.36) (xy 144.78 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdaaa589-f7b7-4b2d-a998-fb0d16c5b6f4")
 	)
 	(wire
 		(pts
@@ -5370,6 +6787,56 @@
 		)
 		(uuid "fecf207d-329c-4b8b-bc3c-3f51482c2f96")
 	)
+	(bus
+		(pts
+			(xy 52.07 111.76) (xy 53.34 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feef624a-266b-49bd-b760-31fa7ce91ff4")
+	)
+	(wire
+		(pts
+			(xy 92.71 92.71) (xy 92.71 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff5b9597-156a-44ad-83b0-55ee5607e19c")
+	)
+	(label "DC-SCM_PCIE_LOCAL_USB.RX0+"
+		(at 88.9 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "01539f4a-7871-4c8a-9fb6-6215422b7a64")
+	)
+	(label "DC-SCM_CLK_100M_USB.CLK-"
+		(at 91.44 118.11 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "06a02f6a-7ec9-4edd-9fa2-ec2f20a622e2")
+	)
+	(label "DC-SCM_PCIE_LOCAL_USB.RX0-"
+		(at 88.9 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0ff8f7c0-2427-4d4f-a32a-95867f6463d6")
+	)
 	(label "USBA2_5V_PEN"
 		(at 278.13 180.34 0)
 		(effects
@@ -5389,6 +6856,16 @@
 			(justify left bottom)
 		)
 		(uuid "3f7b57a9-cb3b-4075-9a26-8d58e86eca8b")
+	)
+	(label "DC-SCM_PCIE_LOCAL_USB.TX0+"
+		(at 88.9 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "42d4f7db-ceea-4444-8b1f-a0f296df0994")
 	)
 	(label "USBA1_ISET"
 		(at 321.31 53.34 180)
@@ -5420,6 +6897,16 @@
 		)
 		(uuid "5f2d1d0f-c734-4697-8166-a43e61a90d9a")
 	)
+	(label "DC-SCM_CLK_100M_USB.CLK+"
+		(at 91.44 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "71bcd0cf-7a2d-4a09-be44-5242be1f3204")
+	)
 	(label "USBA1_5V_PEN"
 		(at 275.59 55.88 0)
 		(effects
@@ -5450,6 +6937,16 @@
 		)
 		(uuid "96eb34db-3aba-4f83-8040-80a082e9c8a9")
 	)
+	(label "LOCAL_USB1.D-"
+		(at 156.21 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a2bc6290-1918-457d-9b93-f800ee6995da")
+	)
 	(label "USBA1_FLG"
 		(at 281.94 53.34 0)
 		(effects
@@ -5460,6 +6957,16 @@
 		)
 		(uuid "a45b7ebf-5fd2-4b87-8055-913e745f7377")
 	)
+	(label "DC-SCM_PCIE_LOCAL_USB.TX0-"
+		(at 88.9 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b801a3d5-5a7f-4f7c-9b10-4b1d357216e9")
+	)
 	(label "USBA1_VBUS"
 		(at 321.31 50.8 180)
 		(effects
@@ -5469,6 +6976,16 @@
 			(justify right bottom)
 		)
 		(uuid "c38e9fae-ca1a-49bc-8fb3-7d0150f3f0d2")
+	)
+	(label "LOCAL_USB1.D+"
+		(at 156.21 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cac74964-8478-46de-a14e-ff6bcdd95727")
 	)
 	(label "USBA2_ISET"
 		(at 323.85 177.8 180)
@@ -5490,6 +7007,37 @@
 		)
 		(uuid "e2026f13-9283-4dc5-8c6d-b48b07c4baa3")
 	)
+	(label "LOCAL_USB2.D+"
+		(at 156.21 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f4d4eeae-b7b1-4dac-8028-2161bb1962f7")
+	)
+	(label "LOCAL_USB2.D-"
+		(at 156.21 128.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ffe8f85d-8eef-4ee8-8efd-c23fcd7786e1")
+	)
+	(hierarchical_label "DC-SCM_CLK_100M_USB{PCIeREFCLK}"
+		(shape bidirectional)
+		(at 52.07 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "680cd0f5-8364-42c4-afe6-1685bcdea845")
+	)
 	(hierarchical_label "LOCAL_USB2{USB}"
 		(shape bidirectional)
 		(at 280.67 204.47 180)
@@ -5501,6 +7049,28 @@
 		)
 		(uuid "6996b963-c298-40de-9495-55c43f52d830")
 	)
+	(hierarchical_label "DC-SCM_PCIE_LOCAL_USB{PCIE}"
+		(shape bidirectional)
+		(at 52.07 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8dd81be9-a1a1-4062-bd8b-0c1b6ff44028")
+	)
+	(hierarchical_label "LOCAL_USB2{USB}"
+		(shape bidirectional)
+		(at 163.83 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "977d578f-ce04-4e2a-9089-4d331a2e5d6f")
+	)
 	(hierarchical_label "LOCAL_USB1{USB}"
 		(shape bidirectional)
 		(at 278.13 80.01 180)
@@ -5511,6 +7081,52 @@
 			(justify right)
 		)
 		(uuid "9cfc978f-c8e5-4fef-a5e9-e2de8dc69d07")
+	)
+	(hierarchical_label "LOCAL_USB1{USB}"
+		(shape bidirectional)
+		(at 163.83 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e9fb54b6-2541-4215-b652-5dbb640d5251")
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 54.61 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "56180177-fdc9-4fcc-8971-c728af23002f")
+		(property "Netclass" "85Ohm-diff"
+			(at 50.8 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Component Class" ""
+			(at 177.8 313.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
@@ -5916,6 +7532,294 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 175.26 88.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "035b2d5c-890e-42ca-80ea-1bd7dcfe7d75")
+		(property "Reference" "#PWR058"
+			(at 184.15 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 184.15 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 184.15 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "1a09e85d-bf95-4d21-b4e4-ef0bb14498b5")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 74.93 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0466c6b4-8acd-465f-a641-c3634c591b0d")
+		(property "Reference" "C13"
+			(at 77.47 67.3163 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 85.09 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 87.63 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 90.17 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 74.93 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 95.25 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 92.71 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 77.47 69.8563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 97.79 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 100.33 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 102.87 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 105.41 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "a1b8b305-fe18-483b-9fe0-b837926d9888")
+		)
+		(pin "2"
+			(uuid "628ec5fb-7e93-4fe6-bcf5-a672f7837af0")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -6332,296 +8236,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroInterfaceControllers:UPD720201K8-701-BAC-A")
-		(at 93.98 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "193669f7-fb5d-429d-9005-18dd815edd52")
-		(property "Reference" "U2"
-			(at 111.76 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "UPD720201K8-701-BAC-A"
-			(at 144.78 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:QFN-68-1EP_8x8mm_P0.4mm"
-			(at 144.78 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.renesas.com/en/document/dst/pd720201-pd720202-datasheet"
-			(at 144.78 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "USB Host Controller USB 3.0 USB Interface 68-QFN (8x8)"
-			(at 144.78 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "UPD720201K8-701-BAC-A"
-			(at 111.76 77.47 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Renesas Electronics"
-			(at 144.78 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 144.78 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 144.78 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "26"
-			(uuid "e82040a4-1946-489b-a786-c7ab3c10077d")
-		)
-		(pin "45"
-			(uuid "391abab9-3ec1-4596-b367-65c7629eaa33")
-		)
-		(pin "33"
-			(uuid "861e44b2-5172-4f3d-a6a5-c6b85b574031")
-		)
-		(pin "69"
-			(uuid "349c9f2c-a5ac-4899-b041-84bb51496fb8")
-		)
-		(pin "5"
-			(uuid "cd27fc6f-dfed-439c-8d44-37ea9f6f8318")
-		)
-		(pin "56"
-			(uuid "a40abab6-5517-4e2b-9187-4fb4f1c010d5")
-		)
-		(pin "8"
-			(uuid "f0435a8d-74ec-4dc8-b574-9bb0a7e932b6")
-		)
-		(pin "65"
-			(uuid "8e0918ac-6630-443c-b78f-c5ebefc9ce60")
-		)
-		(pin "1"
-			(uuid "89061662-f1bb-4a4a-a2d6-81a61c1a1e00")
-		)
-		(pin "27"
-			(uuid "980ce90f-6efb-4925-b837-51f9e9adb003")
-		)
-		(pin "61"
-			(uuid "3d427b2c-c2fe-4d78-b646-6ee28866a29f")
-		)
-		(pin "36"
-			(uuid "c9a38fb6-1f8f-4246-85a1-6e15b59f6125")
-		)
-		(pin "64"
-			(uuid "471093f4-2b70-402d-9ce0-481b634511ba")
-		)
-		(pin "53"
-			(uuid "5d602bd1-15cc-4758-aad1-a7b85d4eec88")
-		)
-		(pin "68"
-			(uuid "ae567368-229a-4ebe-8d25-690164f558bd")
-		)
-		(pin "18"
-			(uuid "1f9fc280-3d41-497b-8aca-23578370bad4")
-		)
-		(pin "67"
-			(uuid "c665d6aa-39d1-4e3c-935f-cbf566d992d0")
-		)
-		(pin "20"
-			(uuid "793aab94-6528-4a9b-9d59-dfd1aea19815")
-		)
-		(pin "48"
-			(uuid "8cfdb487-6a22-4f05-ab46-c04c983fd51b")
-		)
-		(pin "50"
-			(uuid "9323f1ca-ee86-4855-ad33-268a34c1eb66")
-		)
-		(pin "23"
-			(uuid "5928f161-8bc4-4209-906b-d46a46974ea1")
-		)
-		(pin "41"
-			(uuid "bf36e56a-bd89-4df6-9994-20cec0d9dcce")
-		)
-		(pin "24"
-			(uuid "08f3029f-d53e-47c5-a813-4e8eb441ecc0")
-		)
-		(pin "30"
-			(uuid "458dcc27-1281-4c8c-88de-a6989f90d004")
-		)
-		(pin "34"
-			(uuid "cf58776b-3693-4ebc-9103-a68b57aa8bc3")
-		)
-		(pin "59"
-			(uuid "f75cef47-5ba7-4612-94dc-8cefed9cbcba")
-		)
-		(pin "13"
-			(uuid "c3585b44-0969-4837-a40e-3964d2dcd483")
-		)
-		(pin "22"
-			(uuid "8987e757-0a69-4b7c-8bff-e7d555d1e1ab")
-		)
-		(pin "[9,12,28,37,43,46,54,60,63]"
-			(uuid "792f0bf2-6026-43a3-bc2e-1b4b5017982b")
-		)
-		(pin "3"
-			(uuid "8ebc3745-5ef1-4de6-8fc4-8a5217ed1b36")
-		)
-		(pin "11"
-			(uuid "5704174d-ef47-4ece-b7d9-59ebc27dc2f3")
-		)
-		(pin "55"
-			(uuid "ab6346e3-bb1a-431e-8987-3bc8174fb6b7")
-		)
-		(pin "62"
-			(uuid "330abea1-3581-4dca-b96b-112dc7e45a18")
-		)
-		(pin "10"
-			(uuid "9d8e6808-626c-4d6e-a362-31889525a500")
-		)
-		(pin "52"
-			(uuid "8f80b4d8-6b8c-45d6-aba3-90424ee7c60f")
-		)
-		(pin "58"
-			(uuid "d9e42273-b834-4bc3-b0ba-23ba3e798835")
-		)
-		(pin "38"
-			(uuid "96edb534-a04d-4bd9-9f62-ef57b28edcc0")
-		)
-		(pin "2"
-			(uuid "074b1cd5-446b-4e6a-9668-af8a248ccfcb")
-		)
-		(pin "31"
-			(uuid "677d1f77-3fbf-4c86-b26f-79a802d8f0ef")
-		)
-		(pin "21"
-			(uuid "eff936c4-2919-45c3-9353-ecc15721e8cc")
-		)
-		(pin "39"
-			(uuid "20271b0b-ca99-4971-99b6-7d7b2b33c7c5")
-		)
-		(pin "25"
-			(uuid "99cb8e3e-4b65-469a-878e-bddc4a421126")
-		)
-		(pin "44"
-			(uuid "71623750-6753-4656-b221-4ddf23324e78")
-		)
-		(pin "[15,29,40,49,57,66]"
-			(uuid "c80b4b37-606a-4b6a-95f8-5d95cf833178")
-		)
-		(pin "35"
-			(uuid "d83e8b08-5204-4f02-bc3d-954e95f07d06")
-		)
-		(pin "42"
-			(uuid "2c62f6ad-7ae7-41d8-b33a-0f5b7725ff0b")
-		)
-		(pin "17"
-			(uuid "be91de24-d304-48c4-b39d-b1a03dfbdff2")
-		)
-		(pin "51"
-			(uuid "d617a697-933c-491e-a486-28cbe7a5d1e6")
-		)
-		(pin "19"
-			(uuid "78e829a0-517c-4a4e-adcb-1d5299861db3")
-		)
-		(pin "[6,32]"
-			(uuid "0d8e67f7-b6dc-4adb-badb-2c3d7c61f619")
-		)
-		(pin "4"
-			(uuid "caa3be65-241a-4959-b0e5-d7dfbd404bf7")
-		)
-		(pin "14"
-			(uuid "87806589-5710-4b6f-b593-c474253054ee")
-		)
-		(pin "47"
-			(uuid "903b59fb-9434-4289-bf4f-bf989d35f809")
-		)
-		(pin "7"
-			(uuid "a905466f-7249-45e1-a546-46bc65723c92")
-		)
-		(pin "16"
-			(uuid "9bad420d-aee9-4d7c-b8ad-930e80aafbfe")
-		)
-		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
-				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicropower:GND")
 		(at 314.96 187.96 0)
 		(mirror y)
@@ -6868,6 +8482,358 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroCapacitors0402:C_10u_10V_0402")
+		(at 175.26 71.12 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2362c24c-189b-493a-a3b4-a2eaba11e549")
+		(property "Reference" "C34"
+			(at 175.895 66.675 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_10u_10V_0402"
+			(at 185.42 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 187.96 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61A106ME11%23"
+			(at 190.5 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 10 VDC 20% 0402 X5R"
+			(at 175.26 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
+			(at 193.04 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 195.58 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 198.12 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 200.66 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "10u"
+			(at 175.895 70.485 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 203.2 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 205.74 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "b2e37b5c-34df-4213-a10e-04af7de4f03e")
+		)
+		(pin "2"
+			(uuid "9e6bedea-b220-424a-97dc-ce2fe921de7b")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_10u_10V_0402")
+		(at 44.45 71.12 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "240c32de-9f31-45c1-ae2d-a7c972771d7e")
+		(property "Reference" "C32"
+			(at 46.99 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_10u_10V_0402"
+			(at 54.61 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 57.15 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61A106ME11%23"
+			(at 59.69 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 10 VDC 20% 0402 X5R"
+			(at 44.45 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
+			(at 62.23 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 64.77 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 67.31 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "10u"
+			(at 46.99 69.85 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 72.39 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 74.93 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "0824c0f5-22ed-49fe-b424-94b522466cd8")
+		)
+		(pin "2"
+			(uuid "5268c508-da79-4023-9d2b-9166750cf4c5")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
 		(at 259.08 170.18 90)
 		(mirror x)
@@ -7039,6 +9005,183 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 144.78 81.28 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2be98a9c-7e0d-4f0d-b325-18dd4fcf3eda")
+		(property "Reference" "C24"
+			(at 147.32 82.5563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 154.94 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 157.48 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 160.02 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 144.78 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 165.1 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 162.56 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 147.32 85.0963 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 167.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 170.18 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 172.72 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 175.26 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "e88f9dde-902f-47c5-a6b6-22e959c069ed")
+		)
+		(pin "2"
+			(uuid "6d74b24f-0887-4187-96fb-1107886fc178")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -7311,6 +9454,228 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:+1V8")
+		(at 175.26 63.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2d9e505d-df88-4526-b67d-f12d027034c7")
+		(property "Reference" "#PWR085"
+			(at 190.5 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "+1V05"
+			(at 175.26 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 190.5 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 190.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 190.5 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 190.5 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "286c0ab7-2944-42a6-89ca-49ed0c54c5de")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR085")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 142.24 154.94 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2ead737d-083e-4642-a9f2-d5e26ce6b86d")
+		(property "Reference" "#PWR062"
+			(at 151.13 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 142.24 158.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 151.13 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 151.13 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "8c42d24e-ad7c-49d7-bd61-da27f9f81828")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -7963,6 +10328,294 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicropower:GND")
+		(at 44.45 73.66 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4ac0b854-e9e7-48ce-b03a-c6f39124a100")
+		(property "Reference" "#PWR061"
+			(at 53.34 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 44.45 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 53.34 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 53.34 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 53.34 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "2a950fe5-0b57-4fca-ae53-a443baead7b1")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 54.61 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5159de50-ff18-4193-8014-e3ab0ac49e56")
+		(property "Reference" "C11"
+			(at 57.15 67.3163 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 64.77 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 67.31 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 69.85 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 54.61 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 74.93 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 72.39 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 57.15 69.8563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 77.47 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 80.01 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 82.55 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 85.09 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "cfe05eda-9837-4854-9de1-e4e707b30f6d")
+		)
+		(pin "2"
+			(uuid "a0c8d7ff-fe3b-4d6e-af1e-e0afa3735ea3")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
 		(at 344.17 52.07 270)
 		(unit 1)
@@ -8286,6 +10939,183 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 154.94 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59a3f58f-16ce-4e77-a912-ea9e42ebb020")
+		(property "Reference" "C22"
+			(at 157.48 67.3163 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 165.1 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 167.64 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 170.18 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 154.94 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 175.26 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 172.72 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 157.48 69.8563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 177.8 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 180.34 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 182.88 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 185.42 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "3c6d5bac-ac34-4166-a437-f6ae483062e1")
+		)
+		(pin "2"
+			(uuid "8fb67c3f-bb4e-4c57-bd5d-9bdc83cc3e6c")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroResistors0402:R_10k_0402")
 		(at 368.3 181.61 90)
 		(unit 1)
@@ -8449,6 +11279,183 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 144.78 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "622c207b-5654-410e-abf1-f928cdded83e")
+		(property "Reference" "C21"
+			(at 147.32 67.3163 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 154.94 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 157.48 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 160.02 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 144.78 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 165.1 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 162.56 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 147.32 69.8563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 167.64 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 170.18 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 172.72 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 175.26 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "ae212984-20cc-4d27-9a8d-3f434443419d")
+		)
+		(pin "2"
+			(uuid "be5accff-1fe8-4f4a-afee-0fee4b24bba5")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroTestPoints:TP_0.75mm_SMD")
 		(at 267.97 55.88 180)
 		(unit 1)
@@ -8579,6 +11586,248 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroInterfaceControllers:UPD720202K8-711-BAA-A")
+		(at 99.06 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e13342f-dba5-40e2-a951-7d3630174e5d")
+		(property "Reference" "U2"
+			(at 116.84 80.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "UPD720202K8-711-BAA-A"
+			(at 149.86 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:QFN-48-1EP_7x7mm"
+			(at 149.86 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/RNCC/RNCCS17404/RNCCS17404-1.pdf"
+			(at 149.86 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "USB Host Controller USB 3.0 USB Interface 48-QFN (7x7)"
+			(at 149.86 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "UPD720202K8-711-BAA-A"
+			(at 116.84 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Renesas Electronics"
+			(at 149.86 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 149.86 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 149.86 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "28"
+			(uuid "b84124ec-a820-4228-823e-5d92e3637b22")
+		)
+		(pin "2"
+			(uuid "c75d5cbf-c167-402f-af1e-ad9e66486570")
+		)
+		(pin "32"
+			(uuid "dba7e28d-6d83-4451-9bf9-d4a8ab27ba9b")
+		)
+		(pin "8"
+			(uuid "0c60a154-6bc5-4d52-8fbe-ba65d6300799")
+		)
+		(pin "7"
+			(uuid "cee17505-679e-4fb1-9626-35e5b3d6dcf0")
+		)
+		(pin "5"
+			(uuid "9dd1b23c-72cd-474c-bf28-126b33db1e15")
+		)
+		(pin "19"
+			(uuid "55ee5888-3d95-4a4a-b6c7-7661853d6057")
+		)
+		(pin "18"
+			(uuid "c4b639d6-e7d2-4e76-adac-d11d59eed01f")
+		)
+		(pin "11"
+			(uuid "395400fe-ba7c-47d2-bd1d-60afad3456de")
+		)
+		(pin "[6,9,21,30,33,39,42]"
+			(uuid "3c4aa12e-b57f-4bd4-97a9-46122284fa70")
+		)
+		(pin "46"
+			(uuid "f3427a26-baaf-4752-b312-abb28b9fdcb9")
+		)
+		(pin "13"
+			(uuid "01e17b88-ad36-4478-95f1-f0786dff3b26")
+		)
+		(pin "47"
+			(uuid "eed1f804-f964-4493-a564-559a9947aa6b")
+		)
+		(pin "15"
+			(uuid "948e4a0f-095c-4aa6-8338-80ac6ae39f8f")
+		)
+		(pin "44"
+			(uuid "389eef37-bb6a-456e-9395-f00f4cfd96c6")
+		)
+		(pin "27"
+			(uuid "4f42e2f4-1886-4fe6-8ab7-863bc0b6a823")
+		)
+		(pin "37"
+			(uuid "09d900cb-7cf9-425d-a3a7-10fef31a41a7")
+		)
+		(pin "20"
+			(uuid "fc57b9f6-6925-4e8b-bfd1-ec1e60abd011")
+		)
+		(pin "[3,25]"
+			(uuid "a605db6f-d7ff-44d9-8bdf-1615cd86b223")
+		)
+		(pin "40"
+			(uuid "4abfeffc-968b-48a5-9754-b5ebf5739ccd")
+		)
+		(pin "4"
+			(uuid "f3a6f971-7226-4299-b0e4-b447c7409c45")
+		)
+		(pin "16"
+			(uuid "487dec4a-cb15-4cdb-8d73-776b05da72dc")
+		)
+		(pin "24"
+			(uuid "aca012b7-0c5c-4984-a530-1721dc278b1f")
+		)
+		(pin "14"
+			(uuid "6b07fe0b-57ff-4752-8493-31ec76de2cbd")
+		)
+		(pin "[12,22,34,43]"
+			(uuid "87c44d21-1d50-431e-b6d2-6d7722d8301c")
+		)
+		(pin "48"
+			(uuid "b1659e8a-ee76-472d-abc0-e0079c865343")
+		)
+		(pin "31"
+			(uuid "252d4b46-b7ee-42aa-8f6f-2843ee92854f")
+		)
+		(pin "23"
+			(uuid "53261812-06f8-4458-8161-1111b34df157")
+		)
+		(pin "45"
+			(uuid "4ab73cd0-db65-468f-bf76-998e58d5b821")
+		)
+		(pin "49"
+			(uuid "4a94462f-54c4-49d7-9093-423fc8dcd6a1")
+		)
+		(pin "26"
+			(uuid "3d6fe296-6fe5-4fe6-82c7-0116b08f1557")
+		)
+		(pin "29"
+			(uuid "a31792c7-b55f-4beb-919c-afc2f797b205")
+		)
+		(pin "38"
+			(uuid "1aa3c1ec-40fe-4cdc-8446-224b06101f8f")
+		)
+		(pin "41"
+			(uuid "d395344c-facc-4b90-9118-18ac7b1a1b74")
+		)
+		(pin "17"
+			(uuid "e77eed87-7624-4915-ad11-221a48d5e9b0")
+		)
+		(pin "35"
+			(uuid "59bcefaa-f39d-48da-9b90-682d0e3b5d4b")
+		)
+		(pin "36"
+			(uuid "d860fba6-e04d-4dcf-a639-d0ae4be16495")
+		)
+		(pin "10"
+			(uuid "fad6ae12-4aae-49c7-b81d-284fbad1482e")
+		)
+		(pin "1"
+			(uuid "a7a27c2a-2ac8-4e05-9d18-b700d89da4c9")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -8801,6 +12050,537 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 165.1 81.28 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76604118-54fb-4ef8-9c8e-25cbc02343c3")
+		(property "Reference" "C30"
+			(at 167.64 82.5563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 175.26 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 177.8 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 180.34 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 165.1 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 185.42 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 182.88 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 167.64 85.0963 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 187.96 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 190.5 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 193.04 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 195.58 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "af94bb5a-abcc-44ca-9d1a-786df5101a66")
+		)
+		(pin "2"
+			(uuid "5f8b4ac5-106f-4732-90c0-4c946a4514c6")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 73.66 80.01 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78783f22-6437-4aa7-a650-7a2555eb3103")
+		(property "Reference" "C19"
+			(at 76.2 81.2863 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 83.82 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 88.9 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 73.66 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 93.98 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 91.44 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 76.2 83.8263 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 96.52 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 99.06 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 101.6 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "912388e3-3ee9-4e54-b330-ae3f6f5333da")
+		)
+		(pin "2"
+			(uuid "3a4ea57a-e8ff-42fa-88d9-d2721adea866")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 83.82 80.01 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a8221e1-a070-40e1-83a9-3ca06e8dbb81")
+		(property "Reference" "C20"
+			(at 86.36 81.2863 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 93.98 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 96.52 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 99.06 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 83.82 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 101.6 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 86.36 83.8263 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 106.68 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 109.22 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 111.76 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 114.3 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "3b97f2e8-79a1-477d-ab3c-e35fa9beed7b")
+		)
+		(pin "2"
+			(uuid "b4fc0fb6-5ada-41be-a9e5-b344ef82e630")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -9518,6 +13298,117 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicropower:+1V8")
+		(at 44.45 63.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "97ed67c8-9f77-47d5-8a15-8948d7a5e878")
+		(property "Reference" "#PWR086"
+			(at 59.69 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 44.45 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 59.69 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 59.69 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 59.69 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "607164ac-fc75-48c9-8b05-8de651b8bd08")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicropower:+5V")
 		(at 259.08 168.91 0)
 		(unit 1)
@@ -9622,6 +13513,183 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 175.26 81.28 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b31f532-e284-47a6-a078-2d3038e4afd3")
+		(property "Reference" "C31"
+			(at 177.8 82.5563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 185.42 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 187.96 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 190.5 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 175.26 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 195.58 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 193.04 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 177.8 85.0963 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 198.12 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 200.66 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 203.2 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 205.74 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "359024e1-7a7d-43fc-837b-5eb91cafbbf2")
+		)
+		(pin "2"
+			(uuid "237426f3-94c3-4b4d-af6b-e45374965eda")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -9883,6 +13951,182 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_10u_10V_0402")
+		(at 63.5 85.09 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aa7bb206-d375-4f74-af9f-bb0132489ed4")
+		(property "Reference" "C33"
+			(at 66.04 81.28 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_10u_10V_0402"
+			(at 73.66 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 76.2 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61A106ME11%23"
+			(at 78.74 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 10 VDC 20% 0402 X5R"
+			(at 63.5 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
+			(at 81.28 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 83.82 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 86.36 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 88.9 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "10u"
+			(at 66.04 83.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 91.44 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 93.98 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "212a36da-db82-4ab1-8c71-ea0090769688")
+		)
+		(pin "2"
+			(uuid "d2b89d4e-51f8-40d9-a986-c1ba58caecc1")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -11135,6 +15379,117 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
+		(at 135.89 154.94 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bfbb7440-efd3-4cd8-ae01-2491110e8582")
+		(property "Reference" "#PWR057"
+			(at 144.78 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 135.89 158.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 144.78 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 144.78 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "2b1df5de-5b86-4b42-a597-53dfeb8b345e")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
 		(at 256.54 52.07 0)
 		(mirror y)
 		(unit 1)
@@ -11401,6 +15756,471 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "R139")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 64.77 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c29b9ff2-6b01-4994-8994-59d0f4e14c2b")
+		(property "Reference" "C12"
+			(at 67.31 67.3163 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 74.93 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 77.47 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 80.01 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 64.77 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 85.09 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 82.55 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 67.31 69.8563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 87.63 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 90.17 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 92.71 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 95.25 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "6bf4ea9e-2d1b-4a88-9dc2-f0cdb7b55c31")
+		)
+		(pin "2"
+			(uuid "afd6a967-c1c7-47c6-b78a-85754eeffee8")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 83.82 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c489124e-889b-4bd3-b8c2-738fb931e775")
+		(property "Reference" "C14"
+			(at 86.36 67.3163 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 93.98 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 96.52 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 99.06 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 83.82 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 104.14 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 101.6 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 86.36 69.8563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 106.68 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 109.22 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 111.76 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 114.3 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "6170c631-0f43-4d94-b73e-c4c7746dad8b")
+		)
+		(pin "2"
+			(uuid "38a489be-c0a2-4818-8c3f-9b522124871b")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 63.5 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c5023765-c5ef-4267-a1e2-d18437608073")
+		(property "Reference" "#PWR060"
+			(at 72.39 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 63.5 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 72.39 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 72.39 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 72.39 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "0bfcf758-ca7b-44eb-9b14-790680626b84")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -11739,6 +16559,169 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "R146")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroResistors0402:R_2k2_0402")
+		(at 142.24 152.4 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d51400d9-e4eb-4dad-a436-27722352b4d2")
+		(property "Reference" "R140"
+			(at 143.51 148.59 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_2k2_0402"
+			(at 154.94 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
+			(at 157.48 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
+			(at 160.02 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
+			(at 142.24 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 165.1 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "CR0402-FX-2201GLF"
+			(at 162.56 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "2k2"
+			(at 143.51 151.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 167.64 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 170.18 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 152.4 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "b55d9ef0-8576-4a39-8e11-cdbb5831b018")
+		)
+		(pin "2"
+			(uuid "b2af8fcd-1e97-4a7a-91bb-d1a96d3ab4c8")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "R140")
 					(unit 1)
 				)
 			)
@@ -12205,6 +17188,183 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 165.1 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea906ba8-8469-45f6-9dad-48eaf034381e")
+		(property "Reference" "C23"
+			(at 167.64 67.3163 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 175.26 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 177.8 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 180.34 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 165.1 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 185.42 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 182.88 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 167.64 69.8563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 187.96 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 190.5 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 193.04 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 195.58 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "63b3e8f6-50c0-437d-8a9d-830267450cbe")
+		)
+		(pin "2"
+			(uuid "5a4c6a40-cb6f-4ce3-9814-df456e744d3f")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroUSBConnectors:USB-A_Samtec_USB-A-S-F-B-VT_Vertical")
 		(at 334.01 203.2 0)
 		(mirror y)
@@ -12350,6 +17510,117 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 175.26 73.66 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "eafe2671-5282-4515-8c7e-36a8ccd4ba47")
+		(property "Reference" "#PWR059"
+			(at 184.15 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 184.15 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 184.15 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "fc056eb8-8e2a-44fb-bc2c-19bf89c01b64")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -12629,6 +17900,183 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 154.94 81.28 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0971fa3-c229-4a5d-8612-ee4272f6cd7e")
+		(property "Reference" "C29"
+			(at 157.48 82.5563 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 165.1 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 167.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 170.18 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 154.94 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 175.26 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 172.72 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 157.48 85.0963 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 177.8 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 180.34 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 182.88 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 185.42 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "5eb2200b-9feb-4457-82ad-879576f3c385")
+		)
+		(pin "2"
+			(uuid "968d1ca5-4954-44ac-a2eb-587c123617a0")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT")
 		(at 368.3 187.96 90)
 		(unit 1)
@@ -12773,6 +18221,117 @@
 			(project "dc-scm-server-integration-dc-scm-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
 					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:+1V8")
+		(at 63.5 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fc1a7c5d-c522-46ff-bc33-2686a3c48afd")
+		(property "Reference" "#PWR087"
+			(at 78.74 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 63.5 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 78.74 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 78.74 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "8e4ba15e-1518-4af6-a846-aa5f40bafef4")
+		)
+		(instances
+			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+				(path "/4e753ac4-580e-447a-b828-7025703de482/847bc336-fbdd-483f-bdc7-8d84fbfe0e01"
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
