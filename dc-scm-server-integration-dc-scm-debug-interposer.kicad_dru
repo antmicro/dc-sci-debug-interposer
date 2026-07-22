@@ -9,8 +9,8 @@
 (rule "(usb_2.0_inner"
 	(layer inner)
 	(condition "(A.NetClass == '85Ohm-diff')")
-	(constraint track_width (opt 0.16mm))
-	(constraint diff_pair_gap  (opt 0.138mm))
+	(constraint track_width (opt 0.17mm))
+	(constraint diff_pair_gap  (opt 0.15mm))
 )
 
 (rule "(spi_inner"
@@ -22,6 +22,6 @@
 (rule "(pcie_inner"
 	(layer inner)
 	(condition "(A.NetClass == '90Ohm-diff')")
-	(constraint track_width (opt 0.18mm))
-	(constraint diff_pair_gap  (opt 0.2mm))
+	(constraint track_width (opt 0.16mm))
+	(constraint diff_pair_gap  (opt 0.15mm))
 )

@@ -1763,7 +1763,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fab",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -2059,7 +2059,7 @@
         "uuid": "4e753ac4-580e-447a-b828-7025703de482"
       }
     ],
-    "used_designators": "L1-3,L7-8,U1-11,U41,FD1-8,Q1-7,C1-39,C78-80,C305-306,D1-13,D25-26,TP1-36,TP44-45,R1-192,R317-320,J1-18,J20-23,Y1,#PWR1-98,#PWR107-131,#PWR138-139,#PWR267-268,#PWR273,#PWR276-277,#PWR279,#PWR281,#PWR284,#PWR620-639,#FLG1-11,#FLG24-25",
+    "used_designators": "L1-3,L7-8,U1-11,U41,FD1-8,Q1-7,C1-39,C78-80,C305-306,D1-13,D25-26,TP1-36,TP44-45,R1-192,R317-320,J1-23,Y1,#PWR1-98,#PWR107-131,#PWR138-139,#PWR267-268,#PWR273,#PWR276-277,#PWR279,#PWR281,#PWR284,#PWR620-639,#FLG1-11,#FLG24-25",
     "variants": []
   },
   "sheets": [
