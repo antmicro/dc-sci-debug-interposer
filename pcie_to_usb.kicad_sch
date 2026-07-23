@@ -10110,7 +10110,7 @@
 		(uuid "0ff8f7c0-2427-4d4f-a32a-95867f6463d6")
 	)
 	(label "USB_FLASH_SPI.DO"
-		(at 90.17 240.03 180)
+		(at 90.17 242.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10130,7 +10130,7 @@
 		(uuid "196645e3-48a5-4de0-9ed9-f8de3fc5efcd")
 	)
 	(label "USB_FLASH_SPI.DI"
-		(at 90.17 242.57 180)
+		(at 90.17 240.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10150,7 +10150,7 @@
 		(uuid "28301267-32af-46b1-89c6-c21015148862")
 	)
 	(label "SPI_DI"
-		(at 146.05 242.57 180)
+		(at 146.05 240.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10540,7 +10540,7 @@
 		(uuid "f3e395be-f5af-456b-bdf5-9eda7ca02426")
 	)
 	(label "SPI_DO"
-		(at 146.05 240.03 180)
+		(at 146.05 242.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13419,10 +13419,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "313d8f02-0fb1-4820-b449-129ae88994a8")
 		(property "Reference" "R160"
 			(at 106.68 229.87 90)
