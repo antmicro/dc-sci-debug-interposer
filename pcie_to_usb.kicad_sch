@@ -7471,7 +7471,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 140.97) (xy 111.76 140.97)
+			(xy 74.93 140.97) (xy 110.49 140.97)
 		)
 		(stroke
 			(width 0)
@@ -7791,7 +7791,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 133.35) (xy 114.3 133.35)
+			(xy 74.93 133.35) (xy 113.03 133.35)
 		)
 		(stroke
 			(width 0)
@@ -8391,7 +8391,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 130.81) (xy 111.76 130.81)
+			(xy 74.93 130.81) (xy 110.49 130.81)
 		)
 		(stroke
 			(width 0)
@@ -8571,7 +8571,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 130.81) (xy 129.54 130.81)
+			(xy 115.57 130.81) (xy 129.54 130.81)
 		)
 		(stroke
 			(width 0)
@@ -8651,7 +8651,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 138.43) (xy 111.76 138.43)
+			(xy 74.93 138.43) (xy 110.49 138.43)
 		)
 		(stroke
 			(width 0)
@@ -9351,7 +9351,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 133.35) (xy 129.54 133.35)
+			(xy 118.11 133.35) (xy 129.54 133.35)
 		)
 		(stroke
 			(width 0)
@@ -9521,7 +9521,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 138.43) (xy 129.54 138.43)
+			(xy 115.57 138.43) (xy 129.54 138.43)
 		)
 		(stroke
 			(width 0)
@@ -9621,7 +9621,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 140.97) (xy 129.54 140.97)
+			(xy 115.57 140.97) (xy 129.54 140.97)
 		)
 		(stroke
 			(width 0)
@@ -10219,6 +10219,16 @@
 		)
 		(uuid "395a0d55-b9f5-4afd-b47b-8d95df522611")
 	)
+	(label "USB2_D+"
+		(at 337.82 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3ca7eefe-9bbc-4cce-98bf-921116e2892c")
+	)
 	(label "LOCAL_USB1.D-"
 		(at 294.64 69.85 0)
 		(effects
@@ -10238,6 +10248,16 @@
 			(justify left bottom)
 		)
 		(uuid "424cbeac-f496-44a4-9b19-cb7738b1dc48")
+	)
+	(label "USB2_D-"
+		(at 337.82 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "42a91101-a055-4b86-825b-155345ceb3fa")
 	)
 	(label "USB_FLASH_SPI.SCK"
 		(at 127 146.05 180)
@@ -10268,6 +10288,16 @@
 			(justify right bottom)
 		)
 		(uuid "48888841-7c93-4a81-a19d-60c2065e6214")
+	)
+	(label "USB1_D+"
+		(at 331.47 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50aa54c8-d291-4697-9665-59f4196b8cc0")
 	)
 	(label "~{SPI_CS}"
 		(at 146.05 252.73 180)
@@ -10608,6 +10638,16 @@
 			(justify right bottom)
 		)
 		(uuid "f86e5016-52fc-44f1-a493-20d8e4978c8a")
+	)
+	(label "USB1_D-"
+		(at 331.47 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fccc8631-6646-441e-85c7-ec8c0780ae95")
 	)
 	(label "LOCAL_USB2.D-"
 		(at 201.93 135.89 180)
@@ -14593,7 +14633,7 @@
 	)
 	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
-		(at 111.76 130.81 0)
+		(at 110.49 130.81 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -14604,7 +14644,7 @@
 		(dnp no)
 		(uuid "46de8d61-b9f6-4cb5-81e0-17906ce44d52")
 		(property "Reference" "C37"
-			(at 111.76 129.54 0)
+			(at 110.49 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14614,7 +14654,7 @@
 			)
 		)
 		(property "Value" "C_100n_0402"
-			(at 132.08 120.65 0)
+			(at 130.81 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14627,7 +14667,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
-			(at 132.08 118.11 0)
+			(at 130.81 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14640,7 +14680,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
-			(at 132.08 115.57 0)
+			(at 130.81 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14653,7 +14693,7 @@
 			)
 		)
 		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
-			(at 111.76 130.81 0)
+			(at 110.49 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14664,7 +14704,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 132.08 110.49 0)
+			(at 130.81 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14677,7 +14717,7 @@
 			)
 		)
 		(property "MPN" "GRM155R61H104KE14D"
-			(at 132.08 113.03 0)
+			(at 130.81 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14690,7 +14730,7 @@
 			)
 		)
 		(property "Val" "100n"
-			(at 118.11 129.54 0)
+			(at 116.84 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14701,7 +14741,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 132.08 107.95 0)
+			(at 130.81 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14714,7 +14754,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 132.08 105.41 0)
+			(at 130.81 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14727,7 +14767,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 132.08 102.87 0)
+			(at 130.81 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14739,7 +14779,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 132.08 100.33 0)
+			(at 130.81 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18695,7 +18735,7 @@
 	)
 	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
-		(at 114.3 133.35 0)
+		(at 113.03 133.35 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -18706,7 +18746,7 @@
 		(dnp no)
 		(uuid "7af77533-0702-445a-b971-77fb5af1553e")
 		(property "Reference" "C38"
-			(at 114.3 134.62 0)
+			(at 113.03 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18716,7 +18756,7 @@
 			)
 		)
 		(property "Value" "C_100n_0402"
-			(at 134.62 123.19 0)
+			(at 133.35 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18729,7 +18769,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
-			(at 134.62 120.65 0)
+			(at 133.35 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18742,7 +18782,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
-			(at 134.62 118.11 0)
+			(at 133.35 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18755,7 +18795,7 @@
 			)
 		)
 		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
-			(at 114.3 133.35 0)
+			(at 113.03 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18766,7 +18806,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 134.62 113.03 0)
+			(at 133.35 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18779,7 +18819,7 @@
 			)
 		)
 		(property "MPN" "GRM155R61H104KE14D"
-			(at 134.62 115.57 0)
+			(at 133.35 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18792,7 +18832,7 @@
 			)
 		)
 		(property "Val" "100n"
-			(at 120.65 134.62 0)
+			(at 119.38 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18803,7 +18843,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 134.62 110.49 0)
+			(at 133.35 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18816,7 +18856,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 134.62 107.95 0)
+			(at 133.35 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18829,7 +18869,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 134.62 105.41 0)
+			(at 133.35 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18841,7 +18881,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 134.62 102.87 0)
+			(at 133.35 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19418,7 +19458,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_0R_0402")
-		(at 111.76 138.43 0)
+		(at 110.49 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19428,7 +19468,7 @@
 		(dnp no)
 		(uuid "8796a6a2-9a48-45aa-ad11-e1eb75f43230")
 		(property "Reference" "R198"
-			(at 116.586 137.414 0)
+			(at 115.316 137.414 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19440,7 +19480,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at 132.08 151.13 0)
+			(at 130.81 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19453,7 +19493,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 132.08 153.67 0)
+			(at 130.81 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19466,7 +19506,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 132.08 156.21 0)
+			(at 130.81 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19479,7 +19519,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 111.76 138.43 0)
+			(at 110.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19490,7 +19530,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 132.08 158.75 0)
+			(at 130.81 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19503,7 +19543,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 132.08 161.29 0)
+			(at 130.81 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19516,7 +19556,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 132.08 163.83 0)
+			(at 130.81 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19529,7 +19569,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 132.08 166.37 0)
+			(at 130.81 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19542,7 +19582,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 114.3 138.43 0)
+			(at 113.03 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19553,7 +19593,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 132.08 148.59 0)
+			(at 130.81 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19565,7 +19605,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 132.08 168.91 0)
+			(at 130.81 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23269,7 +23309,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_0R_0402")
-		(at 111.76 140.97 0)
+		(at 110.49 140.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23279,7 +23319,7 @@
 		(dnp no)
 		(uuid "bf98b042-ef62-48f0-a7a2-d097df1d3606")
 		(property "Reference" "R199"
-			(at 116.586 139.954 0)
+			(at 115.316 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23291,7 +23331,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at 132.08 153.67 0)
+			(at 130.81 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23304,7 +23344,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 132.08 156.21 0)
+			(at 130.81 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23317,7 +23357,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 132.08 158.75 0)
+			(at 130.81 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23330,7 +23370,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 111.76 140.97 0)
+			(at 110.49 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23341,7 +23381,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 132.08 161.29 0)
+			(at 130.81 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23354,7 +23394,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 132.08 163.83 0)
+			(at 130.81 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23367,7 +23407,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 132.08 166.37 0)
+			(at 130.81 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23380,7 +23420,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 132.08 168.91 0)
+			(at 130.81 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23393,7 +23433,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 114.3 140.97 0)
+			(at 113.03 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23404,7 +23444,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 132.08 151.13 0)
+			(at 130.81 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23416,7 +23456,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 132.08 171.45 0)
+			(at 130.81 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
