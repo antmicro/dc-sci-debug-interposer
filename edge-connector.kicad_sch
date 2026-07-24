@@ -13198,7 +13198,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 288.29 203.2 180)
+		(at 289.56 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13207,7 +13207,7 @@
 		)
 		(uuid "f281de83-325f-41d1-a36c-7b39845c2ea4")
 		(property "Netclass" "85Ohm-diff"
-			(at 288.798 204.47 0)
+			(at 290.068 204.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13218,7 +13218,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 487.68 80.01 0)
+			(at 488.95 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
