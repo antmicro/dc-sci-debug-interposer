@@ -1710,6 +1710,18 @@
       "/DC-SCI gold fingers connector/PCIE1_TX0-": [
         "85Ohm-diff"
       ],
+      "/DC-SCI gold fingers connector/PCIE_LOCAL_USB_RX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE_LOCAL_USB_RX0-": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE_LOCAL_USB_TX0+": [
+        "85Ohm-diff"
+      ],
+      "/DC-SCI gold fingers connector/PCIE_LOCAL_USB_TX0-": [
+        "85Ohm-diff"
+      ],
       "/DC-SCI gold fingers connector/PCIE_USB_SCMROOT_RX0+": [
         "85Ohm-diff"
       ],
@@ -1733,6 +1745,18 @@
       ],
       "/DC-SCI gold fingers connector/USB2_D-": [
         "90Ohm-diff"
+      ],
+      "/PCIe to USB/C_PETX+": [
+        "85Ohm-diff"
+      ],
+      "/PCIe to USB/C_PETX-": [
+        "85Ohm-diff"
+      ],
+      "/PCIe to USB/PECLK+": [
+        "85Ohm-diff"
+      ],
+      "/PCIe to USB/PECLK-": [
+        "85Ohm-diff"
       ],
       "/PCIe to USB/PERX+": [
         "85Ohm-diff"
