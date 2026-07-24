@@ -136591,7 +136591,7 @@
 		(uuid "e363b04d-09d9-4879-b26b-dd7225040daf")
 		(at 115.01 105.6)
 		(property "Reference" "J9"
-			(at 0.1 -3.6 0)
+			(at -4.11 -3.4 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "46a1782d-5830-417f-8238-546418ec9a49")
@@ -467261,16 +467261,6 @@
 		(uuid "7c9ec70c-5e3f-41f8-a3ac-e27f6b9659ea")
 	)
 	(gr_line
-		(start 56.32 69.44)
-		(end 56.36 79.400606)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "6c2ef95e-cbf3-4b74-b143-bbd1998506bd")
-	)
-	(gr_line
 		(start 74.21 102.35)
 		(end 74.21 111.275)
 		(stroke
@@ -469460,13 +469450,12 @@
 		)
 	)
 	(gr_text "PCB SHA ########"
-		(at 121 65 0)
+		(at 126.55 93.25 90)
 		(layer "B.SilkS")
 		(uuid "e6c0b729-0058-4a1a-81bd-dd623d7e613a")
 		(effects
 			(font
-				(size 0.65 0.65)
-				(thickness 0.15)
+				(size 0.8 0.8)
 			)
 			(justify mirror)
 		)
