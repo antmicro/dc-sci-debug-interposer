@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "DC-SCM Server Integration DC-SCM Debug Interposer")
-		(date "2026-07-14")
+		(date "2026-07-24")
 		(rev "1.0.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")

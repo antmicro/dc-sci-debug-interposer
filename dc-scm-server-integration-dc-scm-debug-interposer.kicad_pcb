@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "DC-SCM Server Integration DC-SCM Debug Interposer")
-		(date "2026-07-14")
+		(date "2026-07-24")
 		(rev "1.0.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -220,7 +220,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "fab")
+			(outputdirectory "TEST-dc-scm-server-integration-dc-scm-debug-interposer")
 		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
@@ -528825,7 +528825,7 @@
 		(last_netname "/DC-SCI edge connector/DC_SCM_ESPI.~{CS0}")
 		(last_status "tuned")
 		(last_track_width 0.18)
-		(last_tuning_length 64.529192)
+		(last_tuning_length 64.529191)
 		(max_amplitude 0.5)
 		(min_amplitude 0.2)
 		(min_spacing 0.75)

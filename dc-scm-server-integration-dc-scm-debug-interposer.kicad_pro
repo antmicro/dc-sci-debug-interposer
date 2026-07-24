@@ -2078,7 +2078,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "TEST-dc-scm-server-integration-dc-scm-debug-interposer",
       "specctra_dsn": "",
       "vrml": ""
     },
