@@ -45224,7 +45224,7 @@
 		(path "/3bb5262c-6b8b-4ee7-898e-1b4062626beb")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -86827,7 +86827,7 @@
 		(path "/9353c25f-4277-46f7-bed3-9daaa32540a6")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -93654,7 +93654,7 @@
 		(path "/9cc3fbef-590e-489a-816e-4c8adafbda9a")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -94559,7 +94559,7 @@
 		(path "/a35f2f6c-6e84-4457-b11e-4dae4b0b23ba")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -187199,7 +187199,7 @@
 		(path "/4edecbf5-cfa1-41e0-bb78-97e26a63148a")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -202688,7 +202688,7 @@
 		(path "/f5ce47c3-e34b-40dc-8ed0-fcef4e618200")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -242355,7 +242355,7 @@
 		(path "/bcfe4ad4-9395-45b5-9b4a-43c55ba87b1c")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -267408,7 +267408,7 @@
 		(path "/d6140217-8fc7-4e5e-9437-15836311d247")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(attr exclude_from_bom)
+		(attr smd exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
