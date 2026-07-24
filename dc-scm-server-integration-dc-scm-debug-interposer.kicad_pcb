@@ -371,12 +371,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/7ab688fa-6d47-45ef-a4fc-a7920ff61540")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -591,6 +585,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -740,12 +740,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/23edd7bb-b7fc-4e6f-ab05-7b3903f41647")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -960,6 +954,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -1109,12 +1109,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/8f7a089e-f21e-46c8-96ac-0510eea96138")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -1329,6 +1323,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -1478,12 +1478,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/004201ad-2171-4d5c-8e2f-644fc4c9fb4f")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -1698,6 +1692,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -1834,12 +1834,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/922c7481-a002-43b8-9a9a-ffd4d4d44816")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -2054,6 +2048,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -2203,12 +2203,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/fb811ffa-a3d2-4536-bf90-4a4d54455cf6")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -2423,6 +2417,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -2572,12 +2572,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/491f9046-5979-407e-817c-6c4314b4ca73")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -2792,6 +2786,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -2928,12 +2928,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/b60391b1-e00c-4f74-9bb6-d6aa7f27d2fa")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -3148,6 +3142,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -3297,12 +3297,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/6c178597-fb9e-4673-88f5-8cf844b306be")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -3517,6 +3511,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -3666,12 +3666,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/f3bdd09a-eb3a-4020-80b9-321c11c21897")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -3886,6 +3880,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:LED_0603_1608Metric_G"
 		(layer "F.Cu")
@@ -4009,12 +4009,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/da21db67-195c-459a-8e88-75d60d55916f")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -7141,6 +7135,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -7290,12 +7290,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/85693900-5da1-41cf-8620-c56fdb147097")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -7510,6 +7504,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -7646,12 +7646,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/25cddc10-ab49-4e3a-9e48-1f00a133465f")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -7866,6 +7860,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Socket_SOP2-16_ACA-SPI-006-K01"
 		(layer "F.Cu")
@@ -7972,14 +7972,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/392a3283-b3d3-4c5b-8183-7c3ac8bea9cb")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "16" "7" "15" "8" "9" "1" "4" "5" "6" "11" "12" "13" "14"
-					"10"
-				)
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -10665,6 +10657,14 @@
 				(xyz -0 -0 -90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "16" "7" "15" "8" "9" "1" "4" "5" "6" "11" "12" "13" "14"
+					"10"
+				)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -10814,12 +10814,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/2aa2b3ff-6d22-4fd0-88b5-2ed049c6f173")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -11034,6 +11028,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm"
 		(layer "F.Cu")
@@ -11142,12 +11142,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/d20a9ed2-2a7e-468f-9eb6-4640413aaab3")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "10" "9" "8" "7" "6")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -11493,6 +11487,12 @@
 			(uuid "d9ed7313-50a7-4741-a2ae-0bd659e0c89b")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "10" "9" "8" "7" "6")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -11642,12 +11642,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b077757f-e100-42ab-81b5-fd63cd3a49f8")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -11862,6 +11856,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -12011,12 +12011,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/aebf8736-a071-483b-8489-e1a2f6a333dd")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd exclude_from_bom dnp)
 		(stackup
 			(layer "F.Cu")
@@ -12231,6 +12225,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -12380,12 +12380,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/d6e3ba07-190d-44f1-8763-9aad9dffc120")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -12600,6 +12594,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -12749,12 +12749,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/a08c7be0-aa17-4080-8a0c-ab6c9bcf42c8")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -12969,6 +12963,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TSOT23-6"
 		(layer "F.Cu")
@@ -13077,12 +13077,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/efd0d6b1-0ff2-43f9-a58a-c2d8fb89977a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "5" "1" "2" "6" "4")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -14154,6 +14148,12 @@
 				(xyz 0 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "3" "5" "1" "2" "6" "4")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -14290,12 +14290,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/100998b4-9576-4e3f-8d37-9a25b64a7faa")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -14510,6 +14504,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -14618,12 +14618,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/716a0a21-b385-409e-9cb0-bd7d849bc897")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -14696,6 +14690,12 @@
 			(uuid "135b2d04-3973-41b4-af0d-6e3cdf447c33")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -14845,12 +14845,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/5ed3f359-a750-49f8-b43a-a11a91f82912")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -15065,6 +15059,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -15175,12 +15175,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/6c088a2e-4093-4a5d-acac-590654bf9005")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -18219,6 +18213,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -18368,12 +18368,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b78dd331-ba99-4642-b9f8-298175cffdf6")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -18588,6 +18582,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -18737,12 +18737,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/c0b8a667-e8ca-40ba-8d91-0012ab1caca1")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -18957,6 +18951,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -19106,12 +19106,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/1cf49d8e-3790-451a-adaa-bda995434631")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd exclude_from_bom dnp)
 		(stackup
 			(layer "F.Cu")
@@ -19326,6 +19320,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -19475,12 +19475,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/98368731-72aa-4609-8b0e-25cce6e4eb22")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -19695,6 +19689,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -19844,12 +19844,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/f80f9cf4-0ce6-411b-a3fa-203eb7e015f9")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -20064,6 +20058,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -20213,12 +20213,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/5848d8bb-94c6-47f5-b7c3-2e2810afcf7b")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd exclude_from_bom dnp)
 		(stackup
 			(layer "F.Cu")
@@ -20433,6 +20427,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -20582,12 +20582,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/f360c25d-d7c6-4c7b-b994-93b163576591")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -27530,6 +27524,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -27666,12 +27666,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/ee2c4e74-f6da-46d7-b5e8-195c95cb5704")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -27886,6 +27880,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -28035,12 +28035,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/64b9f796-cd1b-4e5a-9596-dad3b31111ec")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -28255,6 +28249,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -28365,12 +28365,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/92d817a5-0fc1-4aff-bcbd-f1164e1c76ca")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -31409,6 +31403,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -31558,12 +31558,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/086a3269-3551-4bed-a63a-2c58cc11c13c")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -38506,6 +38500,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -38616,12 +38616,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/643878da-5f13-44df-a5db-5c5c8088cba6")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -41660,6 +41654,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PCB-Edge_DC-SCM-2.1_2x84_Rev-1-1"
 		(layer "F.Cu")
@@ -41763,43 +41763,9 @@
 				)
 			)
 		)
-		(path "/4f1fea13-807c-4730-b7d5-3b9bd920ecdd/1f869638-c68f-4962-a49f-8b434370bf9f")
+		(path "/4f1fea13-807c-4730-b7d5-3b9bd920ecdd/66007418-c6c3-43e0-923c-465560424c3e")
 		(sheetname "/DC-SCI edge connector/")
 		(sheetfile "edge-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "A2" "A3" "A4" "A1" "B28" "B26" "A13" "A14" "A8" "A9" "A10" "A11"
-					"A12" "B58" "A7" "B27" "B64" "B25" "B38" "B35" "B32" "B29" "OB13" "OB10"
-					"B67" "B70" "OA1" "OA4" "OA7" "OA10" "OA13" "OB1" "OB4" "OB7" "A64"
-					"A32" "A35" "A38" "A53" "A29" "A25" "A22" "A19" "A67" "A6" "A70" "A5"
-					"B22" "B11" "B19" "B50" "OB14" "OA14" "A60" "B51" "A63" "B37" "B36"
-					"B69" "B68"
-				)
-			)
-			(unit
-				(name "B")
-				(pins "A15" "A16" "A17" "A18" "A26" "A27" "A43" "A44" "A45" "A46" "A47"
-					"A48" "A49" "A50" "B52" "B53" "B54" "B55" "B56" "B57" "A54" "A55" "A56"
-					"A57" "A58" "A59" "A61" "A62" "B39" "B40" "B41" "B42" "A52" "A51" "B9"
-					"B10" "A39" "A40" "A41" "A42" "B60" "B63" "B59" "B61" "B62"
-				)
-			)
-			(unit
-				(name "C")
-				(pins "B13" "B18" "B12" "B14" "B15" "B16" "B17" "B24" "B23" "B21" "B20"
-					"A24" "A23" "A21" "A20" "B1" "B2" "B3" "B4" "B5" "B6" "B7" "B8" "B43"
-					"B44" "B48" "B49" "B45" "B46" "B47"
-				)
-			)
-			(unit
-				(name "D")
-				(pins "A28" "A37" "A36" "A69" "A68" "OB3" "OB2" "OA3" "OA2" "OB6" "OB5"
-					"OA6" "OA5" "OB9" "OB8" "OA9" "OA8" "OB12" "OB11" "OA12" "OA11" "B31"
-					"B30" "A31" "A30" "B66" "B65" "A66" "A65" "A34" "A33" "B34" "B33"
-				)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -43663,6 +43629,39 @@
 			(uuid "e5e6e799-b660-4e63-b24c-53380edf6d04")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "A2" "A3" "A4" "A1" "B28" "B26" "A13" "A14" "A8" "A9" "A10" "A11"
+					"A12" "B58" "A7" "B27" "B64" "B25" "B38" "B35" "B32" "B29" "OB13" "OB10"
+					"B67" "B70" "OA1" "OA4" "OA7" "OA10" "OA13" "OB1" "OB4" "OB7" "A64" "A32"
+					"A35" "A38" "A53" "A29" "A25" "A22" "A19" "A67" "A6" "A70" "A5" "B22"
+					"B11" "B19" "B50" "OB14" "OA14" "A60" "B51" "A63" "B37" "B36" "B69" "B68"
+				)
+			)
+			(unit
+				(name "B")
+				(pins "A15" "A16" "A17" "A18" "A26" "A27" "A43" "A44" "A45" "A46" "A47"
+					"A48" "A49" "A50" "B52" "B53" "B54" "B55" "B56" "B57" "A54" "A55" "A56"
+					"A57" "A58" "A59" "A61" "A62" "B39" "B40" "B41" "B42" "A52" "A51" "B9"
+					"B10" "A39" "A40" "A41" "A42" "B60" "B63" "B59" "B61" "B62"
+				)
+			)
+			(unit
+				(name "C")
+				(pins "B13" "B18" "B12" "B14" "B15" "B16" "B17" "B24" "B23" "B21" "B20"
+					"A24" "A23" "A21" "A20" "B1" "B2" "B3" "B4" "B5" "B6" "B7" "B8" "B43"
+					"B44" "B48" "B49" "B45" "B46" "B47"
+				)
+			)
+			(unit
+				(name "D")
+				(pins "A28" "A37" "A36" "A69" "A68" "OB3" "OB2" "OA3" "OA2" "OB6" "OB5"
+					"OA6" "OA5" "OB9" "OB8" "OA9" "OA8" "OB12" "OB11" "OA12" "OA11" "B31"
+					"B30" "A31" "A30" "B66" "B65" "A66" "A65" "A34" "A33" "B34" "B33"
+				)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -43812,12 +43811,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/3af3c284-ee99-481f-a38b-fd8ada3928e4")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -44032,6 +44025,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -44181,12 +44180,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/be728c72-f620-469e-91d7-c7f3c571022a")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -44401,6 +44394,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -44550,12 +44549,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/e55638a0-0012-4540-9d33-9f4eef15898f")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -44770,6 +44763,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -44919,12 +44918,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b4611014-812c-4e73-80a2-5b26274b8337")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -45139,6 +45132,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
@@ -45224,12 +45223,6 @@
 		(path "/3bb5262c-6b8b-4ee7-898e-1b4062626beb")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -45312,6 +45305,12 @@
 			(uuid "0b675482-db47-4ddd-8fc3-cb5452cabba0")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:LED_0603_1608Metric_G"
 		(layer "F.Cu")
@@ -45435,12 +45434,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/48327a00-adcb-4b58-8fa7-393d21f5fc45")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -48567,6 +48560,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -48716,12 +48715,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/5709239a-3ef4-400d-ad7f-47bc32dc1e5b")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -48936,6 +48929,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -49085,12 +49084,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/377ad67e-e597-49fc-8569-122d4bd3b87f")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -56033,6 +56026,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -56182,12 +56181,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/53c241f5-a4f9-41e4-8a18-a1927a156d60")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -56402,6 +56395,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -56512,12 +56511,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/c5f7aa18-83e8-4d63-a9a9-1a7b432515c1")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -59556,6 +59549,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -59705,12 +59704,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/0b64f508-85f1-4e39-8f4e-2a380cdeb2c9")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -59925,6 +59918,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -60074,12 +60073,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/9d5a1d05-e077-4d00-993f-ad69b307a4a2")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -60294,6 +60287,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -60443,12 +60442,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/9cc09cd4-ef75-4f22-b06c-99b073fec145")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -60663,6 +60656,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Conn_Molex_PicoBlade_1x4_0533980471"
 		(layer "F.Cu")
@@ -60773,12 +60772,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/db0b5509-2167-4aad-a35f-27a04943f91f")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "MP1" "MP2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -62484,6 +62477,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "MP1" "MP2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -62594,12 +62593,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/083f3782-eb7b-42e3-b932-ddacc47900ec")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -65638,6 +65631,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -65787,12 +65786,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/6984d19a-0a41-4571-ba81-3ab93136a94e")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -66007,6 +66000,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -66156,12 +66155,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/75b317d7-b303-4ecc-aabc-d1d90b6385f7")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -66376,6 +66369,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -66525,12 +66524,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/444ff120-d911-4d58-8d1b-f83a373fad3f")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -66745,6 +66738,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -66894,12 +66893,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/c2d6227e-76e5-4c78-a2e8-ff3925a0c85a")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -67114,6 +67107,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Socket_SOP2-16_ACA-SPI-006-K01"
 		(layer "F.Cu")
@@ -67220,14 +67219,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/83389c1c-6c51-4df1-8b42-664db20796b5")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "3" "16" "7" "15" "8" "9" "1" "4" "5" "6" "11" "12" "13" "14"
-					"10"
-				)
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -69913,6 +69904,14 @@
 				(xyz -0 -0 -90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "16" "7" "15" "8" "9" "1" "4" "5" "6" "11" "12" "13" "14"
+					"10"
+				)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -70062,12 +70061,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/836a4fd8-be4d-4882-a125-53597835dc8d")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -70282,6 +70275,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -70431,12 +70430,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/188b9175-6c3c-43ec-8703-48814571a070")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -70651,6 +70644,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -70800,12 +70799,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/611bd2e4-63de-43f7-be7f-e8510d23b9d9")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd exclude_from_bom dnp)
 		(stackup
 			(layer "F.Cu")
@@ -71020,6 +71013,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -71128,12 +71127,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/6475b4b0-181e-4164-84df-6e926976314d")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -71206,6 +71199,12 @@
 			(uuid "dfbd0193-bde6-4e33-aa89-e26f2249529a")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -71355,12 +71354,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/c7f4217d-cd9a-4764-beaf-9020af6f6d9a")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -71575,6 +71568,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -71724,12 +71723,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/2fa6f165-923d-454c-b250-4595e54afb6c")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd exclude_from_bom dnp)
 		(stackup
 			(layer "F.Cu")
@@ -71944,6 +71937,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -72093,12 +72092,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/fe98f8a8-6c87-4649-907e-8d3b0fc7ee0a")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -72313,6 +72306,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -72462,12 +72461,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/fa418fb0-f1fc-4979-b35c-4c8e43775331")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -72682,6 +72675,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -72818,12 +72817,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/d763388b-454f-458b-9851-4ec535530514")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd dnp)
 		(stackup
 			(layer "F.Cu")
@@ -73038,6 +73031,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -73187,12 +73186,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/77b744c2-4268-4184-b995-1a3816b74033")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -78787,6 +78780,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -78936,12 +78935,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/7dc312ce-1dca-493a-84be-b6906f6c597c")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -79156,6 +79149,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -79305,12 +79304,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/d8f0421e-66a3-48ab-9fbf-5aef78c2918f")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -79525,6 +79518,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -79674,12 +79673,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/aebbe82b-ea67-40bd-9521-65dd434ac8c6")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -79894,6 +79887,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -80043,12 +80042,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/2fb0a863-0f7d-413a-9f53-d3f0c8028c37")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd exclude_from_bom dnp)
 		(stackup
 			(layer "F.Cu")
@@ -80263,6 +80256,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -80373,12 +80372,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/54bb5ad9-c560-4046-af48-a1d733a7d03e")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -83417,6 +83410,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -83566,12 +83565,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/765f5246-930b-4625-afd3-c21fe900ba25")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -83786,6 +83779,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -83922,12 +83921,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/30639a51-fbd3-468e-9419-ec572c015a02")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -84142,6 +84135,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0603_1608Metric"
 		(layer "F.Cu")
@@ -84291,12 +84290,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/d4a98b58-6659-4cdf-be90-a9f23beff8d2")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -84531,6 +84524,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -84639,12 +84638,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/efe8b2ba-e3bf-4dbe-9ec5-fb1fd06661ce")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -84717,6 +84710,12 @@
 			(uuid "f882b543-3366-42d8-8e88-00b56be849e5")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -84825,12 +84824,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/755acad8-4fa7-4663-840e-2497eebede1a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -84903,6 +84896,12 @@
 			(uuid "c476d9b7-773e-4a19-b1d7-617cbca57265")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -85052,12 +85051,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/49138433-8a7c-4355-8457-ea38c9ee84ee")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -85272,6 +85265,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -85421,12 +85420,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/a84c4f60-3345-424f-b6ea-59705fa05d02")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -85641,6 +85634,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -85790,12 +85789,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/758522a8-2b4b-4aba-ad29-af270a3c6323")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -86010,6 +86003,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -86159,12 +86158,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/52b5ebbe-b8db-4afc-bf38-d87690cf9f04")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -86379,6 +86372,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -86528,12 +86527,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/bce6a47d-6748-4804-85a4-953ec7a00dee")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -86748,6 +86741,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
@@ -86833,12 +86832,6 @@
 		(path "/9353c25f-4277-46f7-bed3-9daaa32540a6")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -86921,6 +86914,12 @@
 			(uuid "5aa8d1cc-5df9-41c4-a241-08232d710bbb")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -87057,12 +87056,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/a91f0aec-f7da-442c-a5f9-0c3c49f31e63")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -87277,6 +87270,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -87385,12 +87384,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/3b679c79-bdc7-4d45-8b6f-9aaf44164ba5")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -87463,6 +87456,12 @@
 			(uuid "0b4484a3-a13d-4d3d-a09f-c27383f8cf9c")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -87612,12 +87611,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/fdce2d3c-6fdf-47c0-888c-589ed257faf5")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -87832,6 +87825,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -87981,12 +87980,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/2b2febe1-dd38-43cb-914f-1fdac6c3d00e")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -93581,6 +93574,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
@@ -93666,12 +93665,6 @@
 		(path "/9cc3fbef-590e-489a-816e-4c8adafbda9a")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -93754,6 +93747,12 @@
 			(uuid "7665792c-69aa-4add-b124-9f7ee57b5c5d")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -93903,12 +93902,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/2a0b8eb4-0bd6-4382-ae5d-95864eae3b48")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -94123,6 +94116,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -94272,12 +94271,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/6796fa83-b136-4ba3-ae1f-7c0b3a586ad0")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -94492,6 +94485,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
@@ -94577,12 +94576,6 @@
 		(path "/a35f2f6c-6e84-4457-b11e-4dae4b0b23ba")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -94665,6 +94658,12 @@
 			(uuid "6bc2c30a-8e6c-46e4-9016-e111e08decca")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -94814,12 +94813,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b0d618de-bc64-4bef-9fb3-e1a77090d07f")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -95034,6 +95027,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -95144,12 +95143,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/7e68fc7d-d121-4a40-ae3f-17e7a855358e")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -98188,6 +98181,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -98296,12 +98295,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/25b87152-0034-4982-99e3-56b4611de25a")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -98374,6 +98367,12 @@
 			(uuid "247e6b95-9384-46ac-89d7-13803d3ccece")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -98523,12 +98522,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/142a1b37-493f-4822-9b4c-874ede23299f")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -98743,6 +98736,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -98892,12 +98891,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/072f70b0-893b-4939-a10d-6824a47bf6e5")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -99112,6 +99105,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -99261,12 +99260,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/25d1fb59-58c4-41b2-b68e-0829e25c7d0f")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -99481,6 +99474,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -99630,12 +99629,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/7f2c5b92-953f-41ab-9482-5d97ff02985a")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -99850,6 +99843,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:LED_0603_1608Metric_G"
 		(layer "F.Cu")
@@ -99973,12 +99972,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/4128750c-2021-4b5e-a99c-072aa0d00b4b")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -103105,6 +103098,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -103213,12 +103212,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/89f8e8ec-da35-4e4a-b968-0a2f98ba2d75")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -103291,6 +103284,12 @@
 			(uuid "a457cef4-e2e4-4359-b2d6-4e04221e45c6")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -103440,12 +103439,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/8ac89fe6-138b-414b-9229-897017d4066a")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -103660,6 +103653,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0603_1608Metric_EIA"
 		(layer "F.Cu")
@@ -103809,12 +103808,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/a81076a2-7fc4-4e35-a744-b388add1183e")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -109409,6 +109402,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:antmicro-logo_scaled_12mm"
 		(layer "F.Cu")
@@ -110403,12 +110402,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/8a746265-db12-444b-923e-eaa35ae85011")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -110481,6 +110474,12 @@
 			(uuid "e9239e05-618d-47ad-a5f1-b6aec2723cd0")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Conn_Molex_PicoBlade_1x4_0533980471"
 		(layer "F.Cu")
@@ -110591,12 +110590,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/018e23a4-c58a-4208-b481-311641b30f4b")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "MP1" "MP2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -112302,6 +112295,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "MP1" "MP2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -112451,12 +112450,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/a7eb78d0-a2d6-4a7e-bd03-1fc5c9508d42")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -112671,6 +112664,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -112781,12 +112780,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/900d9d96-cf00-4630-accf-e3af99d6863a")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -115825,6 +115818,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -115974,12 +115973,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/8cab9d70-b9b8-4842-b390-ae3e3b23403b")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -116194,6 +116187,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -116343,12 +116342,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/109e0e39-ba13-426c-9be4-24e6d6da764c")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -116563,6 +116556,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -116712,12 +116711,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/14a0c23d-b327-4974-aa81-ac93d062bae5")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -116932,6 +116925,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -117081,12 +117080,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/db9e0625-6c5d-41bb-aded-2c0ee6d3b737")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -117301,6 +117294,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -117450,12 +117449,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/e3b1f385-274b-4914-ad63-4c2e873c40de")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -117670,6 +117663,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -117819,12 +117818,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/a85265f2-49f2-49fd-a18c-07f82fd47320")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -118039,6 +118032,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -118188,12 +118187,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/d4c27de2-0749-413b-ab6b-6b8a076cfbc8")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -118408,6 +118401,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -118557,12 +118556,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/25d718d3-33a3-44ff-8002-10837e9a7300")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -118777,6 +118770,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -118926,12 +118925,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/6d5acfd4-cbf6-4390-83a7-59eeb42639b1")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -119146,6 +119139,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -119295,12 +119294,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/9b7bbb1a-de01-4b40-82c9-dca6b4f99b9c")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -119515,6 +119508,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -119651,12 +119650,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/313d8f02-0fb1-4820-b449-129ae88994a8")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -119871,6 +119864,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Socket_DC-SCM-2.1_2x84_Rev-1-1"
 		(locked yes)
@@ -119977,43 +119976,9 @@
 				)
 			)
 		)
-		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b52fadcd-8b96-479e-a47e-b4dc9eefc252")
+		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/4d31187d-20b2-4667-887c-734e77791137")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "A2" "A3" "A4" "A1" "B28" "B26" "A13" "A14" "A8" "A9" "A10" "A11"
-					"A12" "B58" "A7" "B27" "B64" "B25" "B38" "B35" "B32" "B29" "OB13" "OB10"
-					"B67" "B70" "OA1" "OA4" "OA7" "OA10" "OA13" "OB1" "OB4" "OB7" "A64"
-					"A32" "A35" "A38" "A53" "A29" "A25" "A22" "A19" "A67" "A6" "A70" "A5"
-					"B22" "B11" "B19" "B50" "OB14" "OA14" "A60" "B51" "A63" "B37" "B36"
-					"B69" "B68"
-				)
-			)
-			(unit
-				(name "B")
-				(pins "A15" "A16" "A17" "A18" "A26" "A27" "A43" "A44" "A45" "A46" "A47"
-					"A48" "A49" "A50" "B52" "B53" "B54" "B55" "B56" "B57" "A54" "A55" "A56"
-					"A57" "A58" "A59" "A61" "A62" "B39" "B40" "B41" "B42" "A52" "A51" "B9"
-					"B10" "A39" "A40" "A41" "A42" "B60" "B63" "B59" "B61" "B62"
-				)
-			)
-			(unit
-				(name "C")
-				(pins "B13" "B18" "B12" "B14" "B15" "B16" "B17" "B24" "B23" "B21" "B20"
-					"A24" "A23" "A21" "A20" "B1" "B2" "B3" "B4" "B5" "B6" "B7" "B8" "B43"
-					"B44" "B48" "B49" "B45" "B46" "B47"
-				)
-			)
-			(unit
-				(name "D")
-				(pins "A28" "A37" "A36" "A69" "A68" "OB3" "OB2" "OA3" "OA2" "OB6" "OB5"
-					"OA6" "OA5" "OB9" "OB8" "OA9" "OA8" "OB12" "OB11" "OA12" "OA11" "B31"
-					"B30" "A31" "A30" "B66" "B65" "A66" "A65" "A34" "A33" "B34" "B33"
-				)
-			)
-		)
 		(stackup
 			(layer "F.Cu")
 			(layer "B.Cu")
@@ -124706,6 +124671,39 @@
 				(xyz 0 -180 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "A2" "A3" "A4" "A1" "B28" "B26" "A13" "A14" "A8" "A9" "A10" "A11"
+					"A12" "B58" "A7" "B27" "B64" "B25" "B38" "B35" "B32" "B29" "OB13" "OB10"
+					"B67" "B70" "OA1" "OA4" "OA7" "OA10" "OA13" "OB1" "OB4" "OB7" "A64" "A32"
+					"A35" "A38" "A53" "A29" "A25" "A22" "A19" "A67" "A6" "A70" "A5" "B22"
+					"B11" "B19" "B50" "OB14" "OA14" "A60" "B51" "A63" "B37" "B36" "B69" "B68"
+				)
+			)
+			(unit
+				(name "B")
+				(pins "A15" "A16" "A17" "A18" "A26" "A27" "A43" "A44" "A45" "A46" "A47"
+					"A48" "A49" "A50" "B52" "B53" "B54" "B55" "B56" "B57" "A54" "A55" "A56"
+					"A57" "A58" "A59" "A61" "A62" "B39" "B40" "B41" "B42" "A52" "A51" "B9"
+					"B10" "A39" "A40" "A41" "A42" "B60" "B63" "B59" "B61" "B62"
+				)
+			)
+			(unit
+				(name "C")
+				(pins "B13" "B18" "B12" "B14" "B15" "B16" "B17" "B24" "B23" "B21" "B20"
+					"A24" "A23" "A21" "A20" "B1" "B2" "B3" "B4" "B5" "B6" "B7" "B8" "B43"
+					"B44" "B48" "B49" "B45" "B46" "B47"
+				)
+			)
+			(unit
+				(name "D")
+				(pins "A28" "A37" "A36" "A69" "A68" "OB3" "OB2" "OA3" "OA2" "OB6" "OB5"
+					"OA6" "OA5" "OB9" "OB8" "OA9" "OA8" "OB12" "OB11" "OA12" "OA11" "B31"
+					"B30" "A31" "A30" "B66" "B65" "A66" "A65" "A34" "A33" "B34" "B33"
+				)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -124855,12 +124853,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/8df1cdce-9135-4739-918a-9b041a0de9d2")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -125073,6 +125065,12 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
 			)
 		)
 	)
@@ -125770,12 +125768,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/647f4cf0-4c2f-4d38-8964-11c8f1a78084")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -132718,6 +132710,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -132867,12 +132865,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/143c4989-742e-4725-8ab7-46c5abbb53f0")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -133087,6 +133079,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -133236,12 +133234,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/ccf6d0fb-dc66-41d0-b049-44d58d4df388")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -133456,6 +133448,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -133566,12 +133564,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/9f45b0d8-72de-46db-bc9a-3bc794d10074")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -136610,6 +136602,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -136720,12 +136718,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/8095b3bf-1893-4d21-8cdd-774bc936b523")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -139764,6 +139756,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -139872,12 +139870,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/96817ba8-b7e6-43b6-b5b4-9f37b4204fbf")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -139950,6 +139942,12 @@
 			(uuid "6200f0d7-0416-4a4a-ab09-d531c1ac9ab1")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:LED_0603_1608Metric_G"
 		(layer "F.Cu")
@@ -140073,12 +140071,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/ba1cf7bf-3e7b-496b-beb6-a8111dd06ba6")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -143205,6 +143197,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -143354,12 +143352,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/37f8a900-d745-4821-8519-3357add5f131")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -143574,6 +143566,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -143723,12 +143721,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/beddfdb3-ad28-4976-b339-e215cbeb4ff5")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -143943,6 +143935,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -144092,12 +144090,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/03b4df43-1907-40bb-ada5-41794e6b2afc")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -144312,6 +144304,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -144461,12 +144459,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/f921a73d-abc3-4611-8d5a-906323b898ea")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -144681,6 +144673,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -144789,12 +144787,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/0a44143f-caba-45a3-9e47-f6a532c39dd4")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -144867,6 +144859,12 @@
 			(uuid "680952ac-fffe-4590-bcfe-2510c4ec7b7c")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -145016,12 +145014,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/e3ddc904-bd42-450a-95be-8f3069a67bf5")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -145236,6 +145228,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -145385,12 +145383,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/821da6cb-8b1d-4959-bd4c-ec7ff3c1d3c3")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -145605,6 +145597,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "F.Cu")
@@ -145713,12 +145711,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/0f60e49f-3695-4532-8bf7-cad3fd98a7ca")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -145791,6 +145783,12 @@
 			(uuid "91c27e70-ae6d-4430-b358-12a1ee6385af")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -145940,12 +145938,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/31e4ffd4-5669-45cc-a4e8-1c48eb80a2b4")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -146160,6 +146152,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:LED_0603_1608Metric_G"
 		(layer "F.Cu")
@@ -146283,12 +146281,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/1f60a817-4ea0-4075-b30a-3595dfa5b643")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -149415,6 +149407,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -149564,12 +149562,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/0a99e05a-13a5-4073-be7f-a417d4f944eb")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -149782,6 +149774,12 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
 			)
 		)
 	)
@@ -150466,12 +150464,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/01f8a1bd-6ee0-403d-9109-50a0ca0732af")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -150686,6 +150678,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:L_Coilcraft-XEL4030"
 		(layer "F.Cu")
@@ -150846,12 +150844,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/4442da95-b877-43c5-a505-3fa9d1ad4c57")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -151086,6 +151078,12 @@
 				(xyz -90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_SMD"
 		(layer "F.Cu")
@@ -151196,12 +151194,6 @@
 		(path "/9f13f810-90a8-48dc-abdf-4cc7eee419b8/f07ddd6a-a0ac-4b56-8ec4-538d214a65b3")
 		(sheetname "/Peripherals/")
 		(sheetfile "peripherals.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -154240,6 +154232,12 @@
 				(xyz -90 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "2" "4" "6" "8" "10")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -154389,12 +154387,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/1ee4a20c-5b92-4a77-8fee-9434d0f24375")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -154609,6 +154601,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -154767,12 +154765,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/55832709-be26-4c7a-9421-0e1993514535")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -161715,6 +161707,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -161859,12 +161857,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/5d2d7ec6-8b6e-46e8-8882-184eaec0a508")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -162079,6 +162071,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -162237,12 +162235,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/2e2a4c9d-5b60-4fcb-972a-444d070c2117")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -162457,6 +162449,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -162615,12 +162613,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/12b2ee84-b026-4634-8252-b777c7d7c605")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -162835,6 +162827,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -162993,12 +162991,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/46de8d61-b9f6-4cb5-81e0-17906ce44d52")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -169941,6 +169933,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -170099,12 +170097,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/4756446a-6e93-439d-a3c9-31d08499865e")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -170319,6 +170311,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -170477,12 +170475,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/ea906ba8-8469-45f6-9dad-48eaf034381e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -177425,6 +177417,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -177569,12 +177567,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/e9e68908-7585-4033-8dfc-3690efe2a629")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -177789,6 +177781,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -177947,12 +177945,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/3c6269fa-2320-47d8-8739-3c77fef63f08")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -178167,6 +178159,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -178311,12 +178309,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/086f7560-d748-4c74-ab84-d92a8f09006b")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -178531,6 +178523,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -178675,12 +178673,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/ad277ec9-38d0-4292-8c4c-fdde443f50aa")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -178895,6 +178887,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -179053,12 +179051,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/ab3b565b-6027-4afd-9f5e-916882b90325")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -179273,6 +179265,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -179431,12 +179429,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/ce2b78c5-3f19-45c2-8619-c2dc781fa87e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -179651,6 +179643,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -179809,12 +179807,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/54143bbf-ebce-4999-becb-91f0c1d426ea")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -180029,6 +180021,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -180187,12 +180185,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/32c6cc1e-2fa7-45d6-bef1-80ec11cc90e7")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -187135,6 +187127,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "B.Cu")
@@ -187224,12 +187222,6 @@
 		(path "/4edecbf5-cfa1-41e0-bb78-97e26a63148a")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -187312,6 +187304,12 @@
 			(uuid "e028e731-e63c-4caa-947f-f53aaae76acb")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -187470,12 +187468,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/72f5ecb8-b872-4808-9cb1-b2b09ea6a0ae")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -187690,6 +187682,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -187848,12 +187846,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/d5059c01-006b-4937-b089-8b1df4d17fc3")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -194796,6 +194788,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -194940,12 +194938,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/37fb1984-12ef-47e9-91d7-e7771d618686")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -195160,6 +195152,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -195318,12 +195316,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/622c207b-5654-410e-abf1-f928cdded83e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -202266,6 +202258,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -202410,12 +202408,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/9ad9e34b-43b9-48c5-8e76-2796524f9f4c")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -202630,6 +202622,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "B.Cu")
@@ -202719,12 +202717,6 @@
 		(path "/f5ce47c3-e34b-40dc-8ed0-fcef4e618200")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -202807,6 +202799,12 @@
 			(uuid "bcf9d002-8bd2-4694-8d25-89d561739abf")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -202965,12 +202963,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/e6e38aa9-df8d-42d4-994e-f5cee3e53986")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -203185,6 +203177,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:QFN-2L_1.6x1x0.55mm"
 		(layer "B.Cu")
@@ -203299,12 +203297,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/bc7a4da2-597a-4cc0-b743-c08845669249")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -206371,6 +206363,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -206529,12 +206527,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/3ed835af-b6df-4f3b-a440-ad8214d08d17")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -206749,6 +206741,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -206893,12 +206891,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/1e49ecf8-87be-480c-af09-c034ee3ee8cf")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -207113,6 +207105,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -207271,12 +207269,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/2934fab5-cdb5-45c7-8f1e-83a2d6f1219b")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -207491,6 +207483,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:WSON-6-1EP_2x2mm_P0.65mm"
 		(layer "B.Cu")
@@ -207605,12 +207603,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/f772f7dc-2ff0-4054-8c32-e90fdecfcdba")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "6" "4" "7" "3" "5" "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -209337,6 +209329,12 @@
 				(xyz 0 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "6" "4" "7" "3" "5" "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -209495,12 +209493,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/240c32de-9f31-45c1-ae2d-a7c972771d7e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -216443,6 +216435,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -216601,12 +216599,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/be892f2a-6304-4f59-a2d9-62a0c05a572b")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -223549,6 +223541,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -223707,12 +223705,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/ca2467ca-b930-4ddf-88e6-cc818108c152")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -223927,6 +223919,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -224085,12 +224083,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/96f94602-64a0-4f42-a489-72b518a270d6")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -224305,6 +224297,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -224463,12 +224461,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/9cf4e5a0-e625-46a6-9b06-c6e90667f304")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -224683,6 +224675,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -224841,12 +224839,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/de475805-3f92-44c9-b122-4fb6edb05ee6")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -225061,6 +225053,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -225219,12 +225217,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b35c07ee-3cb2-42eb-8e9e-f95a5a59f1ec")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -225439,6 +225431,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -225597,12 +225595,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/59b510f7-c6f3-4a6b-9f36-c3a1894808ce")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -225817,6 +225809,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -225961,12 +225959,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/d0c5df55-489f-4ba0-896a-5c9726ed7cfe")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -226181,6 +226173,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -226339,12 +226337,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/14a45c81-a9a6-4fbe-98cc-2e51bc94bbf8")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -226559,6 +226551,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0603_1608Metric"
 		(layer "B.Cu")
@@ -226717,12 +226715,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/253e0139-2c4b-499e-99d5-1a2400691a04")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -226957,6 +226949,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -227115,12 +227113,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/7af77533-0702-445a-b971-77fb5af1553e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -234063,6 +234055,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -234221,12 +234219,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/125cfa04-a940-4885-bc36-185ef75a2ac0")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -234441,6 +234433,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -234599,12 +234597,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/2d824bfe-e661-454f-87c6-22d5f2c8ca1a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -241547,6 +241539,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -241705,12 +241703,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/4e392305-37a6-4c84-ac5b-5655e386689b")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -241925,6 +241917,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -242083,12 +242081,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/d12898c8-a4c8-4250-82d0-baeda4fc9db1")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -242303,6 +242295,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "B.Cu")
@@ -242392,12 +242390,6 @@
 		(path "/bcfe4ad4-9395-45b5-9b4a-43c55ba87b1c")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -242480,6 +242472,12 @@
 			(uuid "9f2fd7e6-eebe-4e5c-af7c-5cd3f5d89b7f")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -242638,12 +242636,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/205146e9-e022-4dda-8bfd-a6adb27b4d1a")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -242858,6 +242850,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -243016,12 +243014,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/cb7cb4a1-9241-4f05-a08b-4fe0e798e722")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -243236,6 +243228,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -243394,12 +243392,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/3ab02889-653c-4009-976d-6bea4298f78e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -250342,6 +250334,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -250500,12 +250498,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/bf499ed4-bfd6-41c8-9bd8-4fd7fbef6895")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -250720,6 +250712,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:SC70-3"
 		(layer "B.Cu")
@@ -250834,12 +250832,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/bdfe8a96-990c-4669-930a-aaa8f46c150f")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -267362,6 +267354,12 @@
 				(xyz -90 0 -90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Fiducial_1mm_Mask2mm"
 		(layer "B.Cu")
@@ -267451,12 +267449,6 @@
 		(path "/d6140217-8fc7-4e5e-9437-15836311d247")
 		(sheetname "/")
 		(sheetfile "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
 		(attr exclude_from_bom)
 		(stackup
 			(layer "F.Cu")
@@ -267539,6 +267531,12 @@
 			(uuid "08d2eb4d-1b14-452c-bf1e-6c509dd1e3f9")
 		)
 		(embedded_fonts no)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -267697,12 +267695,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/3bbca50f-35f5-47ab-9773-9d8dad8ef649")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -267917,6 +267909,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -268061,12 +268059,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/cf318507-9260-4f10-9b6a-8e02fdc26bc7")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -268281,6 +268273,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -268439,12 +268437,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/0f6089ce-a12c-4be0-a563-21a67cbcf7ed")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -268659,6 +268651,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -268817,12 +268815,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/dbe364b6-2163-484c-986b-f7d022c2a83e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -269037,6 +269029,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -269195,12 +269193,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/bc5548af-2d32-4cbf-a241-3cd826daa8dd")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -276143,6 +276135,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -276301,12 +276299,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/5159de50-ff18-4193-8014-e3ab0ac49e56")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -283249,6 +283241,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -283407,12 +283405,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/32a46bcb-df16-407a-aa3c-986d16464b71")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -283627,6 +283619,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -283771,12 +283769,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/d51400d9-e4eb-4dad-a436-27722352b4d2")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -283991,6 +283983,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -284149,12 +284147,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/346ca0f8-4be6-45d4-9169-f6d4388eaf8e")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -284369,6 +284361,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -284527,12 +284525,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/6e570255-0a1c-4b30-8c0c-cc1cb4a1b4c5")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -284747,6 +284739,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:QFN-2L_1.6x1x0.55mm"
 		(layer "B.Cu")
@@ -284861,12 +284859,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/3fd985ab-48f4-4025-b08e-fa7d8c6d0c79")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -287933,6 +287925,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -288091,12 +288089,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/91488077-54ee-4196-a82a-8b923db933f6")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -288311,6 +288303,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -288455,12 +288453,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/d16ef1b0-4951-487a-8052-7ace4ddf893d")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -288675,6 +288667,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -288833,12 +288831,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/e5b0c17e-181d-497a-82b4-0903b566ffdc")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -289053,6 +289045,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -289211,12 +289209,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/0466c6b4-8acd-465f-a641-c3634c591b0d")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -296159,6 +296151,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -296317,12 +296315,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/c489124e-889b-4bd3-b8c2-738fb931e775")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -303265,6 +303257,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -303423,12 +303421,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/59a3f58f-16ce-4e77-a912-ea9e42ebb020")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -310371,6 +310363,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:USON-8_2x3mm_P0.5mm"
 		(layer "B.Cu")
@@ -310485,12 +310483,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/4dfc2920-71ea-47d1-a5dc-02ed5ded7dc6")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "5" "2" "3" "7" "6" "1" "8" "EP" "4")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -313428,6 +313420,12 @@
 				(xyz -90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "5" "2" "3" "7" "6" "1" "8" "EP" "4")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -313586,12 +313584,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/d2727bb2-ae49-4595-8bb0-2f10cb9d0384")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -313806,6 +313798,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -313964,12 +313962,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/6bfd1e20-bb66-43fc-942c-5207b95d3658")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -314184,6 +314176,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -314342,12 +314340,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/b7ae0c61-52b6-4400-969c-19aaad2e17d1")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -314562,6 +314554,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -314720,12 +314718,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/dda1c757-208e-4bbc-ab39-5ca04a1c559c")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -314940,6 +314932,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -315084,12 +315082,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/8118f811-0939-4349-af79-52962861dad9")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -315304,6 +315296,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0805_2012Metric"
 		(layer "B.Cu")
@@ -315476,12 +315474,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/e71af435-8319-4d21-afcb-7e700884fea6")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -321076,6 +321068,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -321234,12 +321232,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/04ecab1d-d1db-46c7-b125-562782182ce5")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -321454,6 +321446,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -321612,12 +321610,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/af25d956-a587-4ea9-87d1-755233a345c1")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -328560,6 +328552,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:SOT-523"
 		(layer "B.Cu")
@@ -328674,12 +328672,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/f8081fca-e2a1-4e88-8724-3fc384af3030")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -329423,6 +329415,12 @@
 				(xyz -90 0 180)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -329581,12 +329579,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/5c72a34f-76dc-46a6-95fc-3a60c62afbf9")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -329801,6 +329793,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -329945,12 +329943,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/5c5df669-90ab-4e8f-854c-95bb9506066b")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -330165,6 +330157,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -330323,12 +330321,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/d76363e6-9a96-4a3c-867c-98dfdf2d7b3e")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -330543,6 +330535,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -330701,12 +330699,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/6279f233-d116-48ea-9382-8d67ef9fcad0")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -330921,6 +330913,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -331065,12 +331063,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/57ca7734-abb1-4a50-bc7a-2ba09d2467e1")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -331285,6 +331277,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -331443,12 +331441,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/5b715ba5-75fc-4c43-9ad3-29269727cfac")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -331663,6 +331655,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -331807,12 +331805,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/f74750b6-694c-4a75-8a8a-7580742c5f4a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -332027,6 +332019,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -332185,12 +332183,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/52b73eac-a6df-4972-ba0a-3d2b4583b53e")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -332405,6 +332397,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -332563,12 +332561,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b1ab9185-889e-4cb2-abad-05b107e94a7b")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -332783,6 +332775,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -332927,12 +332925,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/cbb06b24-3759-4510-9f65-4822a390cd56")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -333147,6 +333139,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -333305,12 +333303,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/15745b3e-fbaf-4906-9b51-032fb2d6803a")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -333525,6 +333517,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -333683,12 +333681,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/dabfd8b9-5106-4133-ad1f-2ceceb8e0183")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -333903,6 +333895,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -334061,12 +334059,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/2362c24c-189b-493a-a3b4-a2eaba11e549")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -341009,6 +341001,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -341167,12 +341165,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/ad0a9a5d-a130-4b7f-b3ad-771fc632067d")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -348115,6 +348107,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -348273,12 +348271,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/7a8221e1-a070-40e1-83a9-3ca06e8dbb81")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -355221,6 +355213,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -355379,12 +355377,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b5ee4603-9d4b-4b22-9edf-e6f18170a868")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -355599,6 +355591,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -355757,12 +355755,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/77a75950-6c37-43b9-948a-b02d728f808c")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -355977,6 +355969,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -356121,12 +356119,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/9b70a046-f46c-4d0c-8628-b43182eeb50e")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -356341,6 +356333,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -356485,12 +356483,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/4f91e894-28f8-4b5f-8019-45d1c41c9b80")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -356705,6 +356697,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -356863,12 +356861,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/76604118-54fb-4ef8-9c8e-25cbc02343c3")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -363811,6 +363803,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:QFN-48-1EP_7x7mm"
 		(layer "B.Cu")
@@ -363925,16 +363923,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/6e13342f-dba5-40e2-a951-7d3630174e5d")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "12" "22" "34" "43" "3" "25" "11" "46" "47" "48" "10" "1" "2" "4"
-					"5" "7" "8" "15" "14" "16" "13" "24" "23" "28" "29" "31" "32" "35" "36"
-					"19" "20" "37" "38" "40" "41" "44" "45" "17" "18" "26" "27" "49" "6"
-					"9" "21" "30" "33" "39" "42"
-				)
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -364687,6 +364675,16 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "12" "22" "34" "43" "3" "25" "11" "46" "47" "48" "10" "1" "2" "4"
+					"5" "7" "8" "15" "14" "16" "13" "24" "23" "28" "29" "31" "32" "35" "36"
+					"19" "20" "37" "38" "40" "41" "44" "45" "17" "18" "26" "27" "49" "6"
+					"9" "21" "30" "33" "39" "42"
+				)
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -364831,12 +364829,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/6e879a72-9130-4624-8dba-9f6cc9da04e1")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -365051,6 +365043,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:SOD-523"
 		(layer "B.Cu")
@@ -365165,12 +365163,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/b6d5abe8-59c5-48c5-9ef3-292d8dda8b82")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -365596,6 +365588,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -365754,12 +365752,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/c87710d6-a407-44e3-b68f-b4721d9893e1")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -372702,6 +372694,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -372860,12 +372858,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/2b85b67c-6301-4b40-9c12-990b3d6d7484")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -373080,6 +373072,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -373238,12 +373236,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/115b686f-9155-49f3-97ea-6b5df0c94511")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -373458,6 +373450,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0805_2012Metric"
 		(layer "B.Cu")
@@ -373630,12 +373628,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/00d03775-1236-4bb4-b5a2-bbb2116d1900")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -379230,6 +379222,12 @@
 				(xyz 90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -379388,12 +379386,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/19290888-86f3-4f7f-ba95-f92e888772a6")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -379608,6 +379600,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -379766,12 +379764,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/1fd3a51f-e5ef-4d96-a3a6-aa19284c3bf3")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -379986,6 +379978,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -380144,12 +380142,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/32abf7aa-e39a-4e80-8742-98950e668e64")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -387092,6 +387084,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -387250,12 +387248,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/6b546ea0-0f99-44b7-a2b9-7fa0be4e9148")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -387470,6 +387462,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -387628,12 +387626,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/88b3d705-2033-4719-9cdd-3d5925f27a99")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -387848,6 +387840,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -388006,12 +388004,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/f0971fa3-c229-4a5d-8612-ee4272f6cd7e")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -394954,6 +394946,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:Resonator_SMD_ECS_ECX-1247_1.6x1.2x0.3mm"
 		(layer "B.Cu")
@@ -395082,12 +395080,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/952257f8-2978-4a59-b3d0-1700146ef971")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "4" "3")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -395611,6 +395603,12 @@
 				(xyz -90 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "4" "3")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -395769,12 +395767,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/ed3ec661-4fb2-49b4-ad79-6d8508bf8486")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -395989,6 +395981,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:SC70-3"
 		(layer "B.Cu")
@@ -396103,12 +396101,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/b957ff65-8aca-4e16-a234-6f12d7af3f40")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -412631,6 +412623,12 @@
 				(xyz -90 0 -90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -412789,12 +412787,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/75ffa6bb-e878-40a5-82a5-ea2b0f642ce7")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -413009,6 +413001,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -413167,12 +413165,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/25779d67-6d30-4de6-9679-f652f37c7a4b")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -413387,6 +413379,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -413545,12 +413543,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/563296ee-3ce1-4c49-8792-e9ad4482cfcd")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -413765,6 +413757,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -413923,12 +413921,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/c9bbaf7b-a01f-4e32-afd2-dbed44e1d363")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -414143,6 +414135,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -414301,12 +414299,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/03ba475d-f1c5-442e-b158-8c844c7b0551")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -414521,6 +414513,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -414679,12 +414677,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/c65bde27-f64d-4e9d-8716-89cf1815944b")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -414899,6 +414891,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -415043,12 +415041,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/b0193260-38bc-4c1b-8aa5-9d5045c6834d")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -415263,6 +415255,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -415421,12 +415419,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/aa7bb206-d375-4f74-af9f-bb0132489ed4")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -422369,6 +422361,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -422513,12 +422511,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/81ef66fe-c1b7-405f-b94f-d7e9d3694a9a")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd exclude_from_bom dnp)
 		(stackup
 			(layer "F.Cu")
@@ -422733,6 +422725,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -422891,12 +422889,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/2be98a9c-7e0d-4f0d-b325-18dd4fcf3eda")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -429839,6 +429831,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -429997,12 +429995,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/b29b7324-2b80-4527-9ac9-447785398910")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -430217,6 +430209,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -430375,12 +430373,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/9a633434-3f21-460b-a6cf-5f000f49d293")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -430595,6 +430587,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -430753,12 +430751,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/05a5ad55-f507-4820-84a6-0ac523e8a76c")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -430973,6 +430965,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -431117,12 +431115,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/254d3768-790e-4544-9d2f-e75b51f1e866")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -431337,6 +431329,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:WSON-6-1EP_2x2mm_P0.65mm"
 		(layer "B.Cu")
@@ -431451,12 +431449,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/49f447b2-6e25-49e4-857f-b7fc3ccf1c9b")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "6" "4" "7" "3" "5" "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -433183,6 +433175,12 @@
 				(xyz 0 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "6" "4" "7" "3" "5" "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -433327,12 +433325,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/b2b5ddcb-2812-46a0-b729-5223a15457c5")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -433547,6 +433539,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -433705,12 +433703,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/9b31f532-e284-47a6-a078-2d3038e4afd3")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -440653,6 +440645,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:SOT-523"
 		(layer "B.Cu")
@@ -440767,12 +440765,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/6bbf1650-0a92-4812-a4d8-4c3d7d9443bb")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -441516,6 +441508,12 @@
 				(xyz -90 0 180)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -441674,12 +441672,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/045bc734-94bb-4da5-8fa8-0d645bb509ca")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -441894,6 +441886,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -442052,12 +442050,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/9a8054e6-c39d-400d-bf22-bcad0c0b47f2")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -442272,6 +442264,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -442416,12 +442414,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/921ec567-1a1d-4369-8bc1-58fc15ecffef")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -442636,6 +442628,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -442794,12 +442792,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/78783f22-6437-4aa7-a650-7a2555eb3103")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -449742,6 +449734,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:WSON-6-1EP_2x2mm_P0.65mm"
 		(layer "B.Cu")
@@ -449856,12 +449854,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/79f78d16-39ab-49f9-bc18-650948232523")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "6" "4" "7" "3" "5" "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -451588,6 +451580,12 @@
 				(xyz 0 0 90)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "6" "4" "7" "3" "5" "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -451746,12 +451744,6 @@
 		(path "/847bc336-fbdd-483f-bdc7-8d84fbfe0e01/c29b9ff2-6b01-4994-8994-59d0f4e14c2b")
 		(sheetname "/PCIe to USB/")
 		(sheetfile "pcie_to_usb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -458694,6 +458686,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -458852,12 +458850,6 @@
 		(path "/5a241f79-19ee-4794-a185-a01140921277/fc2ac2b2-8f02-4a84-a5fc-8464b354fcd1")
 		(sheetname "/Flash/")
 		(sheetfile "flash.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -465800,6 +465792,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -465958,12 +465956,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/565976df-53d3-4a08-8a9d-92d8a5081b62")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -466178,6 +466170,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -466336,12 +466334,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/3975544b-8096-47e5-abd6-75b5527f1aa0")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -466556,6 +466548,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -466714,12 +466712,6 @@
 		(path "/427efb0f-90db-4f90-85ea-1b6fff8eef89/94bb8ceb-318b-4d62-afdf-c340abe4b151")
 		(sheetname "/DC-SCI gold fingers connector/")
 		(sheetfile "gold-fingers-connector.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -466934,6 +466926,12 @@
 				(xyz 0 0 0)
 			)
 		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 	)
 	(footprint "antmicro-footprints:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -467078,12 +467076,6 @@
 		(path "/b865e9dd-79f8-46e6-8500-490e6d3d6e45/9571d608-4235-446c-a197-cefd7a4447e5")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(stackup
 			(layer "F.Cu")
@@ -467296,6 +467288,12 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
 			)
 		)
 	)
@@ -509493,7 +509491,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 157.993039 74.739575) (xy 158.038794 74.792379) (xy 158.05 74.84389) (xy 158.05 75.99589) (xy 158.030315 76.062929)
 				(xy 157.977511 76.108684) (xy 157.926 76.11989) (xy 156.774 76.11989) (xy 156.706961 76.100205)
@@ -509522,7 +509520,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 122.253039 76.319685) (xy 122.298794 76.372489) (xy 122.31 76.424) (xy 122.31 77.576) (xy 122.290315 77.643039)
 				(xy 122.237511 77.688794) (xy 122.186 77.7) (xy 121.034 77.7) (xy 120.966961 77.680315) (xy 120.921206 77.627511)
@@ -509551,7 +509549,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 146.743039 75.819685) (xy 146.788794 75.872489) (xy 146.8 75.924) (xy 146.8 77.076) (xy 146.780315 77.143039)
 				(xy 146.727511 77.188794) (xy 146.676 77.2) (xy 145.524 77.2) (xy 145.456961 77.180315) (xy 145.411206 77.127511)
@@ -509580,7 +509578,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 110.279395 71.719685) (xy 110.32515 71.772489) (xy 110.336356 71.824) (xy 110.336356 72.976)
 				(xy 110.316671 73.043039) (xy 110.263867 73.088794) (xy 110.212356 73.1) (xy 109.060356 73.1) (xy 108.993317 73.080315)
@@ -509609,7 +509607,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 148.843039 77.619685) (xy 148.888794 77.672489) (xy 148.9 77.724) (xy 148.9 78.876) (xy 148.880315 78.943039)
 				(xy 148.827511 78.988794) (xy 148.776 79) (xy 147.624 79) (xy 147.556961 78.980315) (xy 147.511206 78.927511)
@@ -509638,7 +509636,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 111.413039 77.879685) (xy 111.458794 77.932489) (xy 111.47 77.984) (xy 111.47 79.032) (xy 111.450315 79.099039)
 				(xy 111.397511 79.144794) (xy 111.346 79.156) (xy 110.473779 79.156) (xy 110.40674 79.136315) (xy 110.360985 79.083511)
@@ -509667,7 +509665,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 153.043039 77.619685) (xy 153.088794 77.672489) (xy 153.1 77.724) (xy 153.1 78.876) (xy 153.080315 78.943039)
 				(xy 153.027511 78.988794) (xy 152.976 79) (xy 151.824 79) (xy 151.756961 78.980315) (xy 151.711206 78.927511)
@@ -509696,7 +509694,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 178.939404 124.434398) (xy 178.984593 124.46172) (xy 179.600049 125.044783) (xy 179.635179 125.105179)
 				(xy 179.632079 125.17498) (xy 179.604851 125.220014) (xy 178.725276 126.14985) (xy 178.664906 126.185025)
@@ -509725,7 +509723,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 181.193039 81.369685) (xy 181.238794 81.422489) (xy 181.25 81.474) (xy 181.25 82.626) (xy 181.230315 82.693039)
 				(xy 181.177511 82.738794) (xy 181.126 82.75) (xy 179.974 82.75) (xy 179.906961 82.730315) (xy 179.861206 82.677511)
@@ -509754,7 +509752,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 157.243039 77.569685) (xy 157.288794 77.622489) (xy 157.3 77.674) (xy 157.3 78.826) (xy 157.280315 78.893039)
 				(xy 157.227511 78.938794) (xy 157.176 78.95) (xy 156.024 78.95) (xy 155.956961 78.930315) (xy 155.911206 78.877511)
@@ -509783,7 +509781,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 115.692818 77.655685) (xy 115.738573 77.708489) (xy 115.749779 77.76) (xy 115.749779 78.912)
 				(xy 115.730094 78.979039) (xy 115.67729 79.024794) (xy 115.625779 79.036) (xy 114.473779 79.036)
@@ -509812,7 +509810,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 183.929404 124.564398) (xy 183.974593 124.59172) (xy 184.590049 125.174783) (xy 184.625179 125.235179)
 				(xy 184.622079 125.30498) (xy 184.594851 125.350014) (xy 183.715276 126.27985) (xy 183.654906 126.315025)
@@ -509841,7 +509839,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 181.499404 124.424398) (xy 181.544593 124.45172) (xy 182.160049 125.034783) (xy 182.195179 125.095179)
 				(xy 182.192079 125.16498) (xy 182.164851 125.210014) (xy 181.285276 126.13985) (xy 181.224906 126.175025)
@@ -509870,7 +509868,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 119.692818 77.655685) (xy 119.738573 77.708489) (xy 119.749779 77.76) (xy 119.749779 78.912)
 				(xy 119.730094 78.979039) (xy 119.67729 79.024794) (xy 119.625779 79.036) (xy 118.473779 79.036)
@@ -509899,7 +509897,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 152.664334 74.18018) (xy 152.708681 74.208681) (xy 153.683319 75.183319) (xy 153.716804 75.244642)
 				(xy 153.71182 75.314334) (xy 153.683319 75.358681) (xy 152.808681 76.233319) (xy 152.747358 76.266804)
@@ -509928,7 +509926,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 113.403039 79.639685) (xy 113.448794 79.692489) (xy 113.46 79.744) (xy 113.46 80.019999) (xy 113.486909 80.073817)
 				(xy 113.5 80.129272) (xy 113.5 80.896) (xy 113.480315 80.963039) (xy 113.427511 81.008794) (xy 113.376 81.02)
@@ -509957,7 +509955,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 150.515677 75.719685) (xy 150.536319 75.736319) (xy 150.963681 76.163681) (xy 150.997166 76.225004)
 				(xy 151 76.251362) (xy 151 76.976) (xy 150.980315 77.043039) (xy 150.927511 77.088794) (xy 150.876 77.1)
@@ -509986,7 +509984,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 142.543039 75.819685) (xy 142.588794 75.872489) (xy 142.6 75.924) (xy 142.6 77.076) (xy 142.580315 77.143039)
 				(xy 142.527511 77.188794) (xy 142.476 77.2) (xy 141.324 77.2) (xy 141.256961 77.180315) (xy 141.211206 77.127511)
@@ -510015,7 +510013,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 117.673039 76.090611) (xy 117.718794 76.143415) (xy 117.73 76.194926) (xy 117.73 77.346926)
 				(xy 117.710315 77.413965) (xy 117.657511 77.45972) (xy 117.606 77.470926) (xy 116.454 77.470926)
@@ -510044,7 +510042,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 144.643039 77.619685) (xy 144.688794 77.672489) (xy 144.7 77.724) (xy 144.7 78.876) (xy 144.680315 78.943039)
 				(xy 144.627511 78.988794) (xy 144.576 79) (xy 143.424 79) (xy 143.356961 78.980315) (xy 143.311206 78.927511)
@@ -510073,7 +510071,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 109.592818 76.175685) (xy 109.638573 76.228489) (xy 109.649779 76.28) (xy 109.649779 77.432)
 				(xy 109.630094 77.499039) (xy 109.57729 77.544794) (xy 109.525779 77.556) (xy 108.373779 77.556)
@@ -510102,7 +510100,7 @@
 		)
 		(filled_polygon
 			(layer "F.Mask")
-			(island yes)
+			(island)
 			(pts
 				(xy 140.543039 77.619685) (xy 140.588794 77.672489) (xy 140.6 77.724) (xy 140.6 78.876) (xy 140.580315 78.943039)
 				(xy 140.527511 78.988794) (xy 140.476 79) (xy 139.324 79) (xy 139.256961 78.980315) (xy 139.211206 78.927511)
@@ -529021,7 +529019,7 @@
 		(last_netname "/DC-SCI edge connector/DC-SCM_PCIE0_SGMII.RX0-")
 		(last_status "tuned")
 		(last_track_width 0.17)
-		(last_tuning_length -2.6e-05)
+		(last_tuning_length -0.000026)
 		(max_amplitude 1)
 		(min_amplitude 0.2)
 		(min_spacing 0.6)
@@ -529072,7 +529070,7 @@
 		(last_netname "/DC-SCI edge connector/DC-SCM_PCIE0_SGMII.RX1-")
 		(last_status "tuned")
 		(last_track_width 0.17)
-		(last_tuning_length 1.2e-05)
+		(last_tuning_length 0.000012)
 		(max_amplitude 1)
 		(min_amplitude 0.2)
 		(min_spacing 0.6)
