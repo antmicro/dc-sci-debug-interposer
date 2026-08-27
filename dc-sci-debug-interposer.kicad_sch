@@ -1837,7 +1837,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD2")
 					(unit 1)
@@ -1946,7 +1946,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD7")
 					(unit 1)
@@ -2055,7 +2055,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD3")
 					(unit 1)
@@ -2163,7 +2163,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD1")
 					(unit 1)
@@ -2271,7 +2271,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD4")
 					(unit 1)
@@ -2380,7 +2380,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD6")
 					(unit 1)
@@ -2489,7 +2489,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD5")
 					(unit 1)
@@ -2598,7 +2598,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(reference "FD8")
 					(unit 1)
@@ -3115,7 +3115,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(page "2")
 				)
@@ -3631,7 +3631,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(page "3")
 				)
@@ -3687,7 +3687,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(page "5")
 				)
@@ -3773,7 +3773,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(page "6")
 				)
@@ -4189,7 +4189,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(page "4")
 				)
@@ -4255,7 +4255,7 @@
 			)
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482"
 					(page "7")
 				)

@@ -13861,7 +13861,7 @@
 			(uuid "2ba76e88-2971-480d-88b9-f9a0efcff7b1")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
 					(reference "J2")
 					(unit 2)
@@ -14501,7 +14501,7 @@
 			(uuid "2ba76e88-2971-480d-88b9-f9a0efcff7af")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
 					(reference "J2")
 					(unit 1)
@@ -15141,7 +15141,7 @@
 			(uuid "2ba76e88-2971-480d-88b9-f9a0efcff7ae")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
 					(reference "J2")
 					(unit 4)
@@ -15220,7 +15220,7 @@
 			(uuid "c772dcf2-b418-49ed-b9ec-8396bfff9baa")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
 					(reference "#FLG04")
 					(unit 1)
@@ -15332,7 +15332,7 @@
 			(uuid "36cb3bab-8d3c-4eec-b150-c831fcd8ec14")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
 					(reference "#PWR02")
 					(unit 1)
@@ -15971,7 +15971,7 @@
 			(uuid "4ba9b2dc-4ca1-4560-b115-6eae7950d37c")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
 					(reference "J2")
 					(unit 3)
@@ -16050,7 +16050,7 @@
 			(uuid "692e4eda-0f41-4e3a-a0c1-7d00340769c6")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/4f1fea13-807c-4730-b7d5-3b9bd920ecdd"
 					(reference "#FLG03")
 					(unit 1)

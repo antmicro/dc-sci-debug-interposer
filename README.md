@@ -2,7 +2,7 @@
 
 Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
 
-![](./img/dc-scm-server-integration-dc-scm-debug-interposer.png)
+![](./img/dc-sci-debug-interposer.png)
 
 ## Overview
 

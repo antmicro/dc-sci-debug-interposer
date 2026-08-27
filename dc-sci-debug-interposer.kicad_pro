@@ -796,7 +796,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dc-scm-server-integration-dc-scm-debug-interposer.kicad_pro",
+    "filename": "dc-sci-debug-interposer.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -2054,7 +2054,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "TEST-dc-scm-server-integration-dc-scm-debug-interposer",
+      "plot": "TEST-dc-sci-debug-interposer",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -2345,7 +2345,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "dc-scm-server-integration-dc-scm-debug-interposer.kicad_sch",
+        "filename": "dc-sci-debug-interposer.kicad_sch",
         "name": "Root",
         "uuid": "4e753ac4-580e-447a-b828-7025703de482"
       }

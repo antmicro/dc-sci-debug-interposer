@@ -5819,7 +5819,7 @@
 			(uuid "ec46934b-fae1-4976-a5c4-d53334dc5518")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR023")
 					(unit 1)
@@ -5931,7 +5931,7 @@
 			(uuid "23350eeb-f22f-490d-9541-29c946f98ad1")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR016")
 					(unit 1)
@@ -6043,7 +6043,7 @@
 			(uuid "7be1f27d-d7ee-45b3-8aaf-ebc32c147219")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR012")
 					(unit 1)
@@ -6206,7 +6206,7 @@
 			(uuid "585f4939-f64b-44ea-9dc0-6d3fda7f81df")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J4")
 					(unit 1)
@@ -6318,7 +6318,7 @@
 			(uuid "c9f3cdd4-ef35-44b5-a8ed-af3ed54d61cd")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR05")
 					(unit 1)
@@ -6430,7 +6430,7 @@
 			(uuid "1dd8b59a-6235-4c64-a7ee-b190af6930cf")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR045")
 					(unit 1)
@@ -6542,7 +6542,7 @@
 			(uuid "af4c64a2-0597-4f36-a274-1f05ff3e6028")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR027")
 					(unit 1)
@@ -6654,7 +6654,7 @@
 			(uuid "e9aa324a-8665-413f-83f1-fbb7a26d86e9")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR08")
 					(unit 1)
@@ -6766,7 +6766,7 @@
 			(uuid "021f171c-f545-43ce-b447-fbb34f823b1f")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR013")
 					(unit 1)
@@ -6878,7 +6878,7 @@
 			(uuid "fdbf3c14-4276-48a1-9f7d-de5efea7405d")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR028")
 					(unit 1)
@@ -7041,7 +7041,7 @@
 			(uuid "2f2b7943-18bc-4a24-9f5b-56cb3424d8a2")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J5")
 					(unit 1)
@@ -7153,7 +7153,7 @@
 			(uuid "90574a80-2482-4003-bdc1-df2cd7180156")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR015")
 					(unit 1)
@@ -7316,7 +7316,7 @@
 			(uuid "d8578285-006f-4e6a-861e-924b30f32a88")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J7")
 					(unit 1)
@@ -7428,7 +7428,7 @@
 			(uuid "1851c766-1095-4b2b-80ab-ab518777c493")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR026")
 					(unit 1)
@@ -7591,7 +7591,7 @@
 			(uuid "4cbc3a2a-6c1b-4e85-a765-323a48a63f39")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J6")
 					(unit 1)
@@ -7703,7 +7703,7 @@
 			(uuid "a52f1347-e6f6-409f-b40b-057b67df06c6")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR09")
 					(unit 1)
@@ -7866,7 +7866,7 @@
 			(uuid "ae0e9bf9-35ff-46dd-ad2c-391832b4d9d6")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J11")
 					(unit 1)
@@ -8029,7 +8029,7 @@
 			(uuid "ed9c709b-0bca-4b5c-807f-f006b859dd61")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J9")
 					(unit 1)
@@ -8141,7 +8141,7 @@
 			(uuid "a256e331-7ef5-4956-a84f-6358cae7af5f")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR022")
 					(unit 1)
@@ -8304,7 +8304,7 @@
 			(uuid "c14dd617-728e-48c8-a1f9-c0926ab5f7e9")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J12")
 					(unit 1)
@@ -8467,7 +8467,7 @@
 			(uuid "fb0cc02b-d4d2-45aa-ba3b-b4e81426c6f1")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J10")
 					(unit 1)
@@ -8579,7 +8579,7 @@
 			(uuid "8b446868-e5c6-4a3f-90f6-83ff825504d1")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR014")
 					(unit 1)
@@ -8742,7 +8742,7 @@
 			(uuid "80ba9615-e417-4aea-9216-f5ed068d572b")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J3")
 					(unit 1)
@@ -8854,7 +8854,7 @@
 			(uuid "e935a62f-c875-4244-93e0-88e242837b2f")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR06")
 					(unit 1)
@@ -8966,7 +8966,7 @@
 			(uuid "616e7106-71c6-45c4-aa8e-7fafd86525b5")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR025")
 					(unit 1)
@@ -9129,7 +9129,7 @@
 			(uuid "b5b5fece-45e3-45c2-ae2b-5fc4f3ef531b")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J17")
 					(unit 1)
@@ -9241,7 +9241,7 @@
 			(uuid "413845f7-0c56-4703-a12e-d7e3b069bf22")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR07")
 					(unit 1)
@@ -9404,7 +9404,7 @@
 			(uuid "794c5178-5ea0-4766-a827-770621352839")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "J13")
 					(unit 1)
@@ -9515,7 +9515,7 @@
 			(uuid "f70ff64f-14f0-4e19-9aef-5a334d19da61")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR010")
 					(unit 1)
@@ -9627,7 +9627,7 @@
 			(uuid "4bee3f90-9e08-44d3-a6a9-5df5624ee7d9")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR024")
 					(unit 1)
@@ -9739,7 +9739,7 @@
 			(uuid "e6c7356b-3963-47da-87b5-00a9d8ec67d6")
 		)
 		(instances
-			(project "dc-scm-server-integration-dc-scm-debug-interposer"
+			(project "dc-sci-debug-interposer"
 				(path "/4e753ac4-580e-447a-b828-7025703de482/9f13f810-90a8-48dc-abdf-4cc7eee419b8"
 					(reference "#PWR043")
 					(unit 1)
