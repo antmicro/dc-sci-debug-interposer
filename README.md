@@ -6,10 +6,9 @@ Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
 
 ## Overview
 
-This project contains open hardware design files for a Data Center Secure Control Modules (DC-SCM) interposer board exposing IO interfaces offered by Data Center Secure Control Interface (DC-SCI) rev.2.x.
-This board aids DC-SCM software development and server platforms bringup. All single ended signals are exposed on 2.54 mm headers to simplify the debugging setup. Onboard SOP-16 sockets provide easy way for BIOS injection.
-Board also exposes two USB headers connected to PCIE_HPMROOT_5 (compatible with HPM Common Circuit Type 1 Design Specification).
-The design files were prepared in KiCad 10.
+The open hardware Data Center Secure Control Module (DC-SCM) Debug Interposer exposes IO interfaces provided by the Data Center Secure Control Interface (DC-SCI) rev.2.x.
+It aids DC-SCM software development and server platform bringup. All single-ended signals are exposed on 2.54 mm headers to simplify the debugging setup. The on-board SOP-16 sockets provide an easy way for BIOS injection.
+The DC-SCM Debug Interposer board also exposes two USB headers connected to PCIE_HPMROOT_5 (compatible with HPM Common Circuit Type 1 Design Specification).
 
 ## Key features
 
