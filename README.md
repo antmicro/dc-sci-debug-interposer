@@ -1,4 +1,4 @@
-# DC-SCM Debug Interposer
+# DC-SCI Debug Interposer
 
 Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
 
@@ -6,9 +6,9 @@ Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
 
 ## Overview
 
-The open hardware Data Center Secure Control Module (DC-SCM) Debug Interposer exposes IO interfaces provided by the Data Center Secure Control Interface (DC-SCI) rev.2.x.
+The open hardware Data Center Secure Control Interface (DC-SCI) Debug Interposer exposes IO interfaces provided by the DC-SCI rev.2.x.
 It aids DC-SCM software development and server platform bringup. All single-ended signals are exposed on 2.54 mm headers to simplify the debugging setup. The on-board SOP-16 sockets provide an easy way for BIOS injection.
-The DC-SCM Debug Interposer board also exposes two USB headers connected to PCIE_HPMROOT_5 (compatible with HPM Common Circuit Type 1 Design Specification).
+The DC-SCI Debug Interposer board also exposes two USB headers connected to PCIE_HPMROOT_5 (compatible with HPM Common Circuit Type 1 Design Specification).
 
 ## Key features
 
